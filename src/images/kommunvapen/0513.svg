@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+   
+xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+<metadata
+ id="metadata14"><rdf:RDF>
+      
+ <cc:Work
+ rdf:about="">
+  <dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+   <cc:license
+  rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+
+     <dc:title>Kinda kommunvapen</dc:title>
+     <dc:date>16-01-2007</dc:date>
+     <dc:creator>
+      <cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent>
+     </dc:creator>
+
+ </cc:Work>
+ <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+
+  <cc:permits 
+ rdf:resource="http://web.resource.org/cc/Reproduction" />
+
+  <cc:permits
+  rdf:resource="http://web.resource.org/cc/Distribution" />
+  <cc:requires rdf:resource="http://web.resource.org/cc/Notice" />
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/Attribution" />
+
+  <cc:permits  rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/ShareAlike" />
+       </cc:License>
+
+</rdf:RDF>
+</metadata>
+  <defs
+     id="defs4168" />
+  <g
+     id="Kinda_kommunvapen">
+    <path
+       d="M 1.4495603,1.4395041 L 125.50006,1.4395041 L 249.55061,1.4395041 L 249.55061,174.9361 C 250.31785,268.65698 169.26117,302.75585 125.50008,302.75585 C 82.506226,302.75585 0.68233088,268.65698 1.4495603,174.9361 L 1.4495603,1.4395041 z "
+       style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Shield" />
+    <path
+       d="M 25.504319,30.654417 L 125.49995,30.654417 L 225.49564,30.654417 L 225.49564,170.508 C 226.1141,246.05532 160.77528,273.54201 125.49997,273.54201 C 90.843139,273.54201 24.885864,246.05532 25.504319,170.508 L 25.504319,30.654417 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.51065755;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Inner_Shield" />
+    <g
+       transform="matrix(0.14721,0,0,0.14721,81.88675,52.34628)"
+       style="fill:#eeeeee;fill-opacity:1"
+       id="Korsat_Moline_kors">
+      <g
+         transform="matrix(0.175,0,0,0.175,-52.5,-52.5)"
+         style="fill:#eeeeee;fill-opacity:1;stroke:none"
+         id="g10">
+        <path
+           d="M 1778.89,4165.9029 L 2221.1,4165.9029 L 2221.1,2221.1 L 3200,2221.1 C 3322.11,2221.1 3421.1,2320.1 3421.1,2442.21 C 3500.1,2396.6 3548.76,2312.32 3548.76,2221.11 C 3548.76,2129.89 3500.1,2045.61 3421.1,2000 C 3500.1,1954.39 3548.76,1870.11 3548.76,1778.9 C 3548.76,1687.68 3500.1,1603.4 3421.1,1557.79 C 3421.1,1679.9 3322.11,1778.9 3200,1778.9 L 2221.1,1778.9 L 2221.1,800 C 2221.1,677.887 2320.1,578.895 2442.21,578.895 C 2396.6,499.902 2312.32,451.24 2221.1,451.24 C 2129.89,451.24 2045.61,499.902 2000,578.895 C 1954.39,499.902 1870.11,451.24 1778.89,451.24 C 1687.68,451.24 1603.4,499.902 1557.79,578.895 C 1679.9,578.895 1778.9,677.887 1778.9,800 L 1778.9,1778.9 L 800,1778.9 C 677.887,1778.9 578.895,1679.9 578.895,1557.79 C 499.902,1603.4 451.24,1687.68 451.24,1778.9 C 451.24,1870.11 499.902,1954.39 578.895,2000 C 499.902,2045.61 451.24,2129.89 451.24,2221.11 C 451.24,2312.32 499.902,2396.6 578.895,2442.21 C 578.895,2320.1 677.887,2221.1 800,2221.1 L 1778.9,2221.1 L 1778.89,4165.9029 z "
+           style="fill:#eeeeee;fill-opacity:1"
+           id="path12" />
+      </g>
+      <use
+         transform="matrix(0,1,-1,0,934.106,340.341)"
+         style="fill:#eeeeee;fill-opacity:1"
+         id="use1881"
+         x="0"
+         y="0"
+         width="595"
+         height="595"
+         xlink:href="#g10" />
+      <use
+         transform="matrix(0,-1,1,0,-341.573,935.341)"
+         style="fill:#eeeeee;fill-opacity:1"
+         id="use1885"
+         x="0"
+         y="0"
+         width="595"
+         height="595"
+         xlink:href="#g10" />
+      <use
+         transform="matrix(1,0,0,-1,0,1275.679)"
+         style="fill:#eeeeee;fill-opacity:1"
+         id="use1887"
+         x="0"
+         y="0"
+         width="595"
+         height="595"
+         xlink:href="#g10" />
+    </g>
+  </g>
+</svg>

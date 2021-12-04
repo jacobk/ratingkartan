@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath2050">
+      <use
+         transform="matrix(1.133135,0,0,1.133135,-10.49119,-34.57981)"
+         id="use2048"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#Shield" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Storuman kommunvapen</dc:title><dc:date>20-10-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55046,1.4396622 L 1.449408,1.4396622 L 1.449408,174.93626 C 0.68216799,268.65714 81.738848,302.75601 125.49994,302.75601 C 168.49379,302.75601 250.31769,268.65714 249.55046,174.93626 L 249.55046,1.4396622 z "
+     style="fill:#eeeeee"
+     id="Shield" />
+  <path
+     d="M 0.5,133.52852 C 0.5,133.52852 250.5,133.52852 250.5,133.52852 C 250.5,133.52852 250.5,65.541873 250.5,65.541873 C 250.5,65.541873 225.60994,45.869566 225.60994,45.869566 C 225.60994,45.869566 89.384883,90.199451 89.384883,90.199451 C 89.384883,90.199451 73.355717,80.155365 73.355717,80.155365 C 73.355717,80.155365 63.062048,85.988089 63.062048,85.988089 L 34.477934,71.890224 L 0.5,91.967433"
+     style="fill:#003d8f"
+     id="Ryfjallet" />
+  <g
+     transform="matrix(0.882507,0,0,0.882507,9.258548,30.51692)"
+     clip-path="url(#clipPath2050)"
+     id="Granskura">
+    <g
+       transform="matrix(0,1.368028,-1.956504,0,586.2357,-274.1127)"
+       id="g2017">
+      <use
+         transform="translate(-7.672481e-8,46.31434)"
+         id="Gran-2"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Gran" />
+      <use
+         transform="translate(-7.672481e-8,-46.31415)"
+         id="Gran-3"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Gran" />
+      <path
+         d="M 376.67788,261.05777 C 376.67788,261.05777 364.28153,256.34039 364.28153,256.34039 C 360.74525,251.89463 356.44827,247.49357 352.81835,243.69557 C 352.92812,246.38353 353.03788,249.43211 353.14764,252.11967 C 349.77121,247.44443 345.08986,242.58405 341.52962,239.35512 C 341.63851,242.3287 341.98304,245.41499 341.90834,248.06781 C 338.33199,243.53816 333.61493,239.17036 330.31341,236.24739 C 330.57453,238.86291 330.9123,241.52462 330.96674,244.02039 C 326.02581,237.66342 323.637,235.72193 318.6954,232.09613 C 323.77137,228.21316 326.25795,226.33927 331.05843,220.2033 C 331.04907,222.78407 330.75224,225.46462 330.46738,227.72391 C 334.09033,224.58847 338.55391,220.80081 342.17708,216.37797 C 342.21105,219.47275 341.95582,222.63848 341.8062,225.09103 C 345.20986,221.51401 349.69303,217.00875 353.09667,212.46614 C 353.04223,215.53802 352.67724,218.3686 352.62192,221.44048 C 356.68565,217.29327 361.29383,212.75659 364.43898,208.28606 C 364.43898,208.28606 376.82836,203.56463 376.82836,203.56463"
+         style="fill:#225500"
+         id="Gran" />
+    </g>
+    <rect
+       width="104.81235"
+       height="276.73593"
+       x="223.59848"
+       y="-272.17841"
+       transform="matrix(0,1,-1,0,0,0)"
+       style="fill:#225500"
+       id="rect2033" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel"
+     id="Frame" />
+</svg>

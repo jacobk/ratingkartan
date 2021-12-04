@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg viewBox="-116 -132 232 278" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="m-114-130v160a114 114 0 0 0 228 0v-160z" fill="#fc4" stroke="#000" stroke-width="2"/>
+<g id="c">
+<g id="a">
+<g id="b">
+<path d="m-18 39c1 1 13 1 18 31 5-30 17-30 18-31l-18-43"/>
+<circle cy="80" r="27"/>
+</g>
+<use transform="scale(-1)" xlink:href="#b"/>
+</g>
+<use transform="rotate(-45)" xlink:href="#a"/>
+</g>
+<use transform="rotate(90)" xlink:href="#c"/>
+</svg>

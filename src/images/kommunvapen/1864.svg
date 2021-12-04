@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Ljusnarsberg kommunvapen</dc:title><dc:date>17-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 91.0625,1.4375 C 85.147414,14.906591 75.5,22.098584 75.5,45.53125 C 75.5,79.325554 95.562503,79.330699 95.5625,113.125 C 95.5625,146.91931 75.5,146.92445 75.5,180.71875 C 75.5,214.51305 95.562503,214.5182 95.5625,248.3125 C 95.5625,272.10011 85.636831,279.15963 79.75,293.03125 C 96.211736,299.72039 112.49848,302.75 125.5,302.75 C 134.00008,302.75 144.02772,301.42538 154.625,298.5625 C 159.86803,280.65115 172.40625,275.05537 172.40625,248.3125 C 172.40625,214.5182 152.34375,214.51304 152.34375,180.71875 C 152.34375,146.92446 172.40626,146.91931 172.40625,113.125 C 172.40625,79.330704 152.34375,79.325554 152.34375,45.53125 C 152.34375,29.6484 156.80239,13.812039 161.5,1.4375 L 125.5,1.4375 L 91.0625,1.4375 z "
+     style="opacity:1;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1"
+     id="Stolpe" />
+  <g
+     transform="matrix(1.660771,0,0,1.666896,-579.9993,-795.73)"
+     style="stroke:#d40000;stroke-opacity:1"
+     id="Venus-Symbol">
+    <path
+       d="M 176,33 C 176,39.075132 171.07513,44 165,44 C 158.92487,44 154,39.075132 154,33 C 154,26.924868 158.92487,22 165,22 C 171.07513,22 176,26.924868 176,33 z "
+       transform="matrix(1.540096,0,0,1.5384,118.8893,454.0543)"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="path3939" />
+    <path
+       d="M 373.00525,521.74399 L 373.00525,543.28159"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#d40000;stroke-width:4.61774349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3941" />
+    <path
+       d="M 363.76467,534.05119 L 382.24582,534.05119"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#d40000;stroke-width:4.61774349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4816" />
+  </g>
+  <use
+     transform="translate(171.546,0)"
+     id="Venus2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Venus-Symbol" />
+  <path
+     d="M 12.633765,212.08568 C 11.844187,203.72982 14.909589,200.2959 12.540881,192.22623 C 14.538022,193.42809 16.25651,195.71737 17.138947,197.66327 C 18.485861,188.96401 19.321885,179.69246 18.671658,171.45111 C 21.644147,172.36679 23.687763,178.77675 24.941765,181.81005 C 28.285828,169.44797 29.168292,158.28778 26.799583,151.64888 C 29.818539,152.04953 31.583466,156.39912 33.627054,161.32105 C 35.624196,158.05884 35.299095,151.30551 35.299095,144.3232 C 35.624196,141.00376 36.088646,137.2837 37.760689,135.50953 C 39.386264,151.13379 45.609954,149.81747 49.09334,167.21593 C 50.34737,163.78203 50.579611,160.06196 50.254483,155.36897 C 54.34168,158.28778 57.917952,169.21905 59.82221,184.84333 C 61.633582,183.69869 62.469599,179.29183 63.166293,174.3127 C 67.11413,181.23772 68.507491,189.87974 66.510356,200.18146 C 65.488562,203.10027 64.838307,206.07632 65.163435,209.39577 C 66.835449,208.13668 67.392812,205.10341 68.368167,202.58518 C 69.064833,206.30527 69.76152,210.71209 69.157745,213.91708 C 67.160577,232.46017 49.920966,235.60057 39.028951,235.50688 C 32.930553,235.4523 14.824924,231.25775 12.633765,212.08568 z "
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="Eld" />
+  <use
+     transform="translate(169.112,0)"
+     id="Eld2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Eld" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

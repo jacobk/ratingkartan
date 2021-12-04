@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath2863">
+      <path
+         d="m 249.55058,1.4395041 -124.0505,0 -124.0505509,0 0,173.4965959 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 c 42.99385,0 124.81775,-34.09887 124.05052,-127.81975 l 0,-173.4965959 z"
+         id="path2865"
+         style="fill:#eeeeee" />
+    </clipPath>
+  </defs>
+  <metadata 
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Ange kopingsvapen</dc:title><dc:date>2010-06-24</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil and Marmelad</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="m 249.55058,1.4395041 -124.0505,0 -124.0505509,0 0,173.4965959 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 c 42.99385,0 124.81775,-34.09887 124.05052,-127.81975 l 0,-173.4965959 z"
+     id="Shield"
+     style="fill:#eeeeee" />
+  <g
+     clip-path="url(#clipPath2863)"
+     id="g4234"
+     style="fill:#225500;stroke:none">
+    <g
+       transform="matrix(0,-0.3663529,0.3663529,0,29.362089,254.73948)"
+       id="grankvistskura">
+      <path
+         d="m 252.41597,313.43108 -62.76399,0.003 14.00301,-14.0034 1e-5,-30.46746 16.212,16.21163 14.128,0 0,-14.12825 -25.817,-26.01477 3.6e-4,-16.1115 16.1115,0 14.12017,14.12017 -0.07,-30.36834 0,2e-5 14.07328,-14.01437 14.07328,14.01437 0,-2e-5 -0.07,30.36834 14.12017,-14.12017 16.1115,0 3.6e-4,16.1115 -25.817,26.01477 0,14.12825 14.128,0 16.212,-16.21163 10e-6,30.46746 14.00301,14.0034 -62.75867,-0.003 z"
+         id="use2907-9" />
+      <use
+         transform="translate(125.52266,0)"
+         id="use2913-2"
+         x="0"
+         y="0"
+         width="500"
+         height="571"
+         xlink:href="#use2907-9" />
+      <use
+         transform="translate(-125.52266,0)"
+         id="use2915-7"
+         x="0"
+         y="0"
+         width="500"
+         height="571"
+         xlink:href="#use2907-9" />
+      <use
+         transform="translate(251.04532,0)"
+         id="use2917-9"
+         x="0"
+         y="0"
+         width="500"
+         height="571"
+         xlink:href="#use2907-9" />
+      <use
+         transform="translate(-251.04532,0)"
+         id="use2919-5"
+         x="0"
+         y="0"
+         width="500"
+         height="571"
+         xlink:href="#use2907-9" />
+      <use
+         transform="translate(376.56798,0)"
+         id="use3198"
+         x="0"
+         y="0"
+         width="500"
+         height="571"
+         xlink:href="#use2907-9" />
+      <use
+         transform="translate(-376.56798,0)"
+         id="use3200"
+         x="0"
+         y="0"
+         width="500"
+         height="571"
+         xlink:href="#use2907-9" />
+    </g>
+    <rect
+       width="145.24138"
+       height="385.69656"
+       x="142.01379"
+       y="-20.172415"
+       id="rect4230" />
+  </g>
+  <g
+     transform="matrix(0.380214,0,0,0.511995,120.2587,19.19356)"
+     id="Smideshamamre"
+     style="fill:#eeeeee">
+    <path
+       d="m 154.67033,45.089573 41.86982,0 c 2.77,0 5,2.23 5,5 l 0,293.509227 c 0,0 -0.47818,28.81497 -25.8594,28.83144 -26.03458,0.0171 -26.01042,-28.83144 -26.01042,-28.83144 l 0,-293.509227 c 0,-2.77 2.23,-5 5,-5 z"
+       id="rect1881" />
+    <path
+       d="m 253.92118,54.806162 c 0,0 -167.870113,0 -167.870113,0 l 0,55.558448 226.413043,0 c 0,0 -24.51044,-16.201057 -58.54293,-55.558448 z"
+       id="rect1878" />
+  </g>
+  <g
+     id="Rings"
+     style="fill:none;stroke:#225500;stroke-width:5">
+    <path
+       d="m 83.11038,54.46553 c 0,15.374467 -12.463468,27.837935 -27.837935,27.837935 -15.374467,0 -27.837935,-12.463468 -27.837935,-27.837935 0,-15.374467 12.463468,-27.837935 27.837935,-27.837935 15.374467,0 27.837935,12.463468 27.837935,27.837935 l 0,0 z"
+       id="path4249" />
+    <path
+       d="m 83.11038,126.07759 c 0,15.37447 -12.463468,27.83793 -27.837935,27.83793 -15.374467,0 -27.837935,-12.46346 -27.837935,-27.83793 0,-15.37447 12.463468,-27.837935 27.837935,-27.837935 15.374467,0 27.837935,12.463465 27.837935,27.837935 l 0,0 z"
+       id="path5220" />
+    <path
+       d="m 83.11038,197.68966 c 0,15.37447 -12.463468,27.83793 -27.837935,27.83793 -15.374467,0 -27.837935,-12.46346 -27.837935,-27.83793 0,-15.37447 12.463468,-27.83793 27.837935,-27.83793 15.374467,0 27.837935,12.46346 27.837935,27.83793 l 0,0 z"
+       id="path5222" />
+  </g>
+  <path
+     d="m 249.55062,1.4395041 -124.0505,0 -124.050551,0 0,173.4965959 c -0.76723996,93.72088 80.28944,127.81975 124.050531,127.81975 42.99385,0 124.81775,-34.09887 124.05052,-127.81975 l 0,-173.4965959 z"
+     id="Frame"
+     style="fill:none;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round" />
+</svg>

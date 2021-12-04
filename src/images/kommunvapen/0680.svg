@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Jonkoping kommunvapen</dc:title><dc:date>14-10-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <g
+     transform="matrix(0.885828,0,0,0.633217,14.27993,-11.21237)"
+     id="Tower">
+    <path
+       d="M 81.042485,46.252093 L 81.042485,61.572667 L 81.137176,61.572667 L 81.137176,79.518259 L 88.854507,79.518259 L 88.854507,195.4964 L 161.54515,195.4964 L 161.54515,79.518259 L 169.97266,79.518259 L 169.97266,61.572667 L 170.06736,61.572667 L 170.06736,46.252093 L 156.43183,46.252093 L 156.43183,60.85675 L 145.58968,60.85675 L 145.58968,46.252093 L 132.19088,46.252093 L 132.19088,60.85675 L 118.68222,60.85675 L 118.68222,46.252093 L 105.28343,46.252093 L 105.28343,60.85675 L 94.441285,60.85675 L 94.441285,46.252093 L 81.042485,46.252093 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:1.52115953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Tower-body" />
+    <path
+       d="M 103.94453,90.887517 L 114.49192,90.887517 L 114.49192,111.93456 L 103.94453,111.93456 L 103.94453,90.887517 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.52722323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Window1" />
+    <path
+       d="M 137.84889,90.887517 L 148.39628,90.887517 L 148.39628,111.93456 L 137.84889,111.93456 L 137.84889,90.887517 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.52722323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Window2" />
+    <path
+       d="M 125.61888,131.51445 C 119.42336,131.51445 114.39434,134.42608 114.39432,138.02511 C 114.39432,138.05707 114.39353,138.08495 114.39432,138.11681 L 114.26605,138.11681 L 114.26605,182.2982 L 136.84344,182.2982 L 136.84344,138.11681 C 136.84425,138.08495 136.84344,138.05707 136.84344,138.02511 C 136.84344,134.42608 131.81442,131.51447 125.61888,131.51445 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.80791521;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Door" />
+  </g>
+  <use
+     transform="matrix(0.775,0,0,0.775,-50.76251,25.4585)"
+     id="Tower-2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Tower" />
+  <use
+     transform="matrix(0.775,0,0,0.775,107.2375,25.4585)"
+     id="Tower-3"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Tower" />
+  <g
+     transform="matrix(0.994771,0,0,0.994771,-2.599567,1.105616)"
+     id="Huvudborg">
+    <path
+       d="M 13.929004,93.389191 L 13.929004,105.42044 L 14.147754,105.42044 L 14.147754,119.54544 L 34.085274,119.54544 L 34.085274,210.70169 L 221.61671,210.70169 L 221.61671,119.54544 L 243.36673,119.54544 L 243.36673,105.42044 L 243.61673,105.42044 L 243.61673,93.389191 L 222.42921,93.389191 L 222.42921,104.85794 L 207.6167,104.85794 L 207.6167,93.389191 L 188.42918,93.389191 L 188.42918,104.85794 L 172.46042,104.85794 L 172.46042,93.389191 L 153.89789,93.389191 L 153.89789,104.85794 L 138.46038,104.85794 L 138.46038,93.389191 L 119.89786,93.389191 L 119.89786,104.85794 L 103.02285,104.85794 L 103.02285,93.389191 L 84.460322,93.389191 L 84.460322,104.85794 L 69.022811,104.85794 L 69.022811,93.389191 L 50.460288,93.389191 L 50.460288,104.85794 L 34.491526,104.85794 L 34.491526,93.389191 L 13.929004,93.389191 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:1.52116024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2336" />
+    <path
+       d="M 128.78663,133.35928 C 112.60044,133.35928 99.461762,150.60139 99.46171,154.60888 C 99.46171,154.64448 99.459646,154.67551 99.46171,154.71099 L 99.126604,154.71099 L 99.126604,205.8026 L 158.11152,205.8026 L 158.11152,154.71099 C 158.11364,154.67551 158.11152,154.64448 158.11152,154.60888 C 158.11152,150.60139 144.9729,133.3593 128.78663,133.35928 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:2.13833809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Port" />
+    <g
+       id="Galler">
+      <path
+         d="M 115.88619,130.98792 L 115.88619,178.84872"
+         style="fill:none;fill-rule:evenodd;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1891" />
+      <use
+         transform="translate(11.59093,0)"
+         id="use3666"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#path1891" />
+      <use
+         transform="translate(23.18186,0)"
+         id="use3668"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#path1891" />
+      <use
+         transform="translate(-11.59093,0)"
+         id="use3670"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#path1891" />
+      <use
+         transform="translate(34.77279,0)"
+         id="use3672"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#path1891" />
+      <use
+         transform="matrix(0,0.664289,-1.505923,0,360.5789,73.59473)"
+         id="use3674"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#path1891" />
+      <use
+         transform="translate(1.931822,10.68942)"
+         id="use3680"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#use3674" />
+      <use
+         transform="translate(0.772729,21.37884)"
+         id="use3682"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#use3674" />
+      <use
+         transform="translate(-0.386364,-10.68941)"
+         id="use3684"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#use3674" />
+    </g>
+    <path
+       d="M 128.78663,133.35928 C 112.60044,133.35928 99.461762,150.60139 99.46171,154.60888 C 99.46171,154.64448 99.459646,154.67551 99.46171,154.71099 L 99.126604,154.71099 L 99.126604,205.8026 L 158.11152,205.8026 L 158.11152,154.71099 C 158.11364,154.67551 158.11152,154.64448 158.11152,154.60888 C 158.11152,150.60139 144.9729,133.3593 128.78663,133.35928 z "
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.13833809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Port-kant" />
+  </g>
+  <path
+     d="M 33.4065,190.18751 C 18.042667,190.18751 12.575519,198.7222 4.219,204.75001 C 18.717654,276.00024 86.73669,302.75001 125.50025,302.75001 C 164.28839,302.75 234.66296,274.9998 247.50025,200.75001 C 241.40828,195.52965 235.4318,190.18751 223.2815,190.18751 C 199.54449,190.18751 199.581,210.62501 175.844,210.62501 C 152.10699,210.62499 152.11226,190.18751 128.37525,190.18751 C 104.63824,190.18751 104.64351,210.62501 80.9065,210.62501 C 57.169484,210.62499 57.143503,190.18751 33.4065,190.18751 z "
+     style="color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeee;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Vagskura" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

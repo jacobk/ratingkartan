@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Gnosjo kommunvapen</dc:title><dc:date>15-01-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#225500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 2.9062501,197.08752 C 3.8517541,203.63702 5.2615361,209.81904 7.0312501,215.68127 L 244.03125,215.68127 C 245.78622,209.81947 247.15696,203.63649 248.09375,197.08752 L 2.9062501,197.08752 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7769559;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="use1893" />
+  <rect
+     width="248.112"
+     height="18.6"
+     x="1.444"
+     y="89.960014"
+     style="fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88800001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="String" />
+  <path
+     d="M 57.527652,6.8567271 C 35.953483,6.8567271 18.444,24.366201 18.444,45.940374 C 18.444,67.514539 35.953483,85.024012 57.527652,85.024012 C 79.101818,85.024012 96.611295,67.514539 96.611295,45.940374 C 96.611295,24.366201 79.101818,6.8567271 57.527652,6.8567271 z M 57.527652,16.627634 C 59.258505,16.627634 60.959779,16.779134 62.608528,17.067327 L 62.608528,32.261093 L 52.446775,32.261093 L 52.446775,17.067327 C 54.095524,16.779134 55.796797,16.627634 57.527652,16.627634 z M 43.848379,20.023029 L 43.848379,32.261093 L 31.610307,32.261093 C 34.366427,27.052607 38.639892,22.779147 43.848379,20.023029 z M 71.206926,20.023029 C 76.415413,22.779147 80.688878,27.052607 83.444996,32.261093 L 71.206926,32.261093 L 71.206926,20.023029 z M 28.654603,40.859497 L 43.848379,40.859497 L 43.848379,51.021244 L 28.654603,51.021244 C 28.36642,49.372501 28.21492,47.671228 28.21492,45.940374 C 28.21492,44.209514 28.36642,42.508241 28.654603,40.859497 z M 52.446775,40.859497 L 62.608528,40.859497 L 62.608528,51.021244 L 52.446775,51.021244 L 52.446775,40.859497 z M 71.206926,40.859497 L 86.400697,40.859497 C 86.688886,42.508241 86.840385,44.209514 86.840385,45.940374 C 86.840385,47.671228 86.688886,49.372501 86.400697,51.021244 L 71.206926,51.021244 L 71.206926,40.859497 z M 31.610307,59.619651 L 43.848379,59.619651 L 43.848379,71.857708 C 38.639892,69.101595 34.366427,64.82813 31.610307,59.619651 z M 52.446775,59.619651 L 62.608528,59.619651 L 62.608528,74.813411 C 60.959779,75.101609 59.258505,75.253109 57.527652,75.253109 C 55.796797,75.253109 54.095524,75.101609 52.446775,74.813411 L 52.446775,59.619651 z M 71.206926,59.619651 L 83.444996,59.619651 C 80.688878,64.82813 76.415413,69.101595 71.206926,71.857708 L 71.206926,59.619651 z "
+     style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.88800001;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+     id="Kvarnhjul" />
+  <use
+     transform="translate(133.057,2.070312e-7)"
+     id="Kvarnhjul-2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Kvarnhjul" />
+  <use
+     transform="translate(-6.859741e-6,107.1201)"
+     id="Kvarnhjul-3"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Kvarnhjul" />
+  <use
+     transform="translate(133.057,107.12)"
+     id="Kvarnhjul-4"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Kvarnhjul" />
+  <use
+     transform="translate(67.2505,212.796)"
+     id="Kvarnhjul-5"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Kvarnhjul" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg3545">
+  <defs
+     id="defs3547" />
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>Odeshog kommunvapen</dc:title><dc:date>08-12-2006</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <path
+     d="M 1.449354,1.4396596 L 125.49985,1.4396596 L 249.5504,1.4396596 L 249.5504,174.93626 C 250.31764,268.65714 169.26096,302.75601 125.49987,302.75601 C 82.506024,302.75601 0.682124,268.65714 1.449354,174.93626 L 1.449354,1.4396596 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.88800001;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <g
+     transform="matrix(-4.726049e-2,-1.365548e-8,-1.365548e-8,4.726049e-2,296.2251,-17.70995)"
+     style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+     id="PastoralCrook">
+    <path
+       d="M 3960,1305 C 3960,1205.5887 3879.4113,1125 3780,1125 C 3680.5887,1125 3600,1205.5887 3600,1305 C 3600,1404.4113 3680.5887,1485 3780,1485 C 3879.4113,1485 3960,1404.4113 3960,1305 z "
+       style="fill:#ffcd50;fill-opacity:1"
+       id="bischof2/kugel-1" />
+    <path
+       d="M 3780,6435 C 3780,6285.8831 3699.4113,6165 3600,6165 C 3500.5887,6165 3420,6285.8831 3420,6435 C 3420,6584.1169 3500.5887,6705 3600,6705 C 3699.4113,6705 3780,6584.1169 3780,6435 z "
+       style="fill:#ffcd50;fill-opacity:1"
+       id="bischof2/kugel-2" />
+    <path
+       d="M 3780,1125 C 3720,1125 3660,1125 3600,1155 C 3540,1185 3480,1245 3450,1335 C 3420,1425 3420,1545 3480,1650 C 3540,1755 3660,1845 3795,1875 C 3930,1905 4080,1875 4200,1800 C 4320,1725 4410,1605 4440,1448 C 4470,1290 4440,1095 4350,945 C 4260,795 4110,690 3930,638 C 3750,585 3540,585 3360,660 C 3180,735 3030,885 2955,1065 C 2880,1245 2880,1455 2925,1620 C 2970,1785 3060,1905 3150,1980 C 3240,2055 3330,2085 3375,2145 C 3420,2205 3420,2295 3420,2385 L 3420,6435 L 3780,6435 L 3780,2385 C 3795,2265 3810,2145 3705,2040 C 3600,1935 3375,1845 3278,1688 C 3180,1530 3210,1305 3278,1155 C 3345,1005 3450,930 3555,892 C 3660,855 3765,855 3870,885 C 3975,915 4080,975 4140,1072 C 4200,1170 4215,1305 4192,1410 C 4170,1515 4110,1590 4005,1628 C 3900,1665 3750,1665 3675,1620 C 3600,1575 3600,1485 3600,1395"
+       style="fill:#ffcd50;fill-opacity:1"
+       id="bischof2/stab-1" />
+    <path
+       d="M 3780,2385 L 3420,2385 C 3362.5159,2368.2262 3300.7148,2389.6935 3266.0076,2438.4909 C 3231.3003,2487.2883 3231.3003,2552.7117 3266.0076,2601.5091 C 3300.7148,2650.3065 3362.5159,2671.7738 3420,2655 L 3780,2655 C 3837.4841,2671.7738 3899.2852,2650.3065 3933.9924,2601.5091 C 3968.6997,2552.7117 3968.6997,2487.2883 3933.9924,2438.4909 C 3899.2852,2389.6935 3837.4841,2368.2262 3780,2385 z "
+       style="fill:#ffcd50;fill-opacity:1;stroke:#d40000;stroke-width:50"
+       id="bischof2/bund-2" />
+  </g>
+  <path
+     d="M 193.84436,206.40404 L 178.95536,178.05074 L 146.95618,179.33313 L 164.06637,152.26221 L 146.95618,125.19133 L 178.95536,126.47372 L 193.84436,98.120412 L 208.73336,126.47372 L 240.73254,125.19133 L 223.62235,152.26221 L 240.73254,179.33313 L 208.73336,178.05074 L 193.84436,206.40404 z "
+     style="fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88800001;stroke-miterlimit:4;stroke-opacity:1"
+     id="6pt star" />
+  <path
+     d="M 106.46996,152.50165 C 106.46996,134.4829 96.53986,118.78001 81.871923,110.52606 C 89.81419,117.23347 94.86189,127.27354 94.86189,138.47524 C 94.86189,158.65412 78.489201,175.02682 58.31032,175.02682 C 38.131437,175.02682 21.758741,158.65412 21.758741,138.47524 C 21.758741,127.29101 26.79329,117.2679 34.714167,110.56061 C 20.073394,118.82203 10.185226,134.50316 10.185226,152.50165 C 10.185226,179.07872 31.73325,200.66129 58.31032,200.66129 C 84.887388,200.66129 106.46997,179.07872 106.46996,152.50165 z "
+     style="fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="Crescent" />
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata 
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Sorsele kommunvapen</dc:title><dc:date>16-02-2008</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil and Marmelad</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="fill:#eeeeee;stroke:none"
+     id="Shield" />
+  <path
+     d="M 1,2.0625 L 1,78.53125 C 1,78.53125 123.21677,4.1708098 125.5,2.78125 C 127.78322,4.1708098 250,78.53125 250,78.53125 L 250,2.0625 L 126.65625,2.0625 L 124.34375,2.0625 L 1,2.0625 z "
+     style="fill:#003d8f;stroke:none"
+     id="use2290" />
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211"
+     id="Frame" />
+  <use
+     transform="matrix(-1,0,0,1,251.00006,0)"
+     id="skida-2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Skida-1" />
+  <path
+     d="M 26.476895,85.198469 C 25.017982,86.937132 32.416144,99.938253 54.614365,118.56477 L 214.00031,252.30546 C 215.29722,253.39371 217.22274,253.22528 218.31099,251.92834 L 223.9854,245.16584 C 225.07366,243.8689 224.89853,241.9513 223.60163,240.86307 C 170.47298,196.28284 64.215682,107.12238 64.215682,107.12238 C 42.011514,88.490874 27.915845,83.483596 26.476895,85.198469 z "
+     style="fill:#003d8f;stroke:#eeeeee;stroke-width:1.04069185"
+     id="Skida-1" />
+  <g
+     transform="translate(0.9000294,0)"
+     id="Vargspjut">
+    <path
+       d="M 122.54875,85.496326 L 121.79928,89.608174 C 112.03942,87.954795 105.96646,88.348635 103.02597,97.954157 C 113.74329,92.151802 117.28345,94.115694 122.36595,95.370874 L 122.20141,285.64704 L 126.57029,285.64704 L 126.57029,95.83935 C 137.11645,97.744576 143.60529,97.760027 146.678,87.722652 C 135.96068,93.525006 132.42052,91.561114 127.33803,90.305934 L 126.58858,85.496326 L 122.54875,85.496326 z "
+       style="fill:#003d8f;stroke:#eeeeee"
+       id="Spjut" />
+    <path
+       d="M 126.38426,279.81927 C 127.57075,279.81927 127.76374,281.58003 127.76374,283.04158 C 127.76374,287.61129 124.86189,291.67421 124.38767,291.84834 C 123.92424,292.01849 121.00684,287.43916 121.00684,283.04158 C 121.00684,281.40936 120.95368,279.81927 122.39097,279.81927"
+       style="fill:#d40000"
+       id="Skoning" />
+    <path
+       d="M 127.07073,88.226878 L 129.60316,88.226878 C 131.15569,54.690998 124.0899,41.224713 123.30125,41.224713 C 122.51261,41.224713 117.72709,54.912294 119.50088,88.226878 L 121.9477,88.226878"
+       style="fill:#d40000"
+       id="Spets" />
+    <path
+       d="M 117.8579,82.064125 C 116.08021,79.138733 113.67136,76.010155 110.59556,72.581688 C 101.88514,62.872482 100.95063,58.78786 107.82341,60.464546 C 109.96361,60.986675 113.52828,60.204258 115.7448,58.725846 C 119.58957,56.161479 120.04868,55.613695 117.68794,49.778399 C 114.1434,41.016664 94.617185,17.383181 107.38506,24.342209 C 114.18063,28.031894 125.21301,42.02992 129.18769,52.005515 C 130.63126,55.628739 132.70957,59.050153 133.80609,59.608695 C 136.81565,61.141648 144.39959,57.835285 146.26244,54.178104 C 148.14093,50.490143 150.54178,50.915028 150.12699,54.862018 C 149.6624,59.283438 147.43944,62.552594 140.07606,69.64299 C 135.05199,74.480807 132.33127,77.961861 131.30129,82.737443"
+       style="fill:#003d8f"
+       id="Hjorthornsslida" />
+  </g>
+</svg>

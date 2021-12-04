@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Ydre kommunvapen</dc:title><dc:date>05-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 1.59375,1.4375 C 5.0865331,10.538147 7.9707005,22.080014 10.875,31.90625 C 17.618486,54.721764 39.766592,39.9411 57.21875,58.65625 C 74.670899,77.371408 60.742733,90.717453 80.6875,106.75 C 99.248338,121.67008 108.05192,107.37887 124.84375,131.28125 C 142.18518,106.90862 149.70101,121.84867 166.78125,108.75 C 187.08726,93.177524 172.79785,79.371408 190.25,60.65625 C 207.70216,41.9411 229.85026,56.721764 236.59375,33.90625 C 239.71297,23.352856 242.80485,10.795563 246.65625,1.4375 L 125.5,1.4375 L 1.59375,1.4375 z "
+     style="color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Vagskura1" />
+  <path
+     d="M 124.84375,131.28125 C 123.41329,132.5004 122.22644,134.21917 120.4375,135.53125 C 100.56044,150.10984 114.42091,164.90987 96.96875,183.625 C 79.516589,202.34014 68.07716,191.65984 50.625,210.375 C 33.768332,228.45154 43.861206,239.02985 28.84375,256.59375 C 56.250248,289.44006 98.158695,302.75 125.5,302.75 C 152.13944,302.74999 193.67908,289.65994 221.25,257.40625 C 220.93389,257.09146 220.61634,256.79458 220.3125,256.46875 C 202.86033,237.75361 214.29593,227.09015 196.84375,208.375 C 179.39159,189.65984 167.95216,200.34014 150.5,181.625 C 133.04784,162.90987 150.56382,149.96719 128.17237,135.53125 C 127.25347,134.93883 125.56837,131.97817 124.84375,131.28125 z "
+     style="fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1"
+     id="Vagskura2" />
+  <g
+     transform="matrix(3.701315e-2,0,0,3.701315e-2,13.74744,20.11217)"
+     style="fill:#000000;fill-opacity:0.75657893;stroke:none"
+     id="Cross-patee">
+    <path
+       d="M 298.255,2422.59 C 1154.81,2777.39 2072.87,2660 3000,2660 C 3927.13,2660 4845.19,2777.39 5701.74,2422.59 L 5701.74,3577.41 C 4845.19,3222.61 3927.13,3340 3000,3340 C 2072.87,3340 1154.81,3222.61 298.255,3577.41 L 298.255,2422.59 z "
+       style="fill:#003d8f;fill-opacity:1"
+       id="path12" />
+    <path
+       d="M 124.84375,131.28125 C 123.41329,132.5004 122.22644,134.21917 120.4375,135.53125 C 116.71055,138.26474 114.15858,141.00785 112.375,143.78125 C 113.02256,173.7829 114.92499,203.34795 103.40625,231.15625 L 146.15625,231.15625 C 134.6375,203.34794 136.57118,173.78291 137.21875,143.78125 C 135.33196,141.04981 132.51591,138.32181 128.1875,135.53125 C 127.26861,134.93883 125.56837,131.97817 124.84375,131.28125 z "
+       transform="matrix(27.01742,0,0,27.01742,-371.4204,-543.379)"
+       style="fill:#eeeeee;fill-opacity:1"
+       id="path14" />
+    <path
+       d="M 103.40625,31.15625 C 114.95702,59.042006 113.01711,88.69375 112.375,118.78125 C 116.17643,120.97401 120.19409,124.66268 124.84375,131.28125 C 129.57559,124.63086 133.55611,120.9147 137.21875,118.75 C 136.57594,88.673208 134.60948,59.032366 146.15625,31.15625 L 103.40625,31.15625 z "
+       transform="matrix(27.01742,0,0,27.01742,-371.4204,-543.379)"
+       style="fill:#eeeeee;fill-opacity:1"
+       id="use5109" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

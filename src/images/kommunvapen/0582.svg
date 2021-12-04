@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Soderkoping kommunvapen</dc:title><dc:date>12-12-2006</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <defs
+     id="defs4168" />
+  <path
+     d="M 1.4583573,1.4396122 L 125.50896,1.4396122 L 249.5596,1.4396122 L 249.5596,174.93601 C 250.32683,268.65678 169.2701,302.75561 125.50898,302.75561 C 82.515097,302.75561 0.69114733,268.65678 1.4583573,174.93601 L 1.4583573,1.4396122 z "
+     style="color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7769559;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 1.44634,1.431036 L 1.44634,37.087286 L 221.60259,257.24354 C 232.25827,244.66383 240.78725,229.18011 245.50884,210.43104 L 36.50884,1.431036 L 1.44634,1.431036 z M 107.19634,1.431036 L 249.57134,143.80604 L 249.57134,73.087286 L 177.91509,1.431036 L 125.50884,1.431036 L 107.19634,1.431036 z M 1.44634,107.80604 L 1.44634,174.93104 C 1.4364218,176.1426 1.4601661,177.3331 1.47759,178.52479 L 125.69634,302.74354 C 141.4713,302.70948 162.04502,298.29418 181.88384,288.24354 L 1.44634,107.80604 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7769559;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Balkar" />
+  <path
+     d="M 64.183868,266.57971 L 53.693205,263.31325 L 46.241248,271.38743 L 43.824752,260.66899 L 33.106332,258.25251 L 41.180505,250.80054 L 37.914044,240.30988 L 48.40471,243.57634 L 55.856672,235.50217 L 58.273156,246.22059 L 68.991588,248.63709 L 60.91741,256.08904 L 64.183868,266.57971 z "
+     style="fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88800001;stroke-miterlimit:4;stroke-opacity:1"
+     id="6-pt-star-dull" />
+  <use
+     transform="matrix(0.707107,-0.707107,0.707107,0.707107,-173.9995,-30.8467)"
+     id="star2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#6-pt-star-dull" />
+  <use
+     transform="matrix(0.707107,-0.707107,0.707107,0.707107,-113.2696,29.8832)"
+     id="star3"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#6-pt-star-dull" />
+  <use
+     transform="matrix(0.707107,-0.707107,0.707107,0.707107,-52.53972,90.61301)"
+     id="star4"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#6-pt-star-dull" />
+  <use
+     transform="matrix(0.707107,-0.707107,0.707107,0.707107,-58.42224,-55.08862)"
+     id="star5"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#6-pt-star-dull" />
+  <use
+     transform="translate(177.3573,-230.6783)"
+     id="star6"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#6-pt-star-dull" />
+  <use
+     transform="matrix(0.707107,-0.707107,0.707107,0.707107,2.307665,5.641232)"
+     id="star7"
+     x="0"
+     y="0"
+     width="1"
+     height="304.04999"
+     xlink:href="#6-pt-star-dull" />
+  <use
+     transform="matrix(0.707107,-0.707107,0.707107,0.707107,-119.1521,-115.8185)"
+     id="star8"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#6-pt-star-dull" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

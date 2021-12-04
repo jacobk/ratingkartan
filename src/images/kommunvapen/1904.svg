@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath2613">
+      <path
+         d="M 249.55061,1.4395026 L 1.4495615,1.4395026 L 1.4495615,174.9361 C 0.6823215,268.65698 81.739002,302.75585 125.50009,302.75585 C 168.49394,302.75585 250.31784,268.65698 249.55061,174.9361 L 249.55061,1.4395026 z "
+         style="fill:#eeeeee;fill-opacity:1;stroke:none"
+         id="path2615" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="fill:#eeeeee;fill-opacity:1;stroke:none"
+     id="Shield" />
+  <g
+     transform="matrix(0.4430357,0,0,0.6139935,18.51638,-406.64756)"
+     id="layer2" />
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel"
+     id="Frame" />
+  <g
+     transform="matrix(0.8116732,0,0,0.8116732,215.11842,-52.6742)"
+     id="g6856">
+    <g
+       transform="matrix(0.464954,-0.390143,0.390143,0.464954,-316.34347,194.95997)"
+       style="fill:#eeeeee;fill-opacity:1"
+       id="Smideshamamre">
+      <path
+         d="M 149.67033,50.089573 C 149.67033,52.859573 159.824,459.65627 159.824,459.65627 C 159.824,459.65627 159.79984,488.50481 185.83442,488.48771 C 211.21564,488.47124 211.69382,459.65627 211.69382,459.65627 C 211.69382,459.65627 201.54015,52.859573 201.54015,50.089573 C 201.54015,47.319573 199.31015,45.089573 196.54015,45.089573 L 154.67033,45.089573 C 151.90033,45.089573 149.67033,47.319573 149.67033,50.089573 z "
+         style="fill:#d40000;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+         id="path6851" />
+      <path
+         d="M 237.42931,54.806162 C 237.42931,54.806162 86.051067,54.806162 86.051067,54.806162 L 86.051071,109.32864 L 312.46411,109.32864 C 312.46411,109.32864 237.42931,54.806162 237.42931,54.806162 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:2.47135496;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1878" />
+    </g>
+    <use
+       transform="matrix(-1,0,0,1,-220.82382,3.1642848e-6)"
+       id="use6847"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#Smideshamamre" />
+  </g>
+</svg>
