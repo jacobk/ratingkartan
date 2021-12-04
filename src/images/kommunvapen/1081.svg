@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata 
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Ronneby kommunvapen</dc:title><dc:date>2006-12-05</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="m 1.4495603,1.4395041 124.0504997,0 124.05055,0 0,173.4965959 c 0.76724,93.72088 -80.28944,127.81975 -124.05053,127.81975 -42.993854,0 -124.81774912,-34.09887 -124.0505197,-127.81975 l 0,-173.4965959 z"
+     id="Shield"
+     style="fill:#003d8f" />
+  <path
+     d="m 1.461,1.4355112 0,46.8749998 c 9.566643,4.640646 21.95528,12.03744 30.96875,22.40625 16.788372,19.312814 4.99288,29.562179 21.78125,48.874999 16.788382,19.31281 28.586602,9.06219 45.375,28.375 16.78838,19.31282 4.99288,29.56219 21.78125,48.875 16.78837,19.31281 28.58661,9.06218 45.375,28.375 16.78838,19.31283 21.75001,48.875 21.75,48.875 0,0 1.67177,3.32706 4.375,7.90625 20.72838,-13.03522 39.43058,-32.7363 49.3125,-60.5625 -12.55818,-17.08943 -3.20945,-27.25071 -18.9375,-45.34375 -16.78838,-19.31283 -28.58662,-9.06219 -45.375,-28.375 -16.78838,-19.3128 -4.99286,-29.56218 -21.78125,-48.874999 -16.78839,-19.31284 -28.58663,-9.062198 -45.375,-28.375 -16.788401,-19.31284 -4.96164,-29.562175 -21.75,-48.875 C 75.368868,5.9558056 65.027692,9.6904002 52.67975,1.4355112 l -51.21875,0 z"
+     id="Stream"
+     style="fill:#eeeeee" />
+  <path
+     d="m 155.45298,31.001084 32.53132,7.184792 8.47083,-32.4035682 10.04346,31.7653512 32.29772,-8.865829 -22.48787,24.580561 23.8269,23.53774 -32.53133,-7.184793 -8.47083,32.403572 -10.04346,-31.765356 -32.29772,8.865831 22.48788,-24.580562 -23.8269,-23.537739 z"
+     id="Star"
+     style="fill:#eeeeee" />
+  <path
+     d="m 61.392928,170.11298 c -16.298754,0 -30.502703,8.9822 -37.96875,22.25 6.067131,-7.18413 15.148821,-11.75 25.28125,-11.75 18.252676,0 33.0625,14.80982 33.0625,33.0625 10e-7,18.25268 -14.809824,33.0625 -33.0625,33.0625 -10.116633,0 -19.182975,-4.55397 -25.25,-11.71875 7.472811,13.24322 21.657074,22.1875 37.9375,22.1875 24.040119,0 43.562502,-19.49113 43.562502,-43.53125 0,-24.04012 -19.522382,-43.56251 -43.562502,-43.5625 z"
+     id="Moon"
+     style="fill:#eeeeee" />
+  <path
+     d="m 1.4495187,1.4395021 124.0505013,0 124.05054,0 0,173.4965979 c 0.76724,93.72088 -80.28944,127.81975 -124.05052,127.81975 -42.99385,0 -124.81775034,-34.09887 -124.0505213,-127.81975 l 0,-173.4965979 z"
+     id="Frame"
+     style="fill:none;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel" />
+</svg>

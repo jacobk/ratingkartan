@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Osthammar kommunvapen</dc:title><dc:date>26-10-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="fill:#ffcd50;fill-opacity:1;stroke:none"
+     id="Shield" />
+  <path
+     d="M 1.1,1.0980119 L 1.1,91.292012 L 249.6,91.292012 L 249.6,1.0980119 L 125.35,1.0980119 L 1.1,1.0980119 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Chef" />
+  <g
+     transform="matrix(1.249927,0,0,1.249935,-438.5389,-597.7566)"
+     style="fill:none;stroke:#ffcd50;stroke-width:5.82811928"
+     id="Mars-Symbol">
+    <path
+       d="M 413.34148,488.5046 L 395.24747,506.49825"
+       id="path26867" />
+    <path
+       d="M 395.03496,536.55287 C 386.82495,544.71735 373.51907,544.7225 365.31544,536.56438 C 357.11182,528.40626 357.117,515.17417 365.32701,507.00969 C 373.53702,498.84521 386.8429,498.84006 395.04653,506.99819 C 403.25015,515.15631 403.24497,528.3884 395.03496,536.55287 L 395.03496,536.55287 z "
+       id="path26871" />
+    <path
+       d="M 397.71396,488.69569 C 413.13091,488.69569 413.13091,488.69569 413.13091,488.69569 L 413.13091,504.02714"
+       id="path27759" />
+  </g>
+  <use
+     transform="translate(81.24985,1.090985e-5)"
+     id="mars-2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Mars-Symbol" />
+  <use
+     transform="translate(162.4999,1.090985e-5)"
+     id="Mars-3"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Mars-Symbol" />
+  <g
+     transform="matrix(2.555996,0,0,2.555996,16.53573,58.5277)"
+     id="Schiff">
+    <g
+       id="Ruder">
+      <path
+         d="M 68.0441,85.5 L 63.0441,85.5 L 63.0441,72 L 66.5441,72 L 66.5441,73.5 L 67.5441,73.5 C 68.0441,73.5 68.5057,73.7637 68.5057,74.2351 C 68.5057,74.7065 68.0441,75 67.5441,75 L 66.5441,75 L 66.5441,76 L 68.0441,77.5 L 68.0441,85.5 z "
+         style="fill:#000000;stroke:#ffcd50;stroke-width:0.30000001;stroke-opacity:1"
+         id="path12" />
+      <polyline
+         style="fill:none;stroke:#ffcd50;stroke-width:0.1"
+         id="polyline14"
+         points="63.0441,79.5 66.0441,79.5 66.0441,78.5 66.0441,80 "
+         class="fil2 str1" />
+      <polyline
+         style="fill:none;stroke:#ffcd50;stroke-width:0.1"
+         id="polyline16"
+         points="63.0441,82.5 66.0441,82.5 66.0441,81.5 66.0441,83 "
+         class="fil2 str1" />
+    </g>
+    <path
+       d="M 41.5441,74 L 43.5441,74 L 43.0441,16.5 C 43.0335,16.2065 42.7653,16.0678 42.5703,16.0582 C 42.3753,16.0486 42.0485,16.2165 42.0441,16.5 L 41.5441,74 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.04;stroke-opacity:1"
+       id="Hauptmast" />
+    <path
+       d="M 58.9459,66.9122 L 60.3338,67.0336 L 63.4778,27.1005 C 63.4883,26.8962 63.3106,26.7836 63.1759,26.7651 C 63.0411,26.7466 62.8041,26.8433 62.7839,27.0398 L 58.9459,66.9122 L 58.9459,66.9122 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.04;stroke-opacity:1"
+       id="Achternmast" />
+    <path
+       d="M 22.2686,67.5188 L 23.6799,67.3953 L 19.7773,26.8519 C 19.7517,26.6455 19.5539,26.5642 19.4157,26.5694 C 19.2775,26.5747 19.0573,26.7133 19.0717,26.9137 L 22.2686,67.5188 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.04;stroke-opacity:1"
+       id="Bugmast" />
+    <g
+       id="Rumpf">
+      <path
+         d="M 62.5441,85.5 L 66.8291,69.3206 C 52.0441,75 33.0441,74.5 15.3202,70.247 L 16.0441,73 L 18.0441,74 C 19.5441,78 21.0441,85.5 30.0441,85.5 L 62.5441,85.5 z "
+         style="fill:#000000;stroke:#ffcd50;stroke-width:0.30000001;stroke-opacity:1"
+         id="path36" />
+      <path
+         d="M 19.1805,71.633 C 20.5441,81.5 27.0441,84 33.0441,84 L 51.5441,84 C 57.5441,84 60.5441,81.5 64.4829,78.2296 L 66.2574,71.5753 C 54.0441,76.5 28.0441,79.5 19.1805,71.633 L 19.1805,71.633 z "
+         style="fill:none;stroke:#ffcd50;stroke-width:0.1;stroke-opacity:1"
+         id="path38" />
+      <path
+         d="M 19.5589,73.6772 C 33.0441,83 55.0441,78 65.8815,72.9851 L 64.8926,76.6937 C 57.5441,85 25.5441,85.5 20.8703,77.3358 C 20.0923,75.7196 19.9254,75.0821 19.5589,73.6772 z "
+         style="fill:none;stroke:#ffcd50;stroke-width:0.1"
+         id="path40" />
+      <path
+         d="M 19.9828,75.1944 C 37.5441,86 60.5441,77.5 65.5604,74.1898 L 65.2253,75.4463 C 55.5441,82.5 30.5441,85 20.5532,76.6563 C 20.3188,76.1684 20.1489,75.6758 19.9828,75.1944 L 19.9828,75.1944 z "
+         style="fill:none;stroke:#ffcd50;stroke-width:0.1"
+         id="path42" />
+    </g>
+    <path
+       d="M 13.5441,62 C 9.5441,57 9.5441,47 12.5441,39.5 L 29.5441,38 C 27.0441,46.5 25.0441,55 29.5441,65.5 C 23.5441,61.5 15.5441,60.5 13.5441,62 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.25;stroke-opacity:1"
+       id="Vordersegel" />
+    <path
+       d="M 4.4836,54.951 L 18.6286,66.0829 L 18.0102,66.8688 L 3.8652,55.7369 C 3.6631,55.5676 3.7074,55.2827 3.8421,55.0834 C 3.9768,54.8841 4.3022,54.8491 4.4836,54.951 L 4.4836,54.951 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.04;stroke-opacity:1"
+       id="Bugspitze" />
+    <polygon
+       points="31.0441,73 27.0441,67 11.0441,65 15.0441,71 31.0441,73 "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.30000001;stroke-opacity:1"
+       id="Bug" />
+    <path
+       d="M 67.5441,70.5 L 71.0441,63 L 54.5441,67 C 54.0441,69.5 53.5441,70.5 51.0441,73 L 67.5441,70.5 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.30000001;stroke-opacity:1"
+       id="Heck" />
+    <path
+       d="M 54.988402,41.318498 L 30.304644,32.617229 C 30.304644,32.617229 30.127792,33.078169 30.127792,33.078169 C 32.231398,33.606522 31.637864,35.905832 33.439311,36.405155 C 34.340033,36.654817 36.638364,35.545198 37.63669,35.880351 C 38.635017,36.215503 38.848732,38.59025 39.839338,39.005364 C 40.818233,39.415568 43.499644,37.912555 44.55994,38.263081 C 45.620237,38.613607 46.114826,40.924672 47.151256,41.251345 C 49.18671,41.892902 52.088265,40.635574 54.625154,41.778891 C 54.625154,41.778891 54.988402,41.318498 54.988402,41.318498 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.25;stroke-opacity:1"
+       id="Hauptsegel" />
+    <path
+       d="M 53.0441,63.5 L 69.0441,31 C 66.5441,43.5 67.5441,52.5 72.0441,62 C 63.9943,57.6253 56.5441,60 53.0441,63.5 z "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.25;stroke-opacity:1"
+       id="Achternsegel" />
+    <polygon
+       points="39.5441,23 45.5441,23 44.0441,29 41.0441,29 39.5441,23 "
+       style="fill:#000000;stroke:#ffcd50;stroke-width:0.30000001;stroke-opacity:1"
+       id="Kraehennest" />
+    <g
+       style="fill:#000000;stroke:#000000"
+       id="Hauptflagge">
+      <path
+         d="M 39.5715,17 C 40.324,16.6096 41.2916,16.6096 42.0441,17 L 42.0441,19.863 C 41.3453,19.4726 40.324,19.4726 39.5715,19.863 L 39.5715,17 z "
+         style="fill:#000000;stroke:#000000;stroke-width:0.04"
+         id="path101" />
+      <path
+         d="M 36.5784,17 L 36.5784,19.863 C 35.2016,19.0938 32.8044,19.4726 31.3729,19.9931 L 33.4551,18.3014 L 30.9825,17.3904 C 32.6743,16.8699 34.7564,16.3493 36.5784,17 L 36.5784,17 z "
+         style="fill:#000000;stroke:#000000;stroke-width:0.04"
+         id="path103" />
+      <path
+         d="M 39.5715,20.6438 C 38.6605,21.0342 37.4893,21.0342 36.5784,20.6438 L 36.5784,17.7808 C 37.4242,18.1712 38.6605,18.1712 39.5715,17.7808 L 39.5715,20.6438 z "
+         style="fill:#000000;stroke:#000000;stroke-width:0.04"
+         id="path105" />
+    </g>
+    <path
+       d="M 62.7309,27.5884 C 60.0441,27 57.0441,27 54.5441,27.5 C 58.5441,28.5 60.5441,30.5 62.2472,32.6129 L 62.7309,27.5884 L 62.7309,27.5884 z "
+       style="fill:#000000;stroke:#000000;stroke-width:0.04"
+       id="Achternflagge" />
+    <path
+       d="M 19.1734,28.2068 C 16.5441,29 13.5441,29 11.0441,28.5 C 13.0441,30 16.0441,32 19.5282,32.7125 L 19.1734,28.2068 L 19.1734,28.2068 z "
+       style="fill:#000000;stroke:#000000;stroke-width:0.04"
+       id="Bugflagge" />
+    <g
+       style="fill:none;stroke:#000000;stroke-width:0.30000001"
+       id="g1972">
+      <path
+         d="M 20.037777,35.5 L 42.615555,29.415552"
+         id="path18" />
+      <path
+         d="M 42.767656,29.827722 L 62.25,36.5"
+         id="path20" />
+      <path
+         d="M 68.614924,32.131764 L 62.25,36.5 L 53.66082,62.636591"
+         id="path22" />
+      <path
+         d="M 42.499635,29.499635 L 54.612776,41.391216"
+         id="path24" />
+      <path
+         d="M 28.906743,64.856044 C 30.906743,68.856044 33.667419,72.223225 38.167419,73.723225"
+         id="path30" />
+      <path
+         d="M 20.4,33.55 L 29.253312,38.246688"
+         id="path69" />
+      <path
+         d="M 12.667444,39.746688 L 20,33.25"
+         id="path26" />
+    </g>
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel"
+     id="Frame" />
+</svg>

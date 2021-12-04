@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath5831">
+      <path
+         d="M 125.53844,189.24337 C 115.35237,189.24337 107.0841,195.94005 107.08406,204.21765 C 107.08406,204.29119 107.08277,204.35529 107.08406,204.42856 L 106.87319,204.42856 L 106.87319,268.64933 L 143.99281,268.64933 L 143.99281,204.42856 C 143.99415,204.35529 143.99281,204.29119 143.99281,204.21765 C 143.99281,195.94005 135.72457,189.2434 125.53844,189.24337 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:1.83333266;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="use5829" />
+    </clipPath>
+    <clipPath
+       id="clipPath3166">
+      <rect
+         width="322.70953"
+         height="118.3"
+         x="-41.042858"
+         y="208.43333"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3168" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#003d8f;fill-opacity:1;stroke:none"
+     id="Shield" />
+  <path
+     d="M 249.55058,0.63707122 L 1.4495295,0.63707122 L 1.4495295,174.13367 C 0.68228955,267.85455 81.73897,301.95342 125.50006,301.95342 C 168.49391,301.95342 250.31781,267.85455 249.55058,174.13367 L 249.55058,0.63707122 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;stroke:none"
+     clip-path="url(#clipPath3166)"
+     id="path2180" />
+  <path
+     d="M 5.8922881,208.43334 L 125.19825,208.43334 L 81.873046,40.238098 L 81.873046,32.190478 L 87.692851,32.190478 L 87.692851,21.326192 L 43.39768,21.326191 L 43.39768,32.190477 L 49.217484,32.190477 L 49.217484,40.238097 L 5.8922881,208.43334 z "
+     style="fill:#eeeeee;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path3174" />
+  <use
+     transform="translate(120.02203,0)"
+     id="use3181"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#path3174" />
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel"
+     id="Frame" />
+</svg>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Heby kommunvapen</dc:title><dc:date>14-10-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath2617">
+      <use
+         transform="matrix(2.171435,0,0,2.171435,-867.9746,-18.06486)"
+         id="use2615"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#Shield" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <g
+     transform="matrix(0.460525,0,0,0.460525,399.724,8.31932)"
+     clip-path="url(#clipPath2617)"
+     id="Wall">
+    <g
+       transform="translate(-1000,-480)"
+       style="fill:#d40000;fill-opacity:1"
+       id="Mur">
+      <path
+         d="M 0,494.19997 L 100,494.19997 L 100,544.19997 L 0,544.19997 L 0,494.19997 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="Sten" />
+      <path
+         d="M 0,554.19999 L 45.00001,554.19999 L 45.00001,604.19999 L 0,604.19999 L 0,554.19999 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="Halv-sten" />
+      <use
+         transform="translate(110,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2000"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(54.99992,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2002"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(220,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2004"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(330,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2006"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(165,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2008"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(440,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2012"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(275,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2010"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(385,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2014"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(0,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2050"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(55.00002,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2054"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(165,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2056"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(275,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2058"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(385,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2060"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(0,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2176"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(110,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2178"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(220,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2180"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(330,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2182"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(440,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2184"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(550,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2186"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(550,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2188"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(495,-59.99996)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2190"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(495,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2192"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(660,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2194"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(660,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2196"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(605,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2198"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(605,-59.99996)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2200"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(715,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2204"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(715,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2206"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(0,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2208"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(715,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2210"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(55,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2212"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(165,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2214"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(275,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2216"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(385,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2224"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(495,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2226"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(605,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2228"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(-3.669734e-6,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2326"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(110,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2328"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(220,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2330"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(330,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2332"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(440,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2334"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(550,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2336"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(660,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2338"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+    </g>
+    <use
+       transform="translate(0,360)"
+       id="use2410"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#Mur" />
+  </g>
+  <path
+     d="M 125.5,1.4375 C 125.5,1.4375 125.5,70.067161 125.5,137.40625 L 249.5625,137.40625 L 249.5625,1.4375 L 125.5,1.4375 z M 125.5,137.40625 L 1.4375,137.40625 L 1.4375,174.9375 C 0.67026003,268.65838 81.738909,302.75 125.5,302.75 C 125.5,302.75 125.5,219.29343 125.5,137.40625 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Field-2-and-3" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+  <path
+     d="M 16.503568,155.86125 C 41.49535,144.55351 74.515185,142.33752 93.721896,169.77653 C 112.91628,197.19792 93.831773,231.45279 46.186827,230.74764 L 46.117617,232.67303 C 47.103181,232.89445 49.302259,234.11738 49.201349,236.33236 C 49.10615,238.42286 46.307355,238.52114 46.183464,240.23852 C 46.036611,242.27409 45.986798,241.561 47.333895,246.06139 C 50.518338,256.70013 46.561696,263.99026 42.951955,263.77174 C 39.252889,263.54779 36.07373,256.68721 39.569753,246.68313 C 41.328035,241.65172 41.524639,241.52904 41.298833,240.1425 C 41.04497,238.58368 38.012008,238.38728 38.025621,235.98339 C 38.039735,233.49701 40.118623,232.7301 41.153176,232.65106 L 41.03227,226.30162 C 80.561871,218.78104 90.658568,198.33255 83.344375,181.89777 C 76.160056,165.75483 61.66277,150.60054 16.503568,155.86125 z "
+     style="fill:#d40000;fill-opacity:1;stroke:#eeeeee;stroke-width:0.99526894;stroke-opacity:1"
+     id="Sickle" />
+  <use
+     transform="matrix(-1,0,0,1,140.816,-2.06528e-7)"
+     id="Sickle-2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Sickle" />
+  <path
+     d="M 83.344375,181.89777 C 76.160056,165.75483 61.66277,150.60054 16.503568,155.86125 C 41.49535,144.55351 74.515185,142.33752 93.721896,169.77653"
+     style="fill:#d40000;fill-opacity:1;stroke:#eeeeee;stroke-width:0.99526894;stroke-opacity:1"
+     id="Sickle-fake" />
+  <g
+     id="Hovtang">
+    <path
+       d="M 142.02563,120.36172 C 155.21133,97.810048 160.47382,77.661475 169.08664,53.127563 C 172.46304,40.388083 176.83274,40.52725 180.98565,37.855592 C 192.64825,34.063365 214.85258,14.528551 197.89375,4.6754517 C 229.68708,5.9710592 196.63946,40.370135 183.19826,48.431554 C 178.6479,50.64865 178.20105,51.614111 177.04351,56.262337 C 167.42239,86.636863 163.15885,99.539878 150.40537,120.42213 C 150.40537,120.42213 155.29221,122.8661 155.29221,122.8661 C 155.29221,122.8661 149.51934,133.03341 149.51934,133.03341 C 139.21325,128.1813 136.41541,129.54802 142.02563,120.36172 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeee;stroke-width:1.58782494;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="use2579" />
+    <path
+       d="M 230.11261,120.3617 C 216.92691,97.810043 211.66442,77.661475 203.05159,53.127557 C 199.67519,40.388083 195.30549,40.527256 191.15258,37.855587 C 179.48998,34.063365 157.28564,14.528553 174.24448,4.6754517 C 142.45115,5.9710624 175.49877,40.370135 188.93998,48.43156 C 193.49033,50.648656 193.93718,51.614111 195.09472,56.262331 C 204.71585,86.636863 210.19385,103.32152 222.94732,124.20376 C 224.59967,126.96334 216.25863,130.33921 217.30462,132.81562 C 218.36446,135.32488 232.93328,128.65152 240.54303,125.52922 C 240.54303,125.52922 235.10974,116.78229 235.10974,116.78229 C 235.10974,116.78229 230.11261,120.3617 230.11261,120.3617 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeee;stroke-width:1.58782494;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="path2581" />
+    <path
+       d="M 188.39271,40.148633 C 188.56937,40.940302 188.30985,41.76605 187.71207,42.314326 C 187.11428,42.862597 186.26923,43.049939 185.49575,42.805668 C 184.72226,42.561397 184.13808,41.922694 183.96361,41.130539 C 183.78695,40.338871 184.04647,39.513117 184.64426,38.964846 C 185.24204,38.416576 186.08709,38.229228 186.86058,38.473499 C 187.63406,38.71777 188.21825,39.356473 188.39271,40.148633 L 188.39271,40.148633 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeee;stroke-width:1.58782494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2583" />
+  </g>
+</svg>

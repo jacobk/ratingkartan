@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="303.20468"
+   id="svg2">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3480">
+      <path
+         d="M -372.54808,459.71959 L -248.49758,459.71959 L -124.44703,459.71959 L -124.44703,633.21619 C -123.67979,726.93707 -204.73647,761.03594 -248.49756,761.03594 C -291.49141,761.03594 -373.31531,726.93707 -372.54808,633.21619 L -372.54808,459.71959 z "
+         style="opacity:0.63500007;color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+         id="path3482" />
+    </clipPath>
+    <clipPath
+       id="clipPath3484">
+      <path
+         d="M -367.62203,465.27543 L -243.57153,465.27543 L -119.52098,465.27543 L -119.52098,638.77203 C -118.75374,732.49291 -199.81042,766.59178 -243.57151,766.59178 C -286.56536,766.59178 -368.38926,732.49291 -367.62203,638.77203 L -367.62203,465.27543 z "
+         style="opacity:0.63500007;color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+         id="path3486" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(368.57151,-464.33127)"
+     id="layer1">
+    <path
+       d="M -367.62203,465.27543 L -243.57153,465.27543 L -119.52098,465.27543 L -119.52098,638.77203 C -118.75374,732.49291 -199.81042,766.59178 -243.57151,766.59178 C -286.56536,766.59178 -368.38926,732.49291 -367.62203,638.77203 L -367.62203,465.27543 z "
+       style="opacity:1;color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       clip-path="url(#clipPath3484)"
+       id="Shield" />
+    <path
+       d="M -119.52089,465.27543 L -243.57139,465.27543 L -367.62194,465.27543 L -367.62194,638.77203 C -368.38918,732.49291 -287.3325,766.59178 -243.57141,766.59178 C -200.57756,766.59178 -118.75366,732.49291 -119.52089,638.77203 L -119.52089,465.27543 z "
+       style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Frame" />
+  </g>
+  <g
+     transform="translate(4.2126963,-4.8566712)"
+     id="g2219">
+    <path
+       d="M 120.78737,178.05808 C 120.78737,178.05808 75.466158,175.65832 75.89369,190.62239 C 76.321252,205.58647 78.031408,241.50024 78.031408,241.92779 L 53.661357,242.35533 C 53.661357,242.35533 56.226637,197.03557 56.226637,175.23077 C 56.226637,153.42599 84.872123,158.55652 87.437403,141.02718 C 90.002683,123.49784 89.147589,99.127772 89.147589,99.127772 L 106.24939,98.272682 C 106.24939,98.272682 106.24939,78.178069 106.24939,66.206809 C 106.24939,54.235553 104.16397,45.607572 113.09011,46.112197 C 116.43669,46.301391 119.28575,46.208938 120.78737,46.211008 C 122.28899,46.208937 125.13806,46.301391 128.48464,46.112198 C 137.41078,45.607573 135.32536,54.235553 135.32536,66.20681 C 135.32536,78.178069 135.32536,98.272682 135.32536,98.272682 L 152.42716,99.127772 C 152.42716,99.127772 151.57207,123.49783 154.13735,141.02718 C 156.70263,158.55652 185.34811,153.42598 185.34811,175.23077 C 185.34811,197.03557 187.91339,242.35533 187.91339,242.35533 L 163.54334,241.92779 C 163.54334,241.50024 165.2535,205.58647 165.68106,190.62239 C 166.10859,175.65832 120.78737,178.05808 120.78737,178.05808 z "
+       style="fill:#eeeeee;fill-rule:evenodd;stroke:#eeeeee;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2213" />
+    <path
+       d="M 112.31052,106.79927 L 129.00533,106.79927 L 129.00533,145.89895 L 112.31052,145.89895 L 112.31052,106.79927 z "
+       style="fill:#003d8f;fill-rule:evenodd;stroke:none;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2186" />
+    <rect
+       width="12.694814"
+       height="46.263706"
+       x="114.31052"
+       y="141.94136"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#003d8f;stroke-width:4;stroke-opacity:1"
+       id="rect2195" />
+    <rect
+       width="41.147755"
+       height="35.562088"
+       x="100.21349"
+       y="206.03796"
+       style="fill:#eeeeee;fill-opacity:1;stroke:#eeeeee;stroke-width:3.99999976;stroke-opacity:1"
+       id="rect2197" />
+  </g>
+  <g
+     transform="translate(5.2709747,0)"
+     id="g3233">
+    <g
+       transform="matrix(0.9364763,0,0,0.9364762,-313.92787,-430.27086)"
+       style="stroke:#eeeeee;stroke-width:4.27133083;stroke-opacity:1"
+       id="Mars-symbol">
+      <g
+         transform="matrix(1.948116,0,0,1.937312,-342.4303,-460.0101)"
+         style="stroke:#eeeeee;stroke-width:2.19864964;stroke-opacity:1"
+         id="g1872">
+        <path
+           d="M 387.95009,489.60348 L 378.66214,498.89143"
+           style="opacity:1;color:#000000;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#eeeeee;stroke-width:2.748312;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+           id="path26867" />
+        <path
+           d="M 49.396475,36.70454 C 49.396475,45.717349 42.401407,53.023675 33.772553,53.023675 C 25.143698,53.023675 18.14863,45.717349 18.14863,36.70454 C 18.14863,27.691731 25.143698,20.385405 33.772553,20.385405 C 42.401407,20.385405 49.396475,27.691731 49.396475,36.70454 L 49.396475,36.70454 z "
+           transform="matrix(0.48802,0.48802,-0.467594,0.467594,371.6094,473.1357)"
+           style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:4.06815767;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+           id="path26871" />
+        <path
+           d="M 379.92823,489.70212 C 387.842,489.70212 387.842,489.70212 387.842,489.70212 L 387.842,497.61589"
+           style="fill:none;fill-rule:evenodd;stroke:#eeeeee;stroke-width:2.748312;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path27759" />
+      </g>
+    </g>
+    <use
+       transform="translate(143.87889,0)"
+       id="use3231"
+       x="0"
+       y="0"
+       width="251"
+       height="303.20468"
+       xlink:href="#Mars-symbol" />
+  </g>
+</svg>

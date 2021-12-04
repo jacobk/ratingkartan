@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg   
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+   
+xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+ 
+version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166"> 
+<metadata
+ id="metadata14"><rdf:RDF>
+      
+ <cc:Work
+ rdf:about="">
+  <dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+   <cc:license
+  rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+
+     <dc:title>Torsas kommunvapen</dc:title>
+     <dc:date>27-01-2007</dc:date>
+     <dc:creator>
+      <cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent>
+     </dc:creator>
+
+ </cc:Work>
+ <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+
+  <cc:permits 
+ rdf:resource="http://web.resource.org/cc/Reproduction" />
+
+  <cc:permits
+  rdf:resource="http://web.resource.org/cc/Distribution" />
+  <cc:requires rdf:resource="http://web.resource.org/cc/Notice" />
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/Attribution" />
+
+  <cc:permits  rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/ShareAlike" />
+       </cc:License>
+
+</rdf:RDF>
+</metadata>  
+
+  <defs
+     id="defs4168" />
+  <g
+     id="Torsas_kommunvapen">
+    <path
+       d="M 1.4495603,1.4395041 L 125.50006,1.4395041 L 249.55061,1.4395041 L 249.55061,174.9361 C 250.31785,268.65698 169.26117,302.75585 125.50008,302.75585 C 82.506226,302.75585 0.68233088,268.65698 1.4495603,174.9361 L 1.4495603,1.4395041 z "
+       style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Shield" />
+    <path
+       d="M 1.4375,1.4375 L 1.4375,125.5625 L 125.5,1.46875 L 249.5625,125.5625 L 249.5625,1.4375 L 125.5,1.4375 L 1.4375,1.4375 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.88800001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Mantelsnitt" />
+    <path
+       d="M 125.5,83.012839 C 93.265818,103.44293 39.126045,106.62094 34.813025,106.84795 C 30.5,107.07495 30.5,110.70696 30.5,110.70696 L 30.5,147.02716 C 105.75089,145.55165 101.32437,161.54329 101.32437,161.54329 L 101.32437,226.45367 C 101.32437,226.45367 101.55934,258.12269 84.980289,258.45367 C 84.464327,258.46397 84.980289,273.69382 84.980289,273.69382 L 166.01972,273.69382 C 166.01972,273.69382 166.31743,258.46441 166.01972,258.45367 C 149.33352,257.85178 149.67563,226.45367 149.67563,226.45367 L 149.67563,161.54329 C 149.67563,161.54329 145.24911,145.55165 220.5,147.02716 L 220.5,110.70696 C 220.5,110.70696 220.5,107.07495 216.18697,106.84795 C 211.87396,106.62094 157.73418,103.44293 125.5,83.012839 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.12051535;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="Thors_hammer" />
+    <path
+       d="M 1.4495187,1.4395021 L 125.50002,1.4395021 L 249.55056,1.4395021 L 249.55056,174.9361 C 250.3178,268.65698 169.26112,302.75585 125.50004,302.75585 C 82.50619,302.75585 0.68228966,268.65698 1.4495187,174.9361 L 1.4495187,1.4395021 z "
+       style="color:#000000;fill:#eeeeee;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Frame" />
+  </g>
+</svg>

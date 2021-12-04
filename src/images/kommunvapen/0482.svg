@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Flen kommunvapen</dc:title><dc:date>31-07-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#225500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 19.15625,63.78125 L 1.4375,84.90625 L 1.4375,101.5625 L 93.625,178.90625 L 18.46875,241.96875 C 25.724563,254.11791 34.830609,264.22005 44.875,272.46875 L 125,205.25 L 205.46875,272.78125 C 215.57034,264.58298 224.74384,254.52709 232.09375,242.4375 L 156.375,178.90625 L 249.5625,100.71875 L 249.5625,86.125 L 230.8125,63.78125 L 125,152.59375 L 19.15625,63.78125 z "
+     style="opacity:1;fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="AndrewsCross" />
+  <path
+     d="M 1.1,1.098484 L 1.1,91.292484 L 249.6,91.292484 L 249.6,1.098484 L 125.35,1.098484 L 1.1,1.098484 z "
+     style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Chef" />
+  <use
+     transform="translate(-71,2.070312e-7)"
+     id="OakLeaf2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.60001"
+     xlink:href="#OakLeaf" />
+  <use
+     transform="translate(71,-2.070312e-7)"
+     id="OakLeaf3"
+     x="0"
+     y="0"
+     width="251"
+     height="304.60001"
+     xlink:href="#OakLeaf" />
+  <path
+     d="M 126.46306,84.086247 C 126.46306,80.217096 126.90192,78.598873 128.26613,77.437711 C 132.25485,74.042646 133.4832,69.300709 130.72821,67.933078 C 129.40911,67.27825 129.62498,66.754308 132.2479,64.244472 C 135.95303,60.699098 139.17582,57.122164 138.38791,55.991288 C 138.06883,55.533306 136.1202,54.885034 135.06071,54.885034 C 133.22446,54.885034 132.66408,53.391171 134.90683,50.733477 C 137.97929,47.092587 140.96963,43.303388 140.96963,41.497004 C 140.96963,40.296843 140.24303,40.128658 136.62223,40.490685 L 132.27484,40.925351 L 135.31556,37.853301 C 138.94524,34.186248 143.30337,26.984744 142.37211,25.648108 C 142.00816,25.125714 140.12931,24.83352 138.19691,24.998774 L 134.68346,25.299259 L 136.37582,21.308977 C 137.57261,19.220705 137.87476,17.289076 137.87476,16.425376 C 137.87476,14.493683 135.81992,14.339696 132.42385,15.509902 L 130.64786,15.96078 L 131.31164,13.684267 C 134.13339,8.7778812 133.89065,7.3706602 130.33149,8.0020982 C 129.28518,8.1877212 128.05116,9.4427882 127.5874,9.3374722 C 127.12364,9.2321592 127.43015,7.7664642 127.43015,7.3432402 C 127.43015,5.3850092 124.61016,5.0360092 123.34201,6.8372902 C 122.93264,7.4187462 123.42862,9.1325492 122.88003,9.3226392 C 122.33143,9.5127202 120.73825,8.1791102 119.9658,8.0071332 C 118.13494,7.5995112 117.75973,7.8604012 117.76272,9.5390632 C 117.76471,10.651836 118.6357,12.827113 119.69823,14.373005 L 120.27603,15.926356 L 118.77556,15.874294 C 114.90349,14.098127 111.95105,14.181447 111.97774,16.06614 C 111.98942,16.891839 112.83852,19.208109 113.86465,21.213398 L 115.73035,24.859363 L 112.44984,24.859363 C 110.64554,24.859363 108.9011,25.244347 108.57329,25.71487 C 107.85132,26.751076 112.62007,35.556232 114.55282,36.979114 C 115.31054,37.536936 116.33456,38.663071 116.8284,39.481599 C 117.62848,40.807706 117.30662,40.919928 113.87429,40.511554 C 110.71328,40.135461 109.91161,40.531201 109.47515,41.623978 C 108.65443,43.678762 113.62178,49.673027 116.10262,52.074959 C 116.63822,52.81821 117.85084,53.36801 117.70937,54.304711 C 116.79169,54.498148 115.87399,54.691593 114.95628,54.885034 C 113.83114,54.885034 112.64457,55.266804 112.3195,55.733419 C 111.45024,56.981016 112.76258,62.280892 118.69935,64.727767 C 119.62773,65.516777 120.55614,66.305778 121.48452,67.094793 C 121.75891,67.611005 117.71038,69.039788 117.72795,71.469385 C 118.23235,74.081663 122.08454,77.18982 122.60872,77.18982 C 123.1439,77.18982 123.56176,79.822597 123.56176,83.194952 C 123.56176,87.96094 123.86108,89.200083 125.01242,89.200083 C 126.13963,89.200083 126.46306,88.059967 126.46306,84.086247 z "
+     style="fill:#225500;fill-opacity:1"
+     id="OakLeaf" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

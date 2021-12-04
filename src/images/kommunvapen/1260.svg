@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Bjuv kommunvapen</dc:title><dc:date>18-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 83.854,1.4435132 L 83.854,294.53726 C 98.98827,300.19808 113.71421,302.75601 125.51024,302.75601 C 137.42965,302.75601 152.12036,300.23745 167.1665,294.66226 L 167.1665,1.4435132 L 125.51024,1.4435132 L 83.854,1.4435132 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88800001;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Stolpe" />
+  <g
+     transform="matrix(1.3,0,0,1.3,-20.1,-26.73871)"
+     id="Fackla">
+    <path
+       d="M 87.11757,96.276188 C 86.42359,88.932062 89.11785,85.913921 87.03593,78.821322 C 88.79126,79.87766 90.30167,81.889755 91.07726,83.600045 C 92.2611,75.954092 92.99588,67.805139 92.42438,60.561652 C 95.03697,61.366462 96.83315,67.000303 97.93531,69.666331 C 100.87448,58.801053 101.65009,48.992137 99.56818,43.157075 C 102.22162,43.509215 103.77283,47.332155 105.56898,51.65814 C 107.32431,48.790918 107.03857,42.855281 107.03857,36.718388 C 107.32431,33.800864 107.73253,30.531231 109.20212,28.971877 C 110.63087,42.704352 116.10099,41.547412 119.16262,56.839267 C 120.26482,53.821143 120.46894,50.551499 120.18317,46.426737 C 123.77549,48.992137 126.91875,58.599851 128.59244,72.332344 C 130.18449,71.326294 130.9193,67.453018 131.53163,63.076761 C 135.00144,69.1633 136.2261,76.758945 134.47079,85.813336 C 133.57271,88.378738 133.00118,90.994447 133.28694,93.911974 C 134.75651,92.805343 135.2464,90.139337 136.10364,87.926015 C 136.71595,91.195676 137.3283,95.068916 136.79761,97.885848 C 135.04227,114.18374 119.89003,116.94391 110.31682,116.86157 C 104.95682,116.81358 89.04342,113.12691 87.11757,96.276188 z "
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="Eld" />
+    <path
+       d="M 122.5,122.65745 C 122.5,158.34698 118.02,245.3124 112.49999,245.3124 C 106.98,245.3124 102.5,158.34698 102.5,122.65745 C 102.5,122.65745 122.5,122.65745 122.5,122.65745 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
+       id="Fackla_del_1" />
+    <path
+       d="M 124.15434,128.26663 C 125.88041,127.676 129.20103,112.89765 126.44596,111.25471 C 116.36711,109.30985 108.27564,108.92739 98.195614,111.04897 C 96.090899,112.59194 99.295714,125.96003 100.76379,128.16091 C 109.15037,129.67187 115.75578,129.38245 124.15434,128.26663 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.43160975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       id="Fackla_del_2" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

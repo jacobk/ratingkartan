@@ -1,11 +1,10 @@
 import React, { useState } from "react";
-import { useTheme, styled } from "@mui/material/styles";
-import useMediaQuery from "@mui/material/useMediaQuery";
+import { styled } from "@mui/material/styles";
 import List from "@mui/material/List";
 import Paper from "@mui/material/Paper";
 import ListItem from "@mui/material/ListItem";
 import Divider from "@mui/material/Divider";
-import coatOfArms from "./CountyCoatOfArms";
+import coatOfArms from "./CoatOfArms";
 import Grid from "@mui/material/Grid";
 import Button from "@mui/material/Button";
 import Menu from "@mui/material/Menu";
@@ -17,23 +16,15 @@ import {
   bindMenu,
 } from "material-ui-popup-state/hooks";
 import { useEffect } from "react";
-import { Avatar, Chip, Typography } from "@mui/material";
+import { Chip, Typography } from "@mui/material";
 import SupervisedUserCircleRoundedIcon from "@mui/icons-material/SupervisedUserCircleRounded";
 import ArrowCircleUpIcon from "@mui/icons-material/ArrowCircleUp";
 import ArrowCircleDownIcon from "@mui/icons-material/ArrowCircleDown";
 import AdjustIcon from "@mui/icons-material/Adjust";
 import TimelapseIcon from "@mui/icons-material/Timelapse";
 import SwapHorizontalCircleIcon from "@mui/icons-material/SwapHorizontalCircle";
-import InsightsIcon from "@mui/icons-material/Insights";
 import { grey } from "@mui/material/colors";
-
-// "count": 106,
-// "mean": 878.3301886792453,
-// "median": 887.5,
-// "stddev": 74.33297367545642,
-// "max": 988,
-// "min": 551,
-// "hist": [
+import { getStats } from "./data";
 
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
@@ -45,20 +36,6 @@ const Item = styled(Paper)(({ theme }) => ({
 const StatChip = styled(Chip)(({ theme }) => ({
   margin: 1,
 }));
-
-function StatsChipOld({ field, sortModel, icon, value, onClick }) {
-  const active = field === sortModel;
-  return (
-    <StatChip
-      variant={!active && "outlined"}
-      {...(active && { color: "primary" })}
-      size="small"
-      icon={icon}
-      label={value}
-      onClick={onClick}
-    />
-  );
-}
 
 function StatsChip({ field, sortModel, icon, value, onClick }) {
   const active = field === sortModel;
@@ -97,15 +74,6 @@ function StatsChip({ field, sortModel, icon, value, onClick }) {
         </Grid>
       </Grid>
     </Grid>
-
-    // <StatChip
-    //   variant={!active && "outlined"}
-    //   {...(active && { color: "primary" })}
-    //   size="small"
-    //   icon={icon}
-    //   label={value}
-    //   onClick={onClick}
-    // />
   );
 }
 
@@ -119,9 +87,15 @@ const sortModels = {
 };
 
 const sortData = (regionData, sortModel) => {
-  console.log("Sorting", sortModel);
+  console.log("Sorting", sortModel, regionData);
   const copy = regionData.concat();
-  return copy.sort((a, b) => b.stats[sortModel] - a.stats[sortModel]);
+  return copy.sort(
+    (a, b) => {
+      console.log(a, b);
+      return getStats(b)[sortModel] - getStats(a)[sortModel];
+    }
+    // (a, b) => b.stats[0].stats[sortModel] - a.stats[0].stats[sortModel]
+  );
 };
 
 export default function RegionTable({
@@ -129,6 +103,7 @@ export default function RegionTable({
   sortModel,
   onSortModelChanged,
 }) {
+  console.log("prop region data", regionData);
   const [sortedCounties, setSortedCounties] = useState([]);
   // const [sortModel, setSortModel] = useState("mean");
   const popupState = usePopupState({ variant: "popover", popupId: "demoMenu" });
@@ -142,7 +117,9 @@ export default function RegionTable({
     console.log("Sorting", sortData(regionData, sortModel));
 
     setSortedCounties(sortData(regionData, sortModel));
-  }, [sortModel]);
+  }, [sortModel, regionData]);
+
+  console.log("sc", sortedCounties);
 
   return (
     <div style={{ height: 800, width: "100%" }}>
@@ -192,14 +169,14 @@ export default function RegionTable({
                       <Grid container spacing={1}>
                         <StatsChip
                           icon={<TimelapseIcon />}
-                          value={region.stats.mean.toFixed(2)}
+                          value={getStats(region).mean.toFixed(2)}
                           sortModel={sortModel}
                           field="mean"
                           onClick={() => onSortModelChanged("mean")}
                         />
                         <StatsChip
                           icon={<TimelapseIcon />}
-                          value={region.stats.stddev.toFixed()}
+                          value={getStats(region).stddev.toFixed()}
                           sortModel={sortModel}
                           icon={<SwapHorizontalCircleIcon />}
                           field="stddev"
@@ -207,7 +184,7 @@ export default function RegionTable({
                         />
 
                         <StatsChip
-                          value={region.stats.median}
+                          value={getStats(region).median}
                           sortModel={sortModel}
                           icon={<AdjustIcon />}
                           field="median"
@@ -216,7 +193,7 @@ export default function RegionTable({
 
                         <StatsChip
                           field="count"
-                          value={region.stats.count}
+                          value={getStats(region).count}
                           icon={<SupervisedUserCircleRoundedIcon />}
                           sortModel={sortModel}
                           onClick={() => onSortModelChanged("count")}
@@ -224,7 +201,7 @@ export default function RegionTable({
 
                         <StatsChip
                           field="max"
-                          value={region.stats.max}
+                          value={getStats(region).max}
                           icon={<ArrowCircleUpIcon />}
                           sortModel={sortModel}
                           onClick={() => onSortModelChanged("max")}
@@ -232,7 +209,7 @@ export default function RegionTable({
 
                         <StatsChip
                           field="min"
-                          value={region.stats.min}
+                          value={getStats(region).min}
                           icon={<ArrowCircleDownIcon />}
                           sortModel={sortModel}
                           onClick={() => onSortModelChanged("min")}

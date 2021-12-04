@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Sala kommunvapen</dc:title><dc:date>04-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <g
+     transform="matrix(0.390143,0.464954,-0.464954,0.390143,166.851,15.88184)"
+     style="fill:#eeeeee;fill-opacity:1"
+     id="Smideshamamre">
+    <path
+       d="M 154.67033,45.089573 L 196.54015,45.089573 C 199.31015,45.089573 201.54015,47.319573 201.54015,50.089573 L 201.54015,343.5988 C 201.54015,343.5988 201.06197,372.41377 175.68075,372.43024 C 149.64617,372.44734 149.67033,343.5988 149.67033,343.5988 L 149.67033,50.089573 C 149.67033,47.319573 151.90033,45.089573 154.67033,45.089573 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+       id="rect1881" />
+    <path
+       d="M 237.42931,54.806162 C 237.42931,54.806162 86.051067,54.806162 86.051067,54.806162 L 86.051071,109.32864 L 312.46411,109.32864 C 312.46411,109.32864 237.42931,54.806162 237.42931,54.806162 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#003d8f;stroke-width:2.47135496;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1878" />
+  </g>
+  <g
+     transform="matrix(0.578947,-0.689964,0.689964,0.578947,111.2757,24.11851)"
+     style="fill:#eeeeee;fill-opacity:1"
+     id="Slagga">
+    <path
+       d="M -112.5,22.910778 L -112.5,204.37478 C -112.5,204.37478 -112.82266,222.18983 -129.94905,222.20001 C -147.5163,222.21057 -147.5,204.37478 -147.5,204.37478 L -147.5,22.910778 C -147.5,22.910778 -112.5,22.910778 -112.5,22.910778 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#003d8f;stroke-width:1.66540277;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Slagga-Skaft" />
+    <path
+       d="M -200,12.339342 C -153.5018,6.692246 -106.5689,8.379666 -60,12.142572 C -60,12.142572 -64.31186,53.219188 -64.31186,53.219188 C -107.86208,48.244414 -151.76818,50.326144 -195.3037,54.291336 C -195.3037,54.291336 -200,12.339342 -200,12.339342 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#003d8f;stroke-width:1.66540277;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Slagga-huvud" />
+  </g>
+  <path
+     d="M 107.5,9.444097 C 129.84786,10.823153 147.50003,26.867086 147.5,46.430606 C 147.5,65.994148 129.84786,82.038084 107.5,83.417111 C 118.6184,74.000196 125.50539,60.898997 125.50539,46.430606 C 125.50539,31.962215 118.6184,18.86104 107.5,9.444097 z "
+     style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+     id="Half-moon" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

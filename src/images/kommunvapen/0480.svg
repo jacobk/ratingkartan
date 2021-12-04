@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Nykoping kommunvapen</dc:title><dc:date>18-10-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="m 249.55058,1.4395041 -248.1010509,0 0,173.4965959 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 c 42.99385,0 124.81775,-34.09887 124.05052,-127.81975 l 0,-173.4965959 z"
+     id="Shield"
+     style="fill:#eeeeee" />
+  <g
+     id="Tower"
+     style="fill:#d40000;stroke:#eeeeee;stroke-width:1.5">
+    <use
+       transform="matrix(-1.000009,0,0,1.000009,251.00052,-0.00205754)"
+       id="Snedstava-2"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#Snedstava" />
+    <rect
+       width="5.313458"
+       height="79.333679"
+       x="-35.268898"
+       y="163.48184"
+       transform="matrix(0.86602599,-0.49999899,0.49999899,0.86602599,0,0)"
+       id="Snedstava"
+       style="stroke-width:1.5" />
+    <path
+       d="m 80.596772,105.15477 0,179.95124 89.806518,0 0,-179.95124 -89.806518,0 z"
+       id="Tower-body" />
+    <path
+       d="m 125.56872,225.77199 c -6.65375,0 -12.05476,4.37439 -12.05478,9.78149 0,0.048 -8.4e-4,0.0899 0,0.13777 l -0.13774,0 0,41.9503 24.24729,0 0,-41.9503 c 8.5e-4,-0.0479 0,-0.0897 0,-0.13777 0,-5.4071 -5.40099,-9.78147 -12.05477,-9.78149 z"
+       id="Door"
+       style="fill:#eeeeee" />
+    <path
+       d="M 175.36673,107.34461 125.50003,9.8219466 75.633331,107.34461 l 99.733399,0 z"
+       id="Roof" />
+    <path
+       d="m 41.197046,125.79034 0.08591,34.21949 168.434234,0 0.0859,-34.21949 -14.03142,0 0,15.03367 -11.16785,0 0,-15.03367 -13.77369,0 0,15.03367 -13.91688,0 0,-15.03367 -13.80233,0 0,15.03367 -10.3088,0 0.0286,-15.03367 -14.66139,0 0.0286,15.03367 -10.56652,0 0,-15.03367 -13.77369,0 0,15.03367 -13.916866,0 0,-15.03367 -13.802329,0 0,15.03367 -11.139225,0 0,-15.03367 -13.80233,0 z"
+       id="gangway" />
+  </g>
+  <path
+     d="m 249.55062,1.4395041 -248.101051,0 0,173.4965959 c -0.76723996,93.72088 80.28944,127.81975 124.050531,127.81975 42.99385,0 124.81775,-34.09887 124.05052,-127.81975 l 0,-173.4965959 z"
+     id="Frame"
+     style="fill:none;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel" />
+</svg>

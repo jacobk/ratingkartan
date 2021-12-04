@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+   
+xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+ 
+version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166"> 
+<metadata
+ id="metadata14"><rdf:RDF>
+      
+ <cc:Work
+ rdf:about="">
+  <dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+   <cc:license
+  rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+
+     <dc:title>Monsteras kommunvapen</dc:title>
+     <dc:date>27-01-2007</dc:date>
+     <dc:creator>
+      <cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent>
+     </dc:creator>
+
+ </cc:Work>
+ <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+
+  <cc:permits 
+ rdf:resource="http://web.resource.org/cc/Reproduction" />
+
+  <cc:permits
+  rdf:resource="http://web.resource.org/cc/Distribution" />
+  <cc:requires rdf:resource="http://web.resource.org/cc/Notice" />
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/Attribution" />
+
+  <cc:permits  rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/ShareAlike" />
+       </cc:License>
+
+</rdf:RDF>
+</metadata>  
+
+  <defs
+     id="defs4168" />
+  <g
+     id="Monsteras_kommunvapen">
+    <path
+       d="M 1.4495603,1.4395041 L 125.50006,1.4395041 L 249.55061,1.4395041 L 249.55061,174.9361 C 250.31785,268.65698 169.26117,302.75585 125.50008,302.75585 C 82.506226,302.75585 0.68233088,268.65698 1.4495603,174.9361 L 1.4495603,1.4395041 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Shield" />
+    <path
+       d="M 125.5,106.53125 C 124.51242,106.56955 123.51104,106.73821 122.53125,106.96875 C 119.73768,107.42449 117.12852,108.6825 115.03125,110.78125 C 114.32342,111.48858 113.70735,112.24787 113.1875,113.0625 C 108.52363,119.14307 108.67659,127.52399 113.84375,132.6875 C 108.18511,127.02486 98.619347,127.4119 92.5,133.53125 C 86.380664,139.65058 86.024858,149.1851 91.6875,154.84375 C 86.028859,149.18111 76.463099,149.56814 70.34375,155.6875 C 64.224408,161.80684 63.86861,171.34136 69.53125,177 C 63.872609,171.33736 54.306848,171.7244 48.1875,177.84375 C 42.068162,183.96309 41.712362,193.4976 47.375,199.15625 C 41.716359,193.49361 32.150597,193.88066 26.03125,200 C 19.911911,206.11934 19.55611,215.65385 25.21875,221.3125 C 24.511697,220.60545 23.720753,219.98797 22.90625,219.46875 C 22.091749,218.94953 21.237058,218.52001 20.34375,218.1875 C 19.450449,217.855 18.537196,217.61566 17.59375,217.46875 C 16.650303,217.32185 15.683689,217.27493 14.71875,217.3125 C 13.753817,217.35008 12.77027,217.46656 11.8125,217.6875 C 10.85473,217.90844 9.9219555,218.25306 9,218.65625 C 8.6955275,218.7894 8.3938725,218.94267 8.09375,219.09375 C 28.349643,279.60927 90.091042,302.74999 125.5,302.75 C 161.49621,302.75 222.70602,279.66063 242.875,219.3125 C 242.58565,219.16329 242.29335,219.00329 242,218.875 C 241.07805,218.47181 240.14527,218.15843 239.1875,217.9375 C 238.22973,217.71656 237.24619,217.56883 236.28125,217.53125 C 235.31631,217.49368 234.3497,217.57185 233.40625,217.71875 C 232.46281,217.86566 231.54956,218.105 230.65625,218.4375 C 229.76295,218.77001 228.90825,219.19954 228.09375,219.71875 C 227.27925,220.23797 226.4883,220.85545 225.78125,221.5625 C 231.44388,215.90386 231.08809,206.33809 224.96875,200.21875 C 218.84941,194.09942 209.28365,193.74361 203.625,199.40625 C 209.28763,193.74761 208.93184,184.18184 202.8125,178.0625 C 196.69314,171.94315 187.12739,171.58736 181.46875,177.25 C 187.13139,171.59137 186.77559,162.02559 180.65625,155.90625 C 174.5369,149.7869 164.97114,149.43111 159.3125,155.09375 C 164.97513,149.43511 164.61933,139.86933 158.5,133.75 C 152.38065,127.63066 142.81489,127.27486 137.15625,132.9375 C 141.90828,128.18882 142.42122,120.71482 138.84375,114.8125 C 138.17826,113.25441 137.22474,111.81761 135.96875,110.5625 C 133.13943,107.73118 129.35974,106.38158 125.5,106.53125 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Inverterat_mantelsnitt_fjallskura" />
+    <path
+       d="M 85.5,76.506901 L 124.07143,60.792612 L 108.35714,99.36405 L 125.5,87.935399 L 142.64285,99.36405 L 126.92857,60.792612 L 165.5,76.506901 L 154.07142,59.364043 L 165.5,42.221192 L 126.92857,57.935474 L 142.64285,19.364043 L 125.5,30.792617 L 108.35714,19.364043 L 124.07143,57.935474 L 85.5,42.221192 L 96.928574,59.364043 L 85.5,76.506901 z "
+       style="fill:#eeeeee;fill-opacity:1;stroke:none"
+       id="Maltese-Cross" />
+    <path
+       d="M 1.4495187,1.4395041 L 125.50002,1.4395041 L 249.55057,1.4395041 L 249.55057,174.9361 C 250.31781,268.65698 169.26113,302.75585 125.50004,302.75585 C 82.506189,302.75585 0.68228966,268.65698 1.4495187,174.9361 L 1.4495187,1.4395041 z "
+       style="color:#000000;fill:#003d8f;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Frame" />
+  </g>
+</svg>

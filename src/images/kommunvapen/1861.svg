@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Hallsberg kommunvapen</dc:title><dc:date>30-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <use
+     transform="matrix(-0.5,0.866025,-0.866025,-0.5,299.4641,83.94155)"
+     id="Bygel2"
+     x="0"
+     y="0"
+     width="744.09448"
+     height="1052.3622"
+     xlink:href="#Bygel" />
+  <path
+     d="M 125.50033,116.98237 C 104.76854,116.98237 88.078313,133.6726 88.078313,154.40441 L 88.078313,195.98444 L 98.473326,195.98444 L 98.473326,154.40441 C 98.473326,139.43143 110.52736,127.37738 125.50033,127.37738 C 140.4733,127.37738 152.52733,139.43143 152.52733,154.40441 L 152.52733,195.98444 L 162.92234,195.98444 L 162.92234,154.40441 C 162.92234,133.6726 146.23212,116.98237 125.50033,116.98237 z "
+     style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:0.83184451;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="Bygel" />
+  <path
+     d="M 165.29647,62.22262 L 129.29079,83.012627 C 127.95959,83.781201 126.69569,84.622191 125.49662,85.520424 C 128.38507,87.683837 130.88343,90.202383 132.96802,92.978841 C 133.46522,92.646761 133.96276,92.320718 134.48829,92.017299 L 170.49398,71.227292 L 165.29647,62.22262 z M 118.02521,92.965841 C 115.13573,96.81236 113.05253,101.15264 111.82718,105.7257 C 109.35137,114.96552 110.41243,125.16592 115.59538,134.14304 C 116.3554,135.45945 117.19028,136.69801 118.07718,137.88524 C 120.94578,135.95489 123.47906,133.43097 125.49662,130.38785 C 125.1847,129.91711 124.88638,129.44149 124.60005,128.94554 C 120.85681,122.46204 120.08327,115.10161 121.87136,108.4284 C 122.62956,105.59874 123.85086,102.88864 125.49662,100.42425 C 123.57262,97.543217 121.06776,94.995083 118.02521,92.965841 z M 197.52099,118.04378 L 161.5153,138.83379 C 152.2538,144.18092 141.21388,143.45956 132.92904,137.88524 C 130.77265,140.77185 128.26486,143.27074 125.49662,145.35665 C 137.11881,154.11877 153.27275,155.59808 166.7128,147.83846 L 202.71849,127.04846 L 197.52099,118.04378 z "
+     style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:0.83159995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="Bygel3" />
+  <g
+     transform="matrix(0.4158,0,0,0.4158,-19.43576,-116.5194)"
+     id="Lock">
+    <path
+       d="M 348.57143,890.5807 C 348.57143,890.5807 448.57143,856.15797 448.57143,768.67586 C 448.57143,681.19374 448.57143,689.43772 448.57143,689.43772 L 248.57143,689.43772 L 248.57143,768.67586 C 248.57143,856.15797 348.57143,890.5807 348.57143,890.5807 z "
+       style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:2.00058937;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2855" />
+    <path
+       d="M 328.57143,781.66574 C 328.57143,789.16463 331.87953,796.14511 337.42665,800.34018 L 338.1691,800.90597 C 338.1691,800.90597 329.84079,830.23747 328.94853,833.38049 C 331.85259,833.38049 365.28694,833.38049 368.19433,833.38049 C 367.30378,830.23747 358.97045,800.90597 358.97045,800.90597 L 359.71621,800.34018 C 365.26001,796.14511 368.57143,789.16463 368.57143,781.66574 C 368.57143,769.2659 359.59837,759.18409 348.56977,759.18409 C 337.54113,759.18409 328.57143,769.2659 328.57143,781.66574 z "
+       style="font-size:12px;fill:#000000;stroke:none;overflow:visible"
+       id="Keyhole" />
+  </g>
+  <use
+     transform="matrix(-0.5,0.866025,-0.866025,-0.5,299.4641,83.94153)"
+     id="Lock2"
+     x="0"
+     y="0"
+     width="744.09448"
+     height="1052.3622"
+     xlink:href="#Lock" />
+  <use
+     transform="matrix(-0.5,-0.866025,0.866025,-0.5,77.03664,301.3142)"
+     id="Lock3"
+     x="0"
+     y="0"
+     width="744.09448"
+     height="1052.3622"
+     xlink:href="#Lock" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

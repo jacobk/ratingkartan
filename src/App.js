@@ -15,6 +15,7 @@ import {
   Switch,
   Route,
   Link as RouterLink,
+  useParams,
 } from "react-router-dom";
 import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
@@ -27,6 +28,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import { DataGrid } from "@mui/x-data-grid";
 import RegionTable from "./RegionTable";
 import RegionList from "./RegionList";
+import CountyStats from "./CountyStats";
 import { statsByCounty, counties, statsByMunicpipality } from "./data.js";
 import { useState } from "react";
 
@@ -95,7 +97,7 @@ function calcHue(value, min, max) {
 
 const colorScale2 = (stat) => {
   const defaultScale = scaleQuantile()
-    .domain(_.map(statsByMunicpipality, `stats.${stat}`))
+    .domain(_.map(statsByMunicpipality, `stats[0].stats.${stat}`))
     .range(colorScale3);
   const ratingScale = scaleThreshold()
     .domain([700, 800, 900, 1000, 1010, 1020, 1030])
@@ -127,7 +129,11 @@ const colorScale2 = (stat) => {
 function ButtonAppBar() {
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="fixed">
+      <AppBar
+        position="fixed"
+        sx={{ bgcolor: "white", color: "text.primary" }}
+        elevation={0}
+      >
         <Toolbar>
           <IconButton
             size="large"
@@ -138,14 +144,16 @@ function ButtonAppBar() {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Yeeeeeet
-          </Typography>
+          <Typography
+            variant="h6"
+            component="div"
+            sx={{ flexGrow: 1 }}
+          ></Typography>
           <Button color="inherit" component={RouterLink} to="/toplistan">
             Topplistan
           </Button>
-          <Button color="inherit" component={RouterLink} to="/">
-            Home
+          <Button color="inherit" component={RouterLink} to="/stats">
+            Stats
           </Button>
           <Button color="inherit" component={RouterLink} to="/errata">
             Errata
@@ -171,33 +179,41 @@ function App() {
           <Route path="/errata">
             <Errata />
           </Route>
-          <Route path="/">
-            <Home />
+          <Route path="/stats/:countyCode">
+            <CountyStats
+              statsByCounty={statsByCounty}
+              statsByMunicipality={statsByMunicpipality}
+            />
           </Route>
+          <Route path="/stats">
+            <Stats />
+          </Route>
+          {/* <Route path="/stats/:countyCode">
+            <StatsForCounty />
+          </Route> */}
         </Switch>
       </div>
     </Router>
   );
 }
 
-function Home() {
+function Stats() {
   const [hovered, setHovered] = useState(false);
   const [selectedCountyCode, setSelectedCountyCode] = useState(null);
   const [selectedStat, setSelectedStat] = useState("mean");
+  let { countyCode } = useParams();
 
   return (
     <Box sx={{ flexGrow: 1 }}>
       <Grid container spacing={2}>
         <Grid item xs={12} sm={3}>
           <ComposableMap
-            // projection="geoMercator"
             projection="geoTransverseMercator"
             projectionConfig={projectionConfig}
             style={{ width: "100%", height: 400 }}
             width={100}
             height={250}
           >
-            {/* <Geographies geography={geoUrlMunicipalities}> */}
             <Geographies
               geography={geoUrlCounties}
               stroke="#FFFFFF"
@@ -207,6 +223,7 @@ function Home() {
                 geographies.map((geo) => {
                   // const data = municipalityStats[geo.properties.KnKod];
                   const data = statsByCounty[geo.properties.LnKod];
+                  console.log("cty->", data);
                   const countyCode = geo.properties.LnKod;
                   return (
                     <Geography
@@ -240,7 +257,7 @@ function Home() {
                             geo.properties.LnKod === selectedCountyCode
                               ? "#DD4132"
                               : colorScale2(selectedStat)(
-                                  data.stats[selectedStat]
+                                  data.stats[0].stats[selectedStat]
                                 ),
                         },
                         // default: {
@@ -261,14 +278,14 @@ function Home() {
                         hover: {
                           fill: "#FF6F61",
                           stroke: "#9E1030",
-                          strokeWidth: 0.75,
+                          // strokeWidth: 0.75,
                           outline: "none",
                           transition: "all 250ms",
                         },
                         pressed: {
                           fill: "#DD4132",
                           stroke: "#9E1030",
-                          strokeWidth: 0.75,
+                          // strokeWidth: 0.75,
                           outline: "none",
                           transition: "all 250ms",
                         },

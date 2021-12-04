@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Kumla kommunvapen</dc:title><dc:date>07-11-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="fill:#d40000"
+     id="Shield" />
+  <path
+     d="M 125.75,179.375 C 110.26863,179.4588 95.56132,185.90348 83.34375,195.375 C 76.194801,201.56854 69.74132,210.3395 67.5625,216.8125 C 66.999031,218.4865 66.50885,218.49976 64.40625,217 C 63.508021,216.35928 60.95275,215.03533 58.75,214.03125 C 42.198801,206.48674 24.945415,206.56749 8.34375,214.3125 L 6.8125,215.15625 C 25.499213,278.60981 88.68738,302.75 125.5,302.75 C 161.858,302.74999 225.97245,278.36206 244.4375,214.15625 C 226.88808,206.1508 207.43066,207.07644 190.34375,216.125 C 188.36737,217.30651 186.69345,218.17071 186.59375,218.0625 C 186.49406,217.95429 185.5234,216.08613 184.46875,213.90625 C 181.09599,206.93501 178.13975,202.9276 172.21875,197.375 C 161.02292,186.87575 148.73779,181.43081 132.40625,179.71875 C 130.16731,179.4612 127.96162,179.36303 125.75,179.375 z "
+     style="fill:#eeeeee"
+     id="Treberg" />
+  <g
+     transform="matrix(0.439383,-0.368686,0.368686,0.439383,-92.77312,91.40431)"
+     style="fill:#eeeeee;stroke:#d40000"
+     id="Hammare">
+    <path
+       d="M 239.18942,385.01912 C 240.94342,424.80012 290.17741,418.11212 287.92741,385.01912 C 287.75281,279.82078 282.00541,174.62691 282.00541,69.433125 L 243.47842,69.433125 L 243.48242,69.429125 L 239.18942,385.01912 z "
+       id="Skaft" />
+    <path
+       d="M 183.62925,74.840873 C 183.62925,74.840873 194.37933,74.836873 194.37933,74.836873 C 196.71831,104.253 207.74349,96.349491 225.79142,86.075148 C 225.79142,86.075148 285.40041,88.546121 285.40041,88.546121 C 320.0079,91.638076 341.04026,101.86787 341.93448,158.11971 C 329.57474,137.02577 324.58887,123.81366 294.51341,125.19412 C 294.51341,125.19412 224.07318,127.40247 224.07318,127.40247 C 207.10883,116.71398 195.91553,108.69889 194.37933,139.58021 C 194.37933,139.58021 183.62525,139.58021 183.62525,139.58021 C 180.40097,115.34085 180.77841,96.218328 183.62525,74.836873"
+       id="Huvud" />
+  </g>
+  <use
+     transform="matrix(-1,0,0,1,251.0002,0)"
+     id="Hammare-2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Hammare" />
+  <path
+     d="M 249.55062,1.4395041 L 177.51725,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round"
+     id="Frame" />
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <metadata
+     id="metadata1919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Arjeplog kommunvapen</dc:title>
+        <dc:date>4 August 2007</dc:date>
+        <dc:creator><cc:Agent><dc:title>Himasaram</dc:title></cc:Agent></dc:creator>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath1899">
+      <g
+         id="strings-x3">
+        <path
+           d="M -9.3231159,-19.609078 L 244.41869,224.33109 C 243.18876,229.97247 241.35741,235.41341 238.92465,241.25528 L -20.417509,-8.0688987 L -9.3231159,-19.609078 z "
+           id="string-1" />
+        <path
+           d="M -5.5564785,28.886227 L 231.25228,256.33921 C 227.62821,262.23862 226.00885,265.13095 221.78336,269.82752 L -16.650871,40.426395 L -5.5564785,28.886227 z "
+           id="string-2" />
+        <path
+           d="M 44.351302,-14.42997 L 250.2046,184.26566 C 249.69827,191.58958 249.3924,197.5102 248.28466,203.63128 L 33.25691,-2.8898015 L 44.351302,-14.42997 z "
+           id="string-3" />
+      </g>
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#225500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     clip-path="url(#clipPath1899)"
+     id="clipped-strings" />
+  <path
+     d="M 54.291912,149.76861 C 46.654281,149.76861 39.407952,151.44888 32.901164,154.46143 C 55.75443,157.29362 73.466824,176.80055 73.466824,200.41633 C 73.466824,224.45004 55.121498,244.22011 31.682453,246.49785 C 38.497902,249.87627 46.17408,251.7842 54.291912,251.78421 C 82.449154,251.78421 105.30367,228.92969 105.30367,200.77245 C 105.30367,172.61521 82.449157,149.76861 54.291912,149.76861 z "
+     style="fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="Crescent" />
+  <path
+     d="M 227.83264,92.236738 C 228.36513,86.630715 221.71945,92.659453 222.46228,80.076071 C 222.66802,76.590954 219.0033,71.151852 218.95346,64.972066 C 218.82332,48.839114 221.41707,27.65827 218.29393,23.016596 C 213.97447,16.596911 205.11082,35.676578 201.21076,41.378559 C 190.35149,35.162887 173.28072,22.87136 168.63297,22.731545 C 163.98521,22.59173 170.14555,33.168161 171.70929,39.104212 C 156.75735,31.092806 135.94532,18.408423 128.46835,16.50545 C 120.99139,14.602476 128.46439,24.916387 128.4624,29.121847 C 120.4126,28.451785 111.46562,19.707257 104.31297,27.111683 C 103.88285,32.360649 117.63635,43.992394 142.31837,46.088364 C 167.00041,48.184324 214.81241,46.306901 207.00871,80.239236 C 194.92416,87.305778 169.22969,72.705215 167.16647,74.956729 C 165.10324,77.208242 171.27079,80.158393 171.86903,82.341007 C 172.32693,84.011594 166.86866,87.037993 169.02217,87.699081 C 171.17567,88.360158 199.70071,93.280587 202.58387,96.51173 C 205.54519,99.83045 197.38513,107.15766 200.2475,108.14976 C 203.1099,109.14188 227.29828,97.862451 227.83264,92.236738 z "
+     style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.67470694px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="Antler-1" />
+  <path
+     d="M 228.21276,99.781146 C 224.75868,105.16412 204.21365,108.84249 205.60425,113.05916 C 206.99485,117.27583 228.12305,117.27583 233.77517,113.95632 C 239.42731,110.63681 231.72013,94.31513 228.21276,99.781146 z "
+     style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="Antler-2" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

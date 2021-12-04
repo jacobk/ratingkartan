@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.04999"
+   id="svg5827">
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Hassleholm kommunvapen</dc:title><dc:date>12-06-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <defs
+     id="defs5829" />
+  <path
+     d="M 1.4602422,1.2829608 L 125.51074,1.2829608 L 249.5613,1.2829608 L 249.5613,174.77956 C 250.32854,268.50044 169.27186,302.59931 125.51076,302.59931 C 82.516912,302.59931 0.69301317,268.50044 1.4602422,174.77956 L 1.4602422,1.2829608 z "
+     style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 1.46875,1.28125 L 1.46875,33.0625 L 95.875,127.46875 L 7.21875,216.125 C 11.777713,230.94678 18.781201,243.60654 27.3125,254.28125 L 125,156.59375 L 223.375,254.96875 C 231.94071,244.35263 239.0006,231.74385 243.625,216.96875 L 154.125,127.46875 L 249.5625,32.03125 L 249.5625,1.28125 L 222.0625,1.28125 L 125,98.34375 L 27.9375,1.28125 L 1.46875,1.28125 z "
+     style="fill:#225500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+     id="Cross" />
+  <path
+     d="M 1.4602422,1.2829608 L 125.51074,1.2829608 L 249.5613,1.2829608 L 249.5613,174.77956 C 250.32854,268.50044 169.27186,302.59931 125.51076,302.59931 C 82.516912,302.59931 0.69301317,268.50044 1.4602422,174.77956 L 1.4602422,1.2829608 z "
+     style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+  <g
+     transform="matrix(0.268565,0,0,0.268565,85.44735,193.6344)"
+     id="Nutklase">
+    <path
+       d="M 139.826,183.61408 L 118.46052,158.13986 L 146.94784,114.58712 L 181.73525,155.94852 L 159.27407,187.99676 L 139.826,183.61408 z "
+       style="fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3231" />
+    <path
+       d="M 141.50547,126.09992 C 138.86799,88.475083 156.53993,42.238838 133.34945,26.488084 C 137.61337,19.162159 142.18425,14.368201 154.37044,11.864788 C 167.76038,18.181045 148.53883,102.41452 150.54067,135.87514 L 141.50547,126.09992 z "
+       style="fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#225500;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       id="Stjalk" />
+    <g
+       id="Nut1">
+      <path
+         d="M 40.125145,54.955252 C 25.664293,119.66565 79.626856,203.66618 128.18705,166.34306 C 176.91219,128.8932 101.72703,42.787023 40.125145,54.955252 z "
+         style="fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#225500;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         id="path3161" />
+      <path
+         d="M 29.329102,119.13688 C 50.712373,111.49407 54.50902,137.34258 56.522902,116.63853 C 77.303364,122.06144 73.478379,143.07575 79.163514,122.7783 C 91.735732,130.84934 92.641224,134.50517 106.81177,148.92274 C 97.132184,131.88964 86.483767,134.36875 88.40752,104.44281 C 104.53499,111.61693 89.187809,99.313028 92.753486,80.850507 C 108.19086,89.26165 98.09715,68.796978 105.99257,54.707023 C 111.62338,71.57995 137.49787,88.478004 143.41999,110.78354 C 159.47432,171.25172 120.77105,192.15373 87.289474,174.41753 C 53.172072,156.36344 48.643264,134.8871 29.329102,119.13688 z "
+         style="opacity:1;fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#ffcd50;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         id="path2188" />
+    </g>
+    <g
+       id="Nut2">
+      <path
+         d="M 253.4168,46.721446 C 193.79891,30.791013 117.93152,119.65337 165.50428,158.22721 C 213.23859,196.93208 295.02132,110.14832 253.4168,46.721446 z "
+         style="fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#225500;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         id="path3197" />
+      <path
+         d="M 188.48184,51.113467 C 200.87803,70.139549 176.89401,73.543022 197.57401,71.006782 C 197.12125,92.478396 179.30973,95.040921 200.37237,95.86082 C 195.43903,109.96277 185.41128,113.45024 177.48894,133.39299 C 191.81094,120.02508 190.44528,108.83589 217.89071,104.46617 C 216.41317,115.8397 224.11655,108.25488 240.44083,103.92224 C 238.30328,130.73693 265.01061,99.992858 268.94283,110.73334 C 250.32036,126.45594 254.30641,138.66498 223.08205,160.15172 C 171.54283,195.61792 138.67725,157.00302 148.15988,120.31966 C 157.8042,82.944089 177.64342,73.555309 188.48184,51.113467 z "
+         style="opacity:1;fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#ffcd50;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         id="path3199" />
+    </g>
+    <g
+       id="Nut3">
+      <path
+         d="M 151.97962,318.27987 C 94.840842,294.97259 88.037106,178.32746 149.25025,176.31264 C 210.67132,174.29095 223.4451,292.85175 151.97962,318.27987 z "
+         style="fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#225500;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         id="path3213" />
+      <path
+         d="M 102.87607,275.5636 C 124.24662,267.88531 107.18573,250.68814 122.13691,265.19872 C 134.7432,248.72545 123.92216,235.46923 139.37723,247.07898 C 143.96161,232.85973 142.18806,234.5346 154.7721,226.19331 C 155.84808,240.05131 158.67223,239.78123 160.36499,248.05796 C 170.62586,228.96089 173.09909,251.08304 176.18202,264.85189 C 190.67227,242.18846 184.25259,280.99407 203.01273,276.63612 C 197.24026,253.41857 208.21538,245.5341 196.30452,209.5512 C 176.6443,150.15742 127.12863,161.08692 112.53283,196.05196 C 97.647855,231.66634 107.79047,251.13092 102.87607,275.5636 z "
+         style="opacity:1;fill:#225500;fill-opacity:1;fill-rule:evenodd;stroke:#ffcd50;stroke-width:2.4137423px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         id="path3215" />
+    </g>
+  </g>
+  <use
+     transform="translate(88,-105.3874)"
+     id="Nutklase2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Nutklase" />
+  <use
+     transform="translate(-89,-105.3874)"
+     id="Nutklase3"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Nutklase" />
+  <use
+     transform="translate(3.072287e-6,-189.5272)"
+     id="Nutklase4"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Nutklase" />
+</svg>

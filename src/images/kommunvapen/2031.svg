@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Rattvik kommunvapen</dc:title><dc:date>03-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 125.5,1.4375 C 125.5,1.4375 125.5,70.067161 125.5,137.40625 L 249.5625,137.40625 L 249.5625,1.4375 L 125.5,1.4375 z M 125.5,137.40625 L 1.4375,137.40625 L 1.4375,174.9375 C 0.67026003,268.65838 81.738909,302.75 125.5,302.75 C 125.5,302.75 125.5,219.29343 125.5,137.40625 z "
+     style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Field-2-and-3" />
+  <g
+     transform="matrix(0.565077,0.474156,-0.474156,0.565077,69.74582,-30.13054)"
+     style="stroke:#225500;stroke-opacity:1"
+     id="Bila">
+    <rect
+       width="145.50305"
+       height="13.140221"
+       x="-212.30782"
+       y="8.8134527"
+       transform="matrix(-0.637028,-0.770841,0.76756,-0.640978,0,0)"
+       style="fill:#ffcd50;fill-opacity:1;stroke:none;stroke-width:1.66399896;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect34" />
+    <path
+       d="M 59.801325,128.09692 C 59.801325,128.09692 38.03106,124.46973 22.06573,103.42537 C 6.0996138,82.380231 3.1975398,61.81851 3.1975398,61.81851 C 3.1975398,61.81851 15.292392,71.736414 28.596573,71.736414 C 41.900754,71.736414 51.335242,63.269547 51.335242,63.269547 L 56.414265,46.094886 L 74.799036,42.950318 L 90.038462,60.609181 L 83.991028,77.78384 L 65.364549,80.6867 C 65.364549,80.6867 53.269697,93.749174 53.269697,109.47123 C 53.269697,125.19485 59.801325,128.09692 59.801325,128.09692 z "
+       style="fill:#ffcd50;fill-opacity:1;stroke:#d40000;stroke-width:1.66337764;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path42" />
+  </g>
+  <use
+     transform="translate(114.4882,135.7008)"
+     id="Bila2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Bila" />
+  <use
+     transform="matrix(-1,0,0,1,149.7188,2.392708e-4)"
+     id="pil2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Dalpil" />
+  <g
+     transform="matrix(0.418331,-0.35102,0.35102,0.418331,-136.1942,269.3986)"
+     id="Dalpil">
+    <path
+       d="M 370.84694,180.79635 C 362.04207,204.69529 353.2372,228.59423 350.72152,243.05937 C 348.20584,257.52452 352.74462,259.88849 357.01071,262.55587 C 362.04207,265.70175 368.33126,270.92357 374.62046,270.92357 C 380.90965,270.92357 387.19884,265.25234 392.2302,262.55587 C 396.66484,260.17921 401.03507,257.52452 398.51939,243.05937 C 396.00372,228.59423 387.19884,204.69529 378.39397,180.79635"
+       style="fill:#003d8f;fill-opacity:1;stroke:none"
+       id="fjader" />
+    <path
+       d="M 370.96373,94.005476 L 378.51076,94.005476 L 386.71385,63.101353 L 374.73725,22.308664 L 362.528,63.101353 L 370.96373,94.005476 z "
+       style="fill:#003d8f;fill-opacity:1;stroke:none"
+       id="spets" />
+    <path
+       d="M 369.57897,280.37077 L 379.66194,280.37077 L 378.40156,94.171607 L 370.83935,94.171607 L 369.57897,280.37077 z "
+       style="fill:#003d8f;fill-opacity:1;stroke:#ffcd50;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="skaft" />
+  </g>
+  <use
+     transform="translate(113.6001,-133.3913)"
+     id="pil4"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#pil2" />
+  <use
+     transform="translate(112.1408,-132.9047)"
+     id="pil3"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Dalpil" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

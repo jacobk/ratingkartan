@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg1998">
+  <defs
+     id="defs2000" />
+  <g
+     id="layer1">
+    <g
+       transform="translate(-2.660562e-8,-16.79999)"
+       id="g1991">
+      <path
+         d="M 1.4495187,18.239488 L 125.50002,18.239488 L 249.55056,18.239488 L 249.55056,191.73607 C 250.31786,285.45697 169.26116,319.55584 125.50004,319.55584 C 82.506179,319.55584 0.68228867,285.45697 1.4495187,191.73607 L 1.4495187,18.239488 z "
+         style="color:#000000;fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+         id="path1883" />
+      <path
+         d="M 2.3879587,19.170749 L 2.3879587,116.0095 L 248.61196,116.0095 L 248.61196,19.170749 L 125.49996,19.170749 L 2.3879587,19.170749 z "
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+         id="path1885" />
+      <path
+         d="M 156.91883,120.87848 C 156.9246,137.18993 142.63167,150.41577 124.99842,150.41577 C 107.36518,150.41577 93.072232,137.18993 93.078002,120.87848 C 93.072232,104.56703 107.36518,91.341178 124.99842,91.341178 C 142.63167,91.341178 156.9246,104.56703 156.91883,120.87848 L 156.91883,120.87848 z "
+         style="fill:#003d8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2041" />
+      <use
+         transform="translate(-80,1.057472e-6)"
+         style="fill:#003d8f;fill-opacity:1"
+         id="use2065"
+         x="0"
+         y="0"
+         width="275"
+         height="321"
+         xlink:href="#path2041" />
+      <use
+         transform="translate(80,-9.425278e-7)"
+         style="fill:#003d8f;fill-opacity:1"
+         id="use2067"
+         x="0"
+         y="0"
+         width="275"
+         height="321"
+         xlink:href="#path2041" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Lessebo kommunvapen</dc:title><dc:date>27-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 1.1,1.0980122 L 1.1,91.292012 L 249.6,91.292012 L 249.6,1.0980122 L 125.35,1.0980122 L 1.1,1.0980122 z "
+     style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Chef" />
+  <use
+     transform="matrix(-1,0,0,1,251.0003,0)"
+     id="Glasblas2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Glasblas" />
+  <g
+     transform="matrix(1.026352,0,0,1.026352,-264.1364,-347.2218)"
+     id="Bikupa">
+    <path
+       d="M 173.78514,327.64273 C 165.81815,319.76099 169.73726,312.79356 174.8713,305.91959 C 166.12499,295.02949 171.85066,291.37539 177.04361,287.45492 C 169.97342,282.02413 171.88952,276.59335 177.04361,271.16256 C 172.29878,266.27236 173.73059,261.99982 179.21593,258.13263 C 174.39284,250.40947 178.28916,246.64968 184.64671,244.00863 C 182.68783,238.30849 182.80764,233.76318 190,233.14706 C 185.98921,224.12227 191.66145,222.13968 198.76676,221.19933 C 196.16725,213.50011 202.50459,212.05669 210,211.42392 C 208.68851,204.36565 214.83834,203.83604 221.57606,203.82082 C 227.41812,198.80131 234.69416,195.21577 247.64383,197.30387 C 261.12281,194.38022 269.57122,197.49323 278.05623,200.56234 C 290.47582,201.49121 294.16465,205.33034 294.34858,210.33776 C 304.89173,211.00224 306.97478,215.42677 308.46863,220.11317 C 312.14572,222.61925 315.22589,225.4238 312.81326,230.97474 C 315.62847,234.09593 321.94709,234.2142 318.24404,242.92247 C 320.76256,246.04563 323.91236,248.79002 321.50251,254.8702 C 326.91781,258.44342 327.58196,263.37412 325.84714,268.99024 C 329.03752,274.42103 329.80754,279.85181 325.84714,285.2826 C 331.03797,290.45953 333.03536,296.59449 328.01946,304.83343 C 335.7749,312.07448 334.69651,319.31552 331.27793,326.55657 C 278.26495,341.34931 225.77409,341.52282 173.78514,327.64273 z "
+       transform="translate(128.0703,258.2959)"
+       style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5326" />
+    <path
+       d="M 239.24106,336.92463 C 241.25087,329.85566 241.70399,321.61918 251.52952,320.41201 C 261.35055,320.79494 261.35782,329.76492 263.43397,336.92463 L 239.24106,336.92463 z "
+       transform="translate(128.0703,258.2959)"
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5328" />
+    <path
+       d="M 175,305.81945 C 225.8548,319.00092 276.7096,320.52015 327.5644,305.05143 C 333.60316,298.26717 331.18436,291.48292 326.02834,284.69866 C 276.49047,299.49909 226.95259,299.20023 177.41472,287.38676 C 168.15957,282.01056 174.89259,276.63435 177.0307,271.25815 C 226.3538,280.57041 275.6769,283.09625 325,268.95406 C 330.12013,263.38839 325.1611,258.94262 321.42017,254.36151 C 273.93037,268.21206 226.44058,265.6393 178.95078,258.13263 C 174.55831,250.21502 179.31529,246.87213 185,243.99311 C 229.19334,252.54823 273.38668,254.00153 317.58002,243.13263 C 321.75256,235.80524 315.20742,234.60224 312.97185,230.93662 C 271.62628,241.47991 230.28072,239.93451 188.93515,233.13263 C 188.04577,227.66666 187.75895,222.40155 198.91953,220.95224 C 235.40091,229.78196 271.8823,228.36642 308.36368,219.8002 C 308.19314,211.14549 300.0209,211.8261 294.15514,209.81582 C 266.10343,217.62544 238.05171,217.87784 210,211.35188 C 210.04149,206.5014 211.42645,202.457 221.57639,203.67159 C 240.35451,206.8736 259.38268,207.57513 279.17857,200.59947"
+       transform="translate(128.0703,258.2959)"
+       style="fill:none;fill-rule:evenodd;stroke:#d40000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path5330" />
+  </g>
+  <g
+     transform="matrix(0.739335,0.269096,-0.269096,0.739335,-71.1438,-370.3366)"
+     id="Glasblas">
+    <path
+       d="M 363.96393,411.09275 L 542.25987,411.09275 C 543.24921,411.09275 544.04569,412.34912 544.04569,413.90971 L 544.04569,418.27579 C 544.04569,419.83639 543.24921,421.09275 542.25987,421.09275 L 363.96393,421.09275 C 362.97459,421.09275 362.17812,419.83639 362.17812,418.27579 L 362.17812,413.90971 C 362.17812,412.34912 362.97459,411.09275 363.96393,411.09275 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffcd50;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1"
+       id="ror" />
+    <path
+       d="M 365.11315,420.46525 C 343.12699,426.20588 325.84652,440.10066 301.18357,433.59275 C 286.08332,427.06484 287.80949,405.48997 301.18357,398.59275 C 325.87444,390.81274 344.29686,408.40672 365.11315,411.72025 C 365.11315,411.72025 365.11315,420.46525 365.11315,420.46525 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1"
+       id="Glas" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

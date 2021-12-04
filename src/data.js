@@ -1,11 +1,26 @@
-import byMunicpipality from "./data/stats_by_municipality";
-import byCounty from "./data/stats_by_county";
+// import byMunicpipality from "./data/stats_by_municipality";
+// import byCounty from "./data/stats_by_county";
+import byMunicpipality from "./data/full_stats_by_municipality-2021-11";
+import byCounty from "./data/full_stats_by_county-2021-11";
 
 function flatten(obj) {
   return Object.keys(obj).map((code) => ({
     code,
     ...obj[code],
   }));
+}
+
+const noStats = {
+  count: 0,
+  mean: 0,
+  median: 0,
+  stddev: 0,
+  max: 0,
+  min: 0,
+};
+
+export function getStats(region) {
+  return region.stats[0].stats || noStats;
 }
 
 export const statsByMunicpipality = byMunicpipality;

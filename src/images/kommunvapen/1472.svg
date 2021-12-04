@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+   
+xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+ 
+version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+ 
+<metadata
+ id="metadata14"><rdf:RDF>
+      
+ <cc:Work
+ rdf:about="">
+  <dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+   <cc:license
+  rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+
+     <dc:title>Tibro kommunvapen</dc:title>
+     <dc:date>27-01-2007</dc:date>
+     <dc:creator>
+      <cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent>
+     </dc:creator>
+
+ </cc:Work>
+ <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+
+  <cc:permits 
+ rdf:resource="http://web.resource.org/cc/Reproduction" />
+
+  <cc:permits
+  rdf:resource="http://web.resource.org/cc/Distribution" />
+  <cc:requires rdf:resource="http://web.resource.org/cc/Notice" />
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/Attribution" />
+
+  <cc:permits  rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/ShareAlike" />
+       </cc:License>
+
+</rdf:RDF>
+</metadata>  
+  <defs
+     id="defs4168" />
+  <g
+     id="Tibro_kommunvapen">
+    <path
+       d="M 1.4495603,1.4395041 L 125.50006,1.4395041 L 249.55061,1.4395041 L 249.55061,174.9361 C 250.31785,268.65698 169.26117,302.75585 125.50008,302.75585 C 82.506226,302.75585 0.68233088,268.65698 1.4495603,174.9361 L 1.4495603,1.4395041 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Shield" />
+    <path
+       d="M 1.4495187,1.4395021 L 125.50002,1.4395021 L 249.55056,1.4395021 L 249.55056,174.9361 C 250.3178,268.65698 169.26112,302.75585 125.50004,302.75585 C 82.50619,302.75585 0.68228966,268.65698 1.4495187,174.9361 L 1.4495187,1.4395021 z "
+       style="color:#000000;fill:#eeeeee;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Frame" />
+    <path
+       d="M 3,127.08419 L 125.5,4.58418 L 248,127.08419 L 216.76605,158.31813 L 125.5,67.05208 L 34.233946,158.31813 L 3,127.08419 z "
+       style="opacity:1;fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.88800001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Vinkelhake" />
+    <path
+       d="M 138.80016,174.11809 L 151.55469,174.11809 L 151.55469,278.84764 L 138.80016,278.84764 L 138.80016,174.11809 z M 96.051198,188.9176 C 102.07385,183.91193 110.96549,178.07012 119.51438,173.50234 C 125.55546,170.27451 126.63882,169.42036 126.63882,167.88522 C 126.63882,165.57438 128.17563,161.79089 132.01897,162.45653 C 134.63446,162.90952 136.20984,164.69639 136.52132,169.02019 C 136.67352,171.13288 136.8853,173.04471 137.06206,173.04471 L 156.85792,173.04471 L 156.85792,140.345 L 151.55469,140.345 L 151.55469,133.34301 L 138.80016,133.34301 L 138.80016,140.345 L 134.52174,140.3315 C 121.70261,140.28629 102.51969,135.50325 93.996888,130.22711 C 92.461638,129.27669 90.919748,128.6757 90.570458,128.89157 C 89.152618,129.76785 86.592638,145.44739 85.812378,158.03422 C 85.387628,164.88615 86.562488,182.80709 87.793468,188.25332 C 89.439568,194.01657 89.212478,193.90137 96.051198,188.9176 z "
+       style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Axe" />
+  </g>
+</svg>

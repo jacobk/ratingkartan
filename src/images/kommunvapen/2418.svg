@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Mala kommunvapen</dc:title><dc:date>21-05-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <defs
+     id="defs4168" />
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 33.40625,190.1875 C 18.042417,190.1875 12.575269,198.72219 4.21875,204.75 C 18.717404,276.00023 86.736438,302.75 125.5,302.75 C 164.28814,302.74999 234.66271,274.99979 247.5,200.75 C 241.40803,195.52964 235.43155,190.1875 223.28125,190.1875 C 199.54424,190.1875 199.58075,210.625 175.84375,210.625 C 152.10674,210.62498 152.11201,190.1875 128.375,190.1875 C 104.63799,190.1875 104.64326,210.625 80.90625,210.625 C 57.169234,210.62498 57.143253,190.1875 33.40625,190.1875 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Vagskura" />
+  <use
+     transform="matrix(-1,0,0,1,250.9994,0)"
+     id="Axe2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Axe1" />
+  <path
+     d="M 88.332694,75.511705 L 100.5108,65.293071 L 184.41772,165.28944 L 172.23961,175.50808 L 88.332694,75.511705 z M 59.372776,123.89186 C 61.112818,114.28718 64.922267,101.58562 69.425198,90.375102 C 72.607188,82.453182 72.957273,80.769676 71.727354,79.303916 C 69.87596,77.097508 68.312069,72.253759 72.515006,69.810119 C 75.375207,68.14716 78.310997,68.591117 82.072529,72.469958 C 83.910483,74.365222 85.644406,76.020985 85.813181,75.879368 L 104.71438,60.019377 L 78.516117,28.797511 L 73.452565,33.046332 L 67.842738,26.360793 L 55.664636,36.579424 L 61.274464,43.264975 L 57.178589,46.679846 C 44.902599,56.907081 22.754574,67.709116 10.389834,69.4997 C 8.1625234,69.822243 6.2088179,70.483738 6.0482626,70.969692 C 5.3965495,72.94231 15.514351,89.96422 24.853637,102.60733 C 29.93769,109.48989 45.417301,125.65964 50.956048,129.87349 C 57.145137,134.05746 56.836009,134.1294 59.372776,123.89186 z "
+     style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:1.03671205px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="Axe1" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

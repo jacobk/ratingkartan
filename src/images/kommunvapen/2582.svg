@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Boden kommunvapen</dc:title><dc:date>14-10-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath1987">
+      <use
+         id="use1985"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#Shield" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <g
+     clip-path="url(#clipPath1987)"
+     id="Murar">
+    <g
+       transform="matrix(0.172504,0,0,0.172504,-9.5,58.92238)"
+       style="fill:#d40000;fill-opacity:1"
+       id="Mur">
+      <path
+         d="M 0,494.19997 L 100,494.19997 L 100,544.19997 L 0,544.19997 L 0,494.19997 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="Sten" />
+      <path
+         d="M 0,554.19999 L 45.00001,554.19999 L 45.00001,604.19999 L 0,604.19999 L 0,554.19999 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="Halv-sten" />
+      <use
+         transform="translate(110,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2000"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(54.99992,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2002"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(220,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2004"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(330,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2006"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(165,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2008"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(440,-5.779297e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2012"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(275,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2010"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(385,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2014"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(0,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2050"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(55.00002,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2054"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(165,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2056"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(275,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2058"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(385,-60.00005)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2060"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(0,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2062"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(220,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2064"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(440,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2066"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(0,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2176"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(110,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2178"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(220,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2180"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(330,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2182"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(440,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2184"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(550,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2186"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(550,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2188"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(495,-59.99996)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2190"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(495,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2192"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(660,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2194"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(660,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2196"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(605,60.00004)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2198"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(605,-59.99996)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2200"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(660,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2202"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(715,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2204"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(715,-120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2206"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(0,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2208"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(715,120)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2210"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+      <use
+         transform="translate(55,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2212"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(165,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2214"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(275,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2216"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(385,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2224"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(495,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2226"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(605,180)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2228"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(-3.669734e-6,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2326"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(110,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2328"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(220,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2330"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(330,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2332"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(440,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2334"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(550,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2336"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(660,240)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2338"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+    </g>
+    <use
+       transform="translate(138.897,5.821512e-7)"
+       id="Mur-2"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#Mur" />
+  </g>
+  <g
+     id="Tower">
+    <path
+       d="M 81.042485,46.252093 L 81.042485,61.572667 L 81.137176,61.572667 L 81.137176,79.518259 L 88.854507,79.518259 L 88.854507,195.4964 L 161.54515,195.4964 L 161.54515,79.518259 L 169.97266,79.518259 L 169.97266,61.572667 L 170.06736,61.572667 L 170.06736,46.252093 L 156.43183,46.252093 L 156.43183,60.85675 L 145.58968,60.85675 L 145.58968,46.252093 L 132.19088,46.252093 L 132.19088,60.85675 L 118.68222,60.85675 L 118.68222,46.252093 L 105.28343,46.252093 L 105.28343,60.85675 L 94.441285,60.85675 L 94.441285,46.252093 L 81.042485,46.252093 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:1.52115953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Tower-body" />
+    <path
+       d="M 103.94453,90.887517 L 114.49192,90.887517 L 114.49192,111.93456 L 103.94453,111.93456 L 103.94453,90.887517 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:1.52722323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Window1" />
+    <path
+       d="M 137.84889,90.887517 L 148.39628,90.887517 L 148.39628,111.93456 L 137.84889,111.93456 L 137.84889,90.887517 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:1.52722323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Window2" />
+    <path
+       d="M 125.56476,140.35451 C 119.29134,140.35451 114.19907,144.47887 114.19905,149.57689 C 114.19905,149.62218 114.19825,149.66166 114.19905,149.70679 L 114.06917,149.70679 L 114.06917,189.25917 L 136.93046,189.25917 L 136.93046,149.70679 C 136.93128,149.66166 136.93046,149.62218 136.93046,149.57689 C 136.93046,144.47887 131.83821,140.35453 125.56476,140.35451 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:2.13833809;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Door" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>
