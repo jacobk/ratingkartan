@@ -16,6 +16,7 @@ import {
   Route,
   Link as RouterLink,
   useParams,
+  useHistory,
 } from "react-router-dom";
 import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
@@ -201,7 +202,8 @@ function Stats() {
   const [hovered, setHovered] = useState(false);
   const [selectedCountyCode, setSelectedCountyCode] = useState(null);
   const [selectedStat, setSelectedStat] = useState("mean");
-  let { countyCode } = useParams();
+
+  let history = useHistory();
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -223,13 +225,11 @@ function Stats() {
                 geographies.map((geo) => {
                   // const data = municipalityStats[geo.properties.KnKod];
                   const data = statsByCounty[geo.properties.LnKod];
-                  console.log("cty->", data);
                   const countyCode = geo.properties.LnKod;
                   return (
                     <Geography
                       key={geo.rsmKey}
                       geography={geo}
-                      // fill={colorScale2(data.stats.mean)}
                       onMouseEnter={() => {
                         if (hovered) {
                           return;
@@ -241,14 +241,15 @@ function Stats() {
                         setHovered(false);
                       }}
                       onMouseDown={() => {
-                        if (
-                          selectedCountyCode &&
-                          selectedCountyCode === countyCode
-                        ) {
-                          setSelectedCountyCode(null);
-                        } else {
-                          setSelectedCountyCode(countyCode);
-                        }
+                        history.push(`/stats/${countyCode}`);
+                        // if (
+                        //   selectedCountyCode &&
+                        //   selectedCountyCode === countyCode
+                        // ) {
+                        //   setSelectedCountyCode(null);
+                        // } else {
+                        //   setSelectedCountyCode(countyCode);
+                        // }
                       }}
                       style={{
                         default: {
@@ -298,11 +299,13 @@ function Stats() {
           </ComposableMap>
         </Grid>
         <Grid item xs={12} sm={9}>
-          {selectedCountyCode}
           <RegionList
+            title={"Län"}
             regionData={counties}
+            regionsWithoutPlayers={[]}
             sortModel={selectedStat}
             onSortModelChanged={setSelectedStat}
+            regionLink={(code) => `/stats/${code}`}
           />
           {/* <RegionTable
             regionData={Object.values(countyStats).map(
