@@ -24,17 +24,14 @@ import AdjustIcon from "@mui/icons-material/Adjust";
 import TimelapseIcon from "@mui/icons-material/Timelapse";
 import SwapHorizontalCircleIcon from "@mui/icons-material/SwapHorizontalCircle";
 import { grey } from "@mui/material/colors";
-import { getStats } from "./data";
+import { Link as RouterLink } from "react-router-dom";
+import { getStats, getName } from "./data";
 
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
   padding: theme.spacing(1),
   // textAlign: "center",
   color: theme.palette.text.secondary,
-}));
-
-const StatChip = styled(Chip)(({ theme }) => ({
-  margin: 1,
 }));
 
 function StatsChip({ field, sortModel, icon, value, onClick }) {
@@ -87,25 +84,21 @@ const sortModels = {
 };
 
 const sortData = (regionData, sortModel) => {
-  console.log("Sorting", sortModel, regionData);
   const copy = regionData.concat();
-  return copy.sort(
-    (a, b) => {
-      console.log(a, b);
-      return getStats(b)[sortModel] - getStats(a)[sortModel];
-    }
-    // (a, b) => b.stats[0].stats[sortModel] - a.stats[0].stats[sortModel]
-  );
+  return copy.sort((a, b) => {
+    return getStats(b)[sortModel] - getStats(a)[sortModel];
+  });
 };
 
 export default function RegionTable({
+  title,
   regionData,
+  regionsWithoutPlayers,
   sortModel,
   onSortModelChanged,
+  regionLink,
 }) {
-  console.log("prop region data", regionData);
   const [sortedCounties, setSortedCounties] = useState([]);
-  // const [sortModel, setSortModel] = useState("mean");
   const popupState = usePopupState({ variant: "popover", popupId: "demoMenu" });
 
   const handleClick = (field) => {
@@ -114,12 +107,10 @@ export default function RegionTable({
   };
 
   useEffect(() => {
-    console.log("Sorting", sortData(regionData, sortModel));
+    console.log("Sorting");
 
     setSortedCounties(sortData(regionData, sortModel));
   }, [sortModel, regionData]);
-
-  console.log("sc", sortedCounties);
 
   return (
     <div style={{ height: 800, width: "100%" }}>
@@ -127,7 +118,9 @@ export default function RegionTable({
         <ListItem alignItems="flex-start">
           <Grid container spacing={1}>
             <Grid item xs={6}>
-              <Item elevation={0}>Län </Item>
+              <Item elevation={0}>
+                <Typography variant="button">{title}</Typography>
+              </Item>
             </Grid>
             <Grid item xs={6}>
               <Button
@@ -152,17 +145,27 @@ export default function RegionTable({
         {sortedCounties.map((region) => {
           return (
             <React.Fragment>
-              <ListItem alignItems="flex-start">
+              <ListItem alignItems="flex-start" key={region.code}>
                 <Grid container spacing={1}>
                   <Grid item xs={2}>
-                    <img
-                      alt="Remy Sharp"
-                      src={coatOfArms(region.code)}
-                      style={{ width: 40 }}
-                    />
+                    <Item elevation={0}>
+                      <img
+                        alt={getName(region.code)}
+                        src={coatOfArms(region.code)}
+                        style={{ width: 40 }}
+                      />
+                    </Item>
                   </Grid>
                   <Grid item xs={4}>
-                    <Item elevation={0}>{region.name}</Item>
+                    <Item elevation={0}>
+                      {regionLink ? (
+                        <RouterLink to={regionLink(region.code)}>
+                          {getName(region.code)}
+                        </RouterLink>
+                      ) : (
+                        getName(region.code)
+                      )}
+                    </Item>
                   </Grid>
                   <Grid item xs={6}>
                     <Item elevation={0}>
@@ -219,10 +222,14 @@ export default function RegionTable({
                   </Grid>
                 </Grid>
               </ListItem>
-              <Divider variant="inset" component="li" />
+              <Divider variant="fullWidth" component="li" />
             </React.Fragment>
           );
         })}
+        <ListItem alignItems="flex-start">
+          Inga spelare:{" "}
+          {regionsWithoutPlayers.map((r) => getName(r.code)).join(", ")}
+        </ListItem>
       </List>
     </div>
   );

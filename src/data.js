@@ -2,6 +2,7 @@
 // import byCounty from "./data/stats_by_county";
 import byMunicpipality from "./data/full_stats_by_municipality-2021-11";
 import byCounty from "./data/full_stats_by_county-2021-11";
+import names from "./data/kommner_lan_kod.json";
 
 function flatten(obj) {
   return Object.keys(obj).map((code) => ({
@@ -21,6 +22,10 @@ const noStats = {
 
 export function getStats(region) {
   return region.stats[0].stats || noStats;
+}
+
+export function getName(code) {
+  return names[code];
 }
 
 export const statsByMunicpipality = byMunicpipality;

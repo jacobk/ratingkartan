@@ -21,7 +21,7 @@ import { randomColor } from "randomcolor";
 import { scaleQuantile, scaleQuantize, scaleThreshold } from "d3-scale";
 import { feature, mesh } from "topojson-client";
 import RegionList from "./RegionList";
-import { municipalities, getStats } from "./data";
+import { municipalities, getStats, getName } from "./data";
 
 import {
   ComposableMap,
@@ -157,6 +157,8 @@ export default function CountyStats({ statsByCounty, statsByMunicipality }) {
   const { countyCode } = useParams();
   const [selectedStat, setSelectedStat] = useState("mean");
   const [countyMunicipalities, setCountyMunicipalities] = useState([]);
+  const [municipalitiesWithoutPlayers, setMunicipalitiesWithoutPlayers] =
+    useState([]);
   const [countyGeo, setCountyGeo] = useState();
   if (!statsByCounty[countyCode]) {
     console.error("Unknown county code, should reirect");
@@ -169,7 +171,14 @@ export default function CountyStats({ statsByCounty, statsByMunicipality }) {
 
     setCountyGeo(selectCountyFeatures(countyCode));
     setCountyMunicipalities(
-      municipalities.filter((m) => m.code.startsWith(countyCode))
+      municipalities.filter(
+        (m) => m.code.startsWith(countyCode) && m.stats[0].stats
+      )
+    );
+    setMunicipalitiesWithoutPlayers(
+      municipalities.filter(
+        (m) => m.code.startsWith(countyCode) && !m.stats[0].stats
+      )
     );
   }, [countyCode]);
 
@@ -260,17 +269,12 @@ export default function CountyStats({ statsByCounty, statsByMunicipality }) {
         </Grid>
         <Grid item xs={12} sm={9}>
           <RegionList
+            title={getName(countyCode)}
             regionData={countyMunicipalities}
+            regionsWithoutPlayers={municipalitiesWithoutPlayers}
             sortModel={selectedStat}
             onSortModelChanged={setSelectedStat}
           />
-          <Box
-            display="flex"
-            flex={1}
-            sx={{ height: "100%", background: "papayawhip" }}
-          >
-            {countyCode}
-          </Box>
         </Grid>
       </Grid>
     </Box>
