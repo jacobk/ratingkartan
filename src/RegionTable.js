@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { DataGrid, GridToolbar } from "@mui/x-data-grid";
+import { DataGrid } from "@mui/x-data-grid";
 import { useTheme } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
 
@@ -67,7 +67,6 @@ const foo = buildColumns(true, false);
 
 export default function RegionTable({ regionData }) {
   const theme = useTheme();
-  const isSmallScreen = useMediaQuery(theme.breakpoints.down("sm"));
   const [sortModel, setSortModel] = useState([{ field: "mean", sort: "desc" }]);
   // const [rows] = useState(
   //   regionData.map(({ name, stats }, idx) => {

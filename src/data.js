@@ -1,6 +1,6 @@
 // import byMunicpipality from "./data/stats_by_municipality";
 // import byCounty from "./data/stats_by_county";
-import byMunicpipality from "./data/full_stats_by_municipality-2021-11";
+import byMunicipality from "./data/full_stats_by_municipality-2021-11";
 import byCounty from "./data/full_stats_by_county-2021-11";
 import names from "./data/kommner_lan_kod.json";
 
@@ -28,7 +28,7 @@ export function getName(code) {
   return names[code];
 }
 
-export const statsByMunicpipality = byMunicpipality;
+export const statsByMunicipality = byMunicipality;
 export const statsByCounty = byCounty;
 export const counties = flatten(statsByCounty);
-export const municipalities = flatten(statsByMunicpipality);
+export const municipalities = flatten(statsByMunicipality);
