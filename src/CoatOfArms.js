@@ -618,4 +618,6 @@ const mapping = {
   2584: MCoA2584,
 };
 
-export default (code) => mapping[code];
+const CoatOfArms = (countyCode) => mapping[countyCode];
+
+export default CoatOfArms;

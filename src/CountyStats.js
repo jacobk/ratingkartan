@@ -1,27 +1,15 @@
 import { useEffect, useState } from "react";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link as RouterLink,
-  useParams,
-} from "react-router-dom";
+import { useParams } from "react-router-dom";
 import _ from "lodash";
 import geoData from "./data/Kommun-KnKod-KnNamn_20191230.json";
 import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
-import AppBar from "@mui/material/AppBar";
-import Toolbar from "@mui/material/Toolbar";
-import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
-import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
 import { fitSize, geoTransverseMercator, geoBounds, geoCentroid } from "d3-geo";
-import { randomColor } from "randomcolor";
-import { scaleQuantile, scaleQuantize, scaleThreshold } from "d3-scale";
-import { feature, mesh } from "topojson-client";
+import { scaleQuantile, scaleThreshold } from "d3-scale";
+import { feature } from "topojson-client";
 import RegionList from "./RegionList";
 import { municipalities, getStats, getName } from "./data";
+import { statsByCounty, statsByMunicipality } from "./data.js";
 
 import {
   ComposableMap,
@@ -29,9 +17,6 @@ import {
   Geography,
   ZoomableGroup,
 } from "react-simple-maps";
-
-const geoUrlMunicipalities =
-  "https://raw.githubusercontent.com/Axelsson2000/data/master/TopoJSON/Kommun-KnKod-KnNamn_20191230.json";
 
 const projectionConfig = {
   scale: 1000,
@@ -73,7 +58,6 @@ const colorScale3 = [
 ];
 
 const projection = geoTransverseMercator();
-console.log(projection);
 
 function calcHue(value, min, max) {
   // [min-bin*1, (min+bin*2)-bin*2, ]
@@ -153,7 +137,7 @@ function selectCountyFeatures(countyCode) {
   };
 }
 
-export default function CountyStats({ statsByCounty, statsByMunicipality }) {
+export default function CountyStats() {
   const { countyCode } = useParams();
   const [selectedStat, setSelectedStat] = useState("mean");
   const [countyMunicipalities, setCountyMunicipalities] = useState([]);

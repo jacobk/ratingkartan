@@ -16,13 +16,7 @@ import {
   bindMenu,
 } from "material-ui-popup-state/hooks";
 import { useEffect } from "react";
-import { Chip, Typography } from "@mui/material";
-import SupervisedUserCircleRoundedIcon from "@mui/icons-material/SupervisedUserCircleRounded";
-import ArrowCircleUpIcon from "@mui/icons-material/ArrowCircleUp";
-import ArrowCircleDownIcon from "@mui/icons-material/ArrowCircleDown";
-import AdjustIcon from "@mui/icons-material/Adjust";
-import TimelapseIcon from "@mui/icons-material/Timelapse";
-import SwapHorizontalCircleIcon from "@mui/icons-material/SwapHorizontalCircle";
+import { Typography } from "@mui/material";
 import { grey } from "@mui/material/colors";
 import { Link as RouterLink } from "react-router-dom";
 import { getStats, getName } from "./data";
@@ -34,7 +28,7 @@ const Item = styled(Paper)(({ theme }) => ({
   color: theme.palette.text.secondary,
 }));
 
-function StatsChip({ field, sortModel, icon, value, onClick }) {
+function StatsChip({ field, sortModel, value, onClick }) {
   const active = field === sortModel;
   return (
     <Grid item xs={12} md={6}>
@@ -90,7 +84,7 @@ const sortData = (regionData, sortModel) => {
   });
 };
 
-export default function RegionTable({
+export default function RegionList({
   title,
   regionData,
   regionsWithoutPlayers,
@@ -133,8 +127,12 @@ export default function RegionTable({
                 {sortModels[sortModel]}
               </Button>
               <Menu {...bindMenu(popupState)}>
-                {Object.keys(sortModels).map((field) => (
-                  <MenuItem onClick={() => handleClick(field)} disableRipple>
+                {Object.keys(sortModels).map((field, idx) => (
+                  <MenuItem
+                    onClick={() => handleClick(field)}
+                    disableRipple
+                    key={idx}
+                  >
                     {sortModels[field]}
                   </MenuItem>
                 ))}
@@ -144,8 +142,8 @@ export default function RegionTable({
         </ListItem>
         {sortedCounties.map((region) => {
           return (
-            <React.Fragment>
-              <ListItem alignItems="flex-start" key={region.code}>
+            <React.Fragment key={region.code}>
+              <ListItem alignItems="flex-start">
                 <Grid container spacing={1}>
                   <Grid item xs={2}>
                     <Item elevation={0}>
@@ -171,17 +169,14 @@ export default function RegionTable({
                     <Item elevation={0}>
                       <Grid container spacing={1}>
                         <StatsChip
-                          icon={<TimelapseIcon />}
                           value={getStats(region).mean.toFixed(2)}
                           sortModel={sortModel}
                           field="mean"
                           onClick={() => onSortModelChanged("mean")}
                         />
                         <StatsChip
-                          icon={<TimelapseIcon />}
                           value={getStats(region).stddev.toFixed()}
                           sortModel={sortModel}
-                          icon={<SwapHorizontalCircleIcon />}
                           field="stddev"
                           onClick={() => onSortModelChanged("stddev")}
                         />
@@ -189,7 +184,6 @@ export default function RegionTable({
                         <StatsChip
                           value={getStats(region).median}
                           sortModel={sortModel}
-                          icon={<AdjustIcon />}
                           field="median"
                           onClick={() => onSortModelChanged("median")}
                         />
@@ -197,7 +191,6 @@ export default function RegionTable({
                         <StatsChip
                           field="count"
                           value={getStats(region).count}
-                          icon={<SupervisedUserCircleRoundedIcon />}
                           sortModel={sortModel}
                           onClick={() => onSortModelChanged("count")}
                         />
@@ -205,7 +198,6 @@ export default function RegionTable({
                         <StatsChip
                           field="max"
                           value={getStats(region).max}
-                          icon={<ArrowCircleUpIcon />}
                           sortModel={sortModel}
                           onClick={() => onSortModelChanged("max")}
                         />
@@ -213,7 +205,6 @@ export default function RegionTable({
                         <StatsChip
                           field="min"
                           value={getStats(region).min}
-                          icon={<ArrowCircleDownIcon />}
                           sortModel={sortModel}
                           onClick={() => onSortModelChanged("min")}
                         />
