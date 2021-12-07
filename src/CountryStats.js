@@ -3,7 +3,7 @@ import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { geoTransverseMercator } from "d3-geo";
 import { scaleQuantile, scaleQuantize, scaleThreshold } from "d3-scale";
 import _ from "lodash";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
 import RegionList from "./RegionList";
@@ -77,7 +77,7 @@ export default function CountryStats() {
   const [selectedCountyCode, setSelectedCountyCode] = useState(null);
   const [selectedStat, setSelectedStat] = useState("mean");
 
-  let history = useHistory();
+  let navigate = useNavigate();
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -109,7 +109,7 @@ export default function CountryStats() {
                         setHovered(false);
                       }}
                       onMouseDown={() => {
-                        history.push(`/stats/${countyCode}`);
+                        navigate(`/stats/${countyCode}`);
                         // if (
                         //   selectedCountyCode &&
                         //   selectedCountyCode === countyCode

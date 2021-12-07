@@ -20,6 +20,7 @@ import { Typography } from "@mui/material";
 import { grey } from "@mui/material/colors";
 import { Link as RouterLink } from "react-router-dom";
 import { getStats, getName } from "./data";
+import Link from "@mui/material/Link";
 
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
@@ -157,9 +158,12 @@ export default function RegionList({
                   <Grid item xs={4}>
                     <Item elevation={0}>
                       {regionLink ? (
-                        <RouterLink to={regionLink(region.code)}>
+                        <Link
+                          component={RouterLink}
+                          to={regionLink(region.code)}
+                        >
                           {getName(region.code)}
-                        </RouterLink>
+                        </Link>
                       ) : (
                         getName(region.code)
                       )}
