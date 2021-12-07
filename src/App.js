@@ -1,7 +1,7 @@
 import "./App.css";
 import {
   BrowserRouter as Router,
-  Switch,
+  Routes,
   Route,
   Link as RouterLink,
 } from "react-router-dom";
@@ -14,6 +14,11 @@ import IconButton from "@mui/material/IconButton";
 import MenuIcon from "@mui/icons-material/Menu";
 import CountryStats from "./CountryStats";
 import CountyStats from "./CountyStats";
+import Players from "./Players";
+import Dump from "./Dump";
+import { createTheme, ThemeProvider } from "@mui/material";
+
+const theme = createTheme({});
 
 function ButtonAppBar() {
   return (
@@ -38,11 +43,11 @@ function ButtonAppBar() {
             component="div"
             sx={{ flexGrow: 1 }}
           ></Typography>
-          <Button color="inherit" component={RouterLink} to="/toplistan">
-            Topplistan
-          </Button>
           <Button color="inherit" component={RouterLink} to="/stats">
             Stats
+          </Button>
+          <Button color="inherit" component={RouterLink} to="/spelare">
+            Spelare
           </Button>
           <Button color="inherit" component={RouterLink} to="/errata">
             Errata
@@ -56,35 +61,23 @@ function ButtonAppBar() {
 
 function App() {
   return (
-    <Router>
-      <div>
-        <ButtonAppBar />
-        {/* A <Switch> looks through its children <Route>s and
+    <ThemeProvider theme={theme}>
+      <Router>
+        <div>
+          <ButtonAppBar />
+          {/* A <Switch> looks through its children <Route>s and
           renders the first one that matches the current URL. */}
-        <Switch>
-          <Route path="/toplistan">
-            <Toplistan />
-          </Route>
-          <Route path="/errata">
-            <Errata />
-          </Route>
-          <Route path="/stats/:countyCode">
-            <CountyStats />
-          </Route>
-          <Route path="/stats">
-            <CountryStats />
-          </Route>
-          {/* <Route path="/stats/:countyCode">
-            <StatsForCounty />
-          </Route> */}
-        </Switch>
-      </div>
-    </Router>
+          <Routes>
+            <Route path="/spelare" element={<Players />} />
+            <Route path="/errata" element={<Errata />} />
+            <Route path="/stats/:countyCode" element={<CountyStats />} />
+            <Route path="/stats" element={<CountryStats />} />
+            <Route path="/dump" element={<Dump />} />
+          </Routes>
+        </div>
+      </Router>
+    </ThemeProvider>
   );
-}
-
-function Toplistan() {
-  return <div>Hej</div>;
 }
 
 function Errata() {
