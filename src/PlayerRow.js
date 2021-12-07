@@ -11,12 +11,6 @@ import ArrowRightIcon from "@mui/icons-material/ArrowRight";
 const seBlue = "#00599c";
 const seYellow = "#f2ce1b";
 
-const Item = styled(Box)({
-  height: 50,
-  display: "flex",
-  paddingBottom: "8px",
-});
-
 function getDiffIcon(value) {
   if (value < 0) {
     return <ArrowDropDownIcon color="error" fontSize="small" />;
@@ -50,6 +44,53 @@ function Diff({ value }) {
   );
 }
 
+const StatBox = ({ stat, diff, variant, sx }) => (
+  <Box
+    sx={{
+      flex: {
+        xs: "0 0 18",
+        sm: "1",
+      },
+      height: {
+        xs: 18,
+        sm: 30,
+      },
+      fontSize: {
+        xs: "12px",
+        sm: "14px",
+      },
+      width: {
+        xs: 90,
+        sm: 100,
+      },
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "space-between",
+      verticalAlign: "middle",
+      px: {
+        xs: 0.5,
+        sm: 1,
+      },
+      mb: "2px",
+      mr: {
+        xs: 0.5,
+        sm: 0,
+      },
+      borderRadius: 0.5,
+      fontFamily: "monospace",
+      fontWeight: "bold",
+      borderWidth: 1,
+      borderColor: { rating: "grey.500", ranking: seBlue }[variant],
+      borderStyle: "solid",
+      color: { rating: "initial", ranking: seBlue }[variant],
+      backgroundColor: { rating: "white", ranking: seYellow }[variant],
+      ...sx,
+    }}
+  >
+    {stat} <Diff value={diff} />
+  </Box>
+);
+
 function PlayerRow({ index, player, style }) {
   const {
     name,
@@ -68,33 +109,41 @@ function PlayerRow({ index, player, style }) {
   const rankingMom = mom ? mom.ranking : "-";
 
   return (
-    <Item component="li" display="flex" justifyContent="stretch" style={style}>
+    <Box
+      component="li"
+      sx={{
+        display: "flex",
+        height: 50,
+        // bgcolor: (theme) => index % 2 === 0 && theme.palette.grey["100"],
+        backgroundColor: {
+          sm: index % 2 === 0 && "#f5f5f5",
+        },
+      }}
+      style={style}
+    >
       <Box
-        display="flex"
-        flex="0 1 0"
-        // flex="0 0 100px"
-        // sx={{ bgcolor: "red" }}
-        alignItems="center"
+        sx={{
+          display: "flex",
+          flex: "0 1 0",
+          alignItems: "center",
+        }}
       >
         <Box
-          display="flex"
-          //   alignContent="center"
-          alignItems="center"
-          justifyContent="center"
           sx={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
             width: 30,
             height: 30,
             bgcolor: "primary.main",
             color: (theme) => theme.palette.primary.contrastText,
             mx: 1,
-            // px: 1,
             fontSize: {
               1: "16px",
               2: "16px",
               3: "14px",
               4: "9px",
             }[index.toString().length],
-
             borderRadius: 1,
           }}
         >
@@ -116,10 +165,6 @@ function PlayerRow({ index, player, style }) {
         >
           <Box
             sx={{
-              //   display: "flex",
-              //   flex: 1,
-              //   // bgcolor: "pink",
-              //   alignItems: "flex-end",
               minWidth: 0,
               fontSize: "18px",
               color: "text.primary",
@@ -146,108 +191,66 @@ function PlayerRow({ index, player, style }) {
         </Box>
 
         <Box
-          flex="1 0 0"
           sx={{
             display: "flex",
+            flex: "1 0 0",
             alignItems: "flex-start",
             pr: 1,
             minWidth: 0,
             color: "text.secondary",
+            height: 23,
+            textOverflow: "ellipsis",
+            overflow: "hidden",
+            whiteSpace: "nowrap",
+            fontSize: "12px",
           }}
-          height={23}
-          textOverflow="ellipsis"
-          overflow="hidden"
-          whiteSpace="nowrap"
-          fontSize="12px"
         >
           <Link href={`/stats/${countyCode}`}>
             {municipality}, {county}
           </Link>
         </Box>
       </Box>
-      <Divider variant="middle" orientation="vertical" flexItem />
+      <Divider
+        variant="middle"
+        orientation="vertical"
+        flexItem
+        sx={{
+          mr: 1,
+        }}
+      />
       <Box
         sx={{
           display: "flex",
+          alignItems: {
+            sm: "center",
+          },
           justifyContent: {
-            xs: "initial",
-            md: "space-between",
+            xs: "center",
+            sm: "center",
           },
           flex: {
-            xs: "0 0 110px",
-            md: "1 0 0",
+            xs: "0 1 0",
+            sm: "0 0 200px",
           },
           flexDirection: {
             xs: "column",
-            md: "row",
+            sm: "row",
           },
         }}
       >
-        <Box
+        <StatBox stat={rating} diff={ratingMom} variant="rating" />
+        <StatBox
+          stat={`S-${ranking}`}
+          diff={rankingMom}
+          variant="ranking"
           sx={{
-            display: "flex",
-            alignItems: "flex-end",
-            fontSize: "18px",
-            ml: 1,
-            height: 27,
+            mx: {
+              sm: 1,
+            },
           }}
-        >
-          <Box
-            sx={{
-              flex: 1,
-              height: 18,
-              fontSize: "12px",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "space-between",
-              verticalAlign: "middle",
-              px: 0.5,
-              mb: "2px",
-              borderRadius: 0.5,
-              fontFamily: "monospace",
-              fontWeight: "bold",
-              borderWidth: 1,
-              borderColor: "grey.500",
-              borderStyle: "solid",
-            }}
-          >
-            {rating} <Diff value={ratingMom} />
-          </Box>
-        </Box>
-        <Box
-          sx={{
-            bgcolor: "grey",
-            display: "flex",
-            ml: 1,
-            height: 23,
-          }}
-        >
-          <Box
-            sx={{
-              flex: 1,
-              height: 18,
-              fontSize: "12px",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "space-between",
-              verticalAlign: "middle",
-              bgcolor: seYellow,
-              color: seBlue,
-              px: 0.5,
-              borderRadius: 0.5,
-              fontFamily: "monospace",
-              fontWeight: "bold",
-              borderWidth: 1,
-              borderColor: seBlue,
-              borderStyle: "solid",
-            }}
-          >
-            S-{ranking} <Diff value={rankingMom} />
-            {/* S-<span>{player}</span> */}
-          </Box>
-        </Box>
+        />
       </Box>
-    </Item>
+    </Box>
   );
 }
 
