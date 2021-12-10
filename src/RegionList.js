@@ -102,8 +102,6 @@ export default function RegionList({
   };
 
   useEffect(() => {
-    console.log("Sorting");
-
     setSortedCounties(sortData(regionData, sortModel));
   }, [sortModel, regionData]);
 
