@@ -1,19 +1,11 @@
 import React from "react";
-import { makeStyles } from "@mui/styles";
-import { styled } from "@mui/styles";
 import { Box } from "@mui/system";
 import Paper from "@mui/material/Paper";
 import Link from "@mui/material/Link";
 import { Divider } from "@mui/material";
 import ArrowDropUpIcon from "@mui/icons-material/ArrowDropUp";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
-import ArrowRightIcon from "@mui/icons-material/ArrowRight";
 import { getDivision } from "./data";
-
-// const seBlue = "#00599c";
-// const seYellow = "#f2ce1b";
-const seYellow = "#2976fe";
-const seBlue = "#ffc626";
 
 function getDiffIcon(value) {
   if (value < 0) {
@@ -87,9 +79,6 @@ const StatBox = ({ stat, diff, variant, sx }) => {
         borderRadius: 0.5,
         fontFamily: "monospace",
         fontWeight: "bold",
-        borderWidth: 0,
-        borderColor: { rating: "grey.500", ranking: seBlue }[variant],
-        borderStyle: "solid",
         color: { rating: "white", ranking: "initial" }[variant],
         bgcolor: isRating ? getDivision(stat).color : "initial",
         ...sx,
@@ -101,30 +90,22 @@ const StatBox = ({ stat, diff, variant, sx }) => {
   );
 };
 
-function PlayerRow({ index, player, style }) {
-  const {
-    name,
-    pdgaNumber,
-    stats,
-    county,
-    countyCode,
-    municipality,
-    municipalityCode,
-  } = player;
+function PlayerRow({ index, player, style, key }) {
+  const { name, pdgaNumber, stats, county, countyCode, municipality } = player;
 
   const rating = stats[0].rating;
   const mom = stats[0].mom;
-  const ratingMom = mom ? mom.rating : "-";
+  const ratingMom = mom ? mom.rating : "";
   const ranking = stats[0].ranking;
-  const rankingMom = mom ? mom.ranking : "-";
+  const rankingMom = mom ? mom.ranking : "";
 
   return (
     <Box
       component="li"
+      key={key}
       sx={{
         display: "flex",
         height: 50,
-        // bgcolor: (theme) => index % 2 === 0 && theme.palette.grey["100"],
         backgroundColor: {
           sm: index % 2 === 0 && "#f5f5f5",
         },
@@ -181,7 +162,6 @@ function PlayerRow({ index, player, style }) {
               whiteSpace: "nowrap",
               overflow: "hidden",
               textOverflow: "ellipsis",
-              minWidth: 0,
             }}
           >
             {name}

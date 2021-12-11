@@ -1,9 +1,11 @@
+import { useEffect } from "react";
 import "./App.css";
 import {
   BrowserRouter as Router,
   Routes,
   Route,
   Link as RouterLink,
+  useLocation,
 } from "react-router-dom";
 import Box from "@mui/material/Box";
 import AppBar from "@mui/material/AppBar";
@@ -19,6 +21,16 @@ import Dump from "./Dump";
 import { createTheme, ThemeProvider } from "@mui/material";
 
 const theme = createTheme({});
+
+function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+}
 
 function ButtonAppBar() {
   return (
@@ -63,6 +75,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <Router>
+        <ScrollToTop />
         <div>
           <ButtonAppBar />
           {/* A <Switch> looks through its children <Route>s and

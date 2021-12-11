@@ -1,7 +1,7 @@
 import "./App.css";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { geoTransverseMercator } from "d3-geo";
-import { scaleQuantile, scaleQuantize, scaleThreshold } from "d3-scale";
+import { scaleQuantile, scaleThreshold } from "d3-scale";
 import _ from "lodash";
 import { useNavigate } from "react-router-dom";
 import Grid from "@mui/material/Grid";
