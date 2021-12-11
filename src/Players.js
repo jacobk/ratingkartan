@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import Autocomplete from "@mui/material/Autocomplete";
-import { playerList, regions } from "./data";
+import { playerList, regions, divisions } from "./data";
 import React from "react";
 import Chip from "@mui/material/Chip";
 import TextField from "@mui/material/TextField";
@@ -56,45 +56,6 @@ export default function Players() {
     ...selectedOptions,
     ...selectedTerms.map((t) => ({ term: true, name: t })),
   ];
-
-  // https://davidmathlogic.com/colorblind/#%23648FFF-%23785EF0-%23DC267F-%23FE6100-%23FFB000
-  const divisions = {
-    novice: {
-      name: "Novice",
-      code: "MA4",
-      color: "#648FFF",
-      cond: "<",
-      limit: 850,
-    },
-    recreational: {
-      name: "Recreational",
-      code: "MA3",
-      color: "#785EF0",
-      cond: "<",
-      limit: 900,
-    },
-    intermediate: {
-      name: "Intermediate",
-      code: "MA2",
-      color: "#DC267F",
-      cond: "<",
-      limit: 935,
-    },
-    advanced: {
-      name: "Advanced",
-      code: "MA1",
-      color: "#FE6100",
-      cond: "<",
-      limit: 970,
-    },
-    pro: {
-      name: "Pro",
-      code: "MPO",
-      color: "#FFB000",
-      cond: ">",
-      limit: 970,
-    },
-  };
 
   const filterByRegion = (regions, players) =>
     regions.length == 0

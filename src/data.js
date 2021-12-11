@@ -30,6 +30,61 @@ export function getName(code) {
   return names[code];
 }
 
+// https://davidmathlogic.com/colorblind/#%23648FFF-%23785EF0-%23DC267F-%23FE6100-%23FFB000
+export const divisions = {
+  novice: {
+    name: "Novice",
+    code: "MA4",
+    color: "#648FFF",
+    cond: "<",
+    limit: 850,
+  },
+  recreational: {
+    name: "Recreational",
+    code: "MA3",
+    color: "#785EF0",
+    cond: "<",
+    limit: 900,
+  },
+  intermediate: {
+    name: "Intermediate",
+    code: "MA2",
+    color: "#DC267F",
+    cond: "<",
+    limit: 935,
+  },
+  advanced: {
+    name: "Advanced",
+    code: "MA1",
+    color: "#FE6100",
+    cond: "<",
+    limit: 970,
+  },
+  pro: {
+    name: "Pro",
+    code: "MPO",
+    color: "#FFB000",
+    cond: ">",
+    limit: 970,
+  },
+};
+
+export function getDivision(rating) {
+  if (rating < 850) {
+    return divisions.novice;
+  }
+  if (rating < 900) {
+    return divisions.recreational;
+  }
+  if (rating < 935) {
+    return divisions.intermediate;
+  }
+  if (rating < 970) {
+    return divisions.advanced;
+  }
+  return divisions.pro;
+}
+
 export const statsByMunicipality = byMunicipality;
 export const statsByCounty = byCounty;
 export const regions = _.sortBy(
