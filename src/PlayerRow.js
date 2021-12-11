@@ -1,32 +1,37 @@
 import React from "react";
 import { makeStyles } from "@mui/styles";
 import { styled } from "@mui/styles";
-import { Box, fontSize } from "@mui/system";
+import { Box } from "@mui/system";
+import Paper from "@mui/material/Paper";
 import Link from "@mui/material/Link";
 import { Divider } from "@mui/material";
 import ArrowDropUpIcon from "@mui/icons-material/ArrowDropUp";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import ArrowRightIcon from "@mui/icons-material/ArrowRight";
+import { getDivision } from "./data";
 
-const seBlue = "#00599c";
-const seYellow = "#f2ce1b";
+// const seBlue = "#00599c";
+// const seYellow = "#f2ce1b";
+const seYellow = "#2976fe";
+const seBlue = "#ffc626";
 
 function getDiffIcon(value) {
   if (value < 0) {
-    return <ArrowDropDownIcon color="error" fontSize="small" />;
+    return <ArrowDropDownIcon fontSize="small" />;
   }
   if (value > 0) {
-    return <ArrowDropUpIcon color="success" fontSize="small" />;
+    return <ArrowDropUpIcon fontSize="small" />;
   }
 }
 
-function Diff({ value }) {
+function Diff({ value, color }) {
   return value ? (
     <Box
       sx={{
         display: "inline-flex",
         alignItems: "center",
         fontWeight: "normal",
+        color,
       }}
     >
       <Box
@@ -44,52 +49,57 @@ function Diff({ value }) {
   );
 }
 
-const StatBox = ({ stat, diff, variant, sx }) => (
-  <Box
-    sx={{
-      flex: {
-        xs: "0 0 18",
-        sm: "1",
-      },
-      height: {
-        xs: 18,
-        sm: 30,
-      },
-      fontSize: {
-        xs: "12px",
-        sm: "14px",
-      },
-      width: {
-        xs: 90,
-        sm: 100,
-      },
-      display: "flex",
-      alignItems: "center",
-      justifyContent: "space-between",
-      verticalAlign: "middle",
-      px: {
-        xs: 0.5,
-        sm: 1,
-      },
-      mb: "2px",
-      mr: {
-        xs: 0.5,
-        sm: 0,
-      },
-      borderRadius: 0.5,
-      fontFamily: "monospace",
-      fontWeight: "bold",
-      borderWidth: 1,
-      borderColor: { rating: "grey.500", ranking: seBlue }[variant],
-      borderStyle: "solid",
-      color: { rating: "initial", ranking: seBlue }[variant],
-      backgroundColor: { rating: "white", ranking: seYellow }[variant],
-      ...sx,
-    }}
-  >
-    {stat} <Diff value={diff} />
-  </Box>
-);
+const StatBox = ({ stat, diff, variant, sx }) => {
+  const isRating = variant === "rating";
+  return (
+    <Paper
+      elevation={isRating ? 1 : 0}
+      sx={{
+        flex: {
+          xs: "0 0 18",
+          sm: "1",
+        },
+        height: {
+          xs: 18,
+          sm: 30,
+        },
+        fontSize: {
+          xs: "12px",
+          sm: "14px",
+        },
+        width: {
+          xs: 100,
+          sm: 100,
+        },
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "space-between",
+        verticalAlign: "middle",
+        px: {
+          xs: 0.5,
+          sm: 1,
+        },
+        mb: "2px",
+        mr: {
+          xs: 0.5,
+          sm: 0,
+        },
+        borderRadius: 0.5,
+        fontFamily: "monospace",
+        fontWeight: "bold",
+        borderWidth: 0,
+        borderColor: { rating: "grey.500", ranking: seBlue }[variant],
+        borderStyle: "solid",
+        color: { rating: "white", ranking: "initial" }[variant],
+        bgcolor: isRating ? getDivision(stat).color : "initial",
+        ...sx,
+      }}
+    >
+      <Box>{stat}</Box>{" "}
+      <Diff value={diff} color={isRating ? "white" : "text.secondary"} />
+    </Paper>
+  );
+};
 
 function PlayerRow({ index, player, style }) {
   const {
@@ -231,6 +241,7 @@ function PlayerRow({ index, player, style }) {
           flex: {
             xs: "0 1 0",
             sm: "0 0 200px",
+            md: "0 0 400px",
           },
           flexDirection: {
             xs: "column",
@@ -240,7 +251,7 @@ function PlayerRow({ index, player, style }) {
       >
         <StatBox stat={rating} diff={ratingMom} variant="rating" />
         <StatBox
-          stat={`S-${ranking}`}
+          stat={`SE-${ranking}`}
           diff={rankingMom}
           variant="ranking"
           sx={{
