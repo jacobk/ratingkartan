@@ -25,6 +25,7 @@
     "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
     "react-simple-maps": "^2.3.0",
+    "react-virtualized": "^9.22.3",
     "react-virtualized-auto-sizer": "^1.0.6",
     "react-window": "^1.8.6",
     "recharts": "^2.1.6",

@@ -3,40 +3,16 @@ import { useSearchParams } from "react-router-dom";
 import Autocomplete from "@mui/material/Autocomplete";
 import { playerList, regions, divisions } from "./data";
 import React from "react";
-import Chip from "@mui/material/Chip";
 import TextField from "@mui/material/TextField";
 import Box from "@mui/material/Box";
-import Paper from "@mui/material/Paper";
-import Avatar from "@mui/material/Avatar";
-import ListItem from "@mui/material/ListItem";
-import Grid from "@mui/material/Grid";
 import Stack from "@mui/material/Stack";
-import ListItemButton from "@mui/material/ListItemButton";
-import ListItemText from "@mui/material/ListItemText";
-import { FixedSizeList } from "react-window";
-import AutoSizer from "react-virtualized-auto-sizer";
+import { List, WindowScroller, AutoSizer } from "react-virtualized";
 import _ from "lodash";
-import { Typography } from "@mui/material";
-import Divider from "@mui/material/Divider";
 import PlayerRow from "./PlayerRow";
 import { bin } from "d3-array";
 import { range } from "d3-array";
-import { scaleBand } from "d3-scale";
 import useMediaQuery from "@mui/material/useMediaQuery";
-import {
-  BarChart,
-  Bar,
-  Cell,
-  XAxis,
-  YAxis,
-  CartesianGrid,
-  Tooltip,
-  Legend,
-  ResponsiveContainer,
-  ReferenceLine,
-  ReferenceArea,
-  ComposedChart,
-} from "recharts";
+import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from "recharts";
 import { useTheme } from "@mui/material/styles";
 
 export default function Players() {
@@ -58,7 +34,7 @@ export default function Players() {
   ];
 
   const filterByRegion = (regions, players) =>
-    regions.length == 0
+    regions.length === 0
       ? players
       : players.filter((p) =>
           selectedRegions.some((r) =>
@@ -67,7 +43,7 @@ export default function Players() {
         );
 
   const filterByTerms = (terms, players) => {
-    return terms.length == 0
+    return terms.length === 0
       ? players
       : players.filter((p) =>
           terms.some((t) => p.name.toLowerCase().includes(t.toLowerCase()))
@@ -197,6 +173,7 @@ export default function Players() {
               >
                 {Object.keys(divisions).map((d, idx) => (
                   <XAxis
+                    key={idx}
                     dataKey={(r) => `Rating ${r.label}`}
                     xAxisId={idx}
                     hide
@@ -204,6 +181,7 @@ export default function Players() {
                 ))}
                 {Object.keys(divisions).map((d, idx) => (
                   <Bar
+                    key={idx}
                     dataKey={d}
                     fill={divisions[d].color}
                     xAxisId={idx}
@@ -227,6 +205,7 @@ export default function Players() {
           const div = divisions[d];
           return (
             <Box
+              key={idx}
               sx={{
                 m: 0.2,
                 display: "flex",
@@ -265,28 +244,35 @@ export default function Players() {
                     color: "text.disabled",
                   }}
                 >
-                  {div.cond}
+                  {div.prefix && div.cond}
                   {div.limit}
+                  {!div.prefix && div.cond}
                 </Box>
               </Box>
             </Box>
           );
         })}
       </Box>
-      <Box height={1000}>
-        <AutoSizer>
-          {({ height, width }) => (
-            <FixedSizeList
-              height={height}
-              width={width}
-              itemSize={50}
-              itemCount={selectedPlayers.players.length}
-              overscanCount={20}
-            >
-              {renderRow}
-            </FixedSizeList>
+      <Box>
+        <WindowScroller>
+          {({ height, isScrolling, onChildScroll, scrollTop }) => (
+            <AutoSizer>
+              {({ width }) => (
+                <List
+                  autoHeight
+                  height={height}
+                  isScrolling={isScrolling}
+                  onScroll={onChildScroll}
+                  rowCount={selectedPlayers.players.length}
+                  rowHeight={50}
+                  rowRenderer={renderRow}
+                  scrollTop={scrollTop}
+                  width={width}
+                />
+              )}
+            </AutoSizer>
           )}
-        </AutoSizer>
+        </WindowScroller>
       </Box>
     </Stack>
   );
