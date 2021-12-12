@@ -90,19 +90,27 @@ const StatBox = ({ stat, diff, variant, sx }) => {
   );
 };
 
-function PlayerRow({ index, player, style, key }) {
-  const { name, pdgaNumber, stats, county, countyCode, municipality } = player;
+function PlayerRow({
+  index,
+  style,
 
-  const rating = stats[0].rating;
-  const mom = stats[0].mom;
+  position,
+  tie,
+  name,
+  pdgaNumber,
+  rating,
+  mom,
+  ranking,
+  rankingTie,
+  rankingMom,
+  county,
+  countyCode,
+  municipality,
+}) {
   const ratingMom = mom ? mom.rating : "";
-  const ranking = stats[0].ranking;
-  const rankingMom = mom ? mom.ranking : "";
-
   return (
     <Box
       component="li"
-      key={key}
       sx={{
         display: "flex",
         height: 50,
@@ -130,15 +138,16 @@ function PlayerRow({ index, player, style, key }) {
             color: (theme) => theme.palette.primary.contrastText,
             mx: 1,
             fontSize: {
-              1: "16px",
-              2: "16px",
-              3: "14px",
+              1: "14px",
+              2: "14px",
+              3: "12px",
               4: "9px",
             }[index.toString().length],
             borderRadius: 1,
           }}
         >
-          {index}
+          {tie ? "T" : ""}
+          {position}
         </Box>
       </Box>
       <Divider variant="middle" orientation="vertical" flexItem />
@@ -231,7 +240,7 @@ function PlayerRow({ index, player, style, key }) {
       >
         <StatBox stat={rating} diff={ratingMom} variant="rating" />
         <StatBox
-          stat={`SE-${ranking}`}
+          stat={`SE-${rankingTie ? "T" : ""}${ranking}`}
           diff={rankingMom}
           variant="ranking"
           sx={{

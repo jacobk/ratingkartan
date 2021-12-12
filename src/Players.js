@@ -53,8 +53,8 @@ export default function Players() {
   useEffect(() => {
     const sortedPlayers = _.orderBy(
       filterByTerms(selectedTerms, filterByRegion(selectedRegions, playerList)),
-      "stats[0].rating",
-      ["desc"]
+      ["stats[0].rating", "pdgaNumber"],
+      ["desc", "desc"]
     );
 
     const binner = bin().domain([0, 1060]).thresholds(range(550, 1060, 5));
@@ -91,6 +91,17 @@ export default function Players() {
       x1: bin.x1,
     }));
 
+    sortedPlayers.forEach((player, idx) => {
+      const prevPlayer = sortedPlayers[idx - 1];
+      if (idx > 0 && player.stats[0].rating === prevPlayer.stats[0].rating) {
+        prevPlayer._tie = true;
+        player._position = prevPlayer._position;
+      } else {
+        player._position = idx + 1;
+        player._tie = false;
+      }
+    });
+
     // momHist.forEach((bin, idx) => (hist[idx].momCount = bin.length));
 
     // console.log(hist, momHist);
@@ -101,10 +112,36 @@ export default function Players() {
   }, [searchParams]);
 
   function renderRow(props) {
-    const { index, style } = props;
+    const { index, style, key } = props;
     const player = selectedPlayers.players[index];
+    const { name, pdgaNumber, stats, county, countyCode, municipality } =
+      player;
+    const rating = stats[0].rating;
+    const mom = stats[0].mom;
 
-    return <PlayerRow player={player} index={index + 1} style={style} />;
+    const ranking = stats[0].ranking;
+    const rankingTie = stats[0].tie;
+    const rankingMom = mom ? mom.ranking : "";
+
+    return (
+      <PlayerRow
+        key={key}
+        index={index + 1}
+        position={player._position}
+        tie={player._tie}
+        style={style}
+        name={name}
+        pdgaNumber={pdgaNumber}
+        rating={rating}
+        mom={mom}
+        ranking={ranking}
+        rankingTie={rankingTie}
+        rankingMom={rankingMom}
+        county={county}
+        countyCode={countyCode}
+        municipality={municipality}
+      />
+    );
   }
 
   function matchRegion(term) {
