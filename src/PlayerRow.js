@@ -6,6 +6,7 @@ import { Divider } from "@mui/material";
 import ArrowDropUpIcon from "@mui/icons-material/ArrowDropUp";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import { getDivision } from "./data";
+import { useSearchParams } from "react-router-dom";
 
 function getDiffIcon(value) {
   if (value < 0) {
@@ -41,10 +42,11 @@ function Diff({ value, color }) {
   );
 }
 
-const StatBox = ({ stat, diff, variant, sx }) => {
+const StatBox = ({ stat, diff, variant, sx, onClick }) => {
   const isRating = variant === "rating";
   return (
     <Paper
+      onClick={() => onClick && onClick(stat)}
       elevation={isRating ? 1 : 0}
       sx={{
         flex: {
@@ -81,6 +83,7 @@ const StatBox = ({ stat, diff, variant, sx }) => {
         fontWeight: "bold",
         color: { rating: "white", ranking: "initial" }[variant],
         bgcolor: isRating ? getDivision(stat).color : "initial",
+        cursor: onClick ? "pointer" : "initial",
         ...sx,
       }}
     >
@@ -108,6 +111,7 @@ function PlayerRow({
   municipality,
 }) {
   const ratingMom = mom ? mom.rating : "";
+  const [searchParams, setSearchParams] = useSearchParams();
   return (
     <Box
       component="li"
@@ -238,7 +242,15 @@ function PlayerRow({
           },
         }}
       >
-        <StatBox stat={rating} diff={ratingMom} variant="rating" />
+        <StatBox
+          stat={rating}
+          diff={ratingMom}
+          variant="rating"
+          onClick={(rating) => {
+            searchParams.append("terms", rating.toString());
+            setSearchParams(searchParams);
+          }}
+        />
         <StatBox
           stat={`SE-${rankingTie ? "T" : ""}${ranking}`}
           diff={rankingMom}

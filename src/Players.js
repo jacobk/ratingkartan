@@ -14,6 +14,10 @@ import { range } from "d3-array";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from "recharts";
 import { useTheme } from "@mui/material/styles";
+import { integerPropType } from "@mui/utils";
+import "react-virtualized/styles.css";
+
+const ratingQueryPattern = /^(\d{3,4})(?:-(\d{3,4}))?$/;
 
 export default function Players() {
   const theme = useTheme();
@@ -46,7 +50,23 @@ export default function Players() {
     return terms.length === 0
       ? players
       : players.filter((p) =>
-          terms.some((t) => p.name.toLowerCase().includes(t.toLowerCase()))
+          terms.some((t) => {
+            const match = t.match(ratingQueryPattern);
+            if (match) {
+              const b1 = parseInt(match[1], 10);
+              const b2 = parseInt(match[2], 10);
+              const currentRating = p.stats[0].rating;
+              if (isNaN(b2)) {
+                return currentRating === b1;
+              } else if (b2 < b1) {
+                return true;
+              } else {
+                return currentRating >= b1 && currentRating <= b2;
+              }
+            } else {
+              return p.name.toLowerCase().includes(t.toLowerCase());
+            }
+          })
         );
   };
 
@@ -76,9 +96,9 @@ export default function Players() {
     const hist = binner(sortedPlayers.map((p) => p.stats[0].rating)).map(
       (bin) => ({
         [getDivision(bin.x0)]: bin.length,
-        label: `${bin.x0}-${bin.x1}`,
+        label: `${bin.x0}-${bin.x1 - 1}`,
         x0: bin.x0,
-        x1: bin.x1,
+        x1: bin.x1 - 1,
       })
     );
 
@@ -95,6 +115,7 @@ export default function Players() {
       const prevPlayer = sortedPlayers[idx - 1];
       if (idx > 0 && player.stats[0].rating === prevPlayer.stats[0].rating) {
         prevPlayer._tie = true;
+        player._tie = true;
         player._position = prevPlayer._position;
       } else {
         player._position = idx + 1;
@@ -102,9 +123,6 @@ export default function Players() {
       }
     });
 
-    // momHist.forEach((bin, idx) => (hist[idx].momCount = bin.length));
-
-    // console.log(hist, momHist);
     setSelectedPlayers({
       players: sortedPlayers,
       stats: { hist, momHist },
@@ -208,6 +226,7 @@ export default function Players() {
                 barCategoryGap={isXs ? 0 : 1}
                 data={selectedPlayers.stats.hist}
               >
+                <Tooltip />
                 {Object.keys(divisions).map((d, idx) => (
                   <XAxis
                     key={idx}
@@ -223,9 +242,12 @@ export default function Players() {
                     fill={divisions[d].color}
                     xAxisId={idx}
                     fillOpacity={1}
+                    onClick={(data, idx) => {
+                      searchParams.append("terms", data.label);
+                      setSearchParams(searchParams);
+                    }}
                   />
                 ))}
-                <Tooltip />
               </BarChart>
             </ResponsiveContainer>
           </Box>
@@ -291,10 +313,10 @@ export default function Players() {
         })}
       </Box>
       <Box>
-        <WindowScroller>
-          {({ height, isScrolling, onChildScroll, scrollTop }) => (
-            <AutoSizer>
-              {({ width }) => (
+        <AutoSizer disableHeight>
+          {({ width }) => (
+            <WindowScroller>
+              {({ height, isScrolling, onChildScroll, scrollTop }) => (
                 <List
                   autoHeight
                   height={height}
@@ -307,9 +329,9 @@ export default function Players() {
                   width={width}
                 />
               )}
-            </AutoSizer>
+            </WindowScroller>
           )}
-        </WindowScroller>
+        </AutoSizer>
       </Box>
     </Stack>
   );
