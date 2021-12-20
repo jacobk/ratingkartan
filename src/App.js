@@ -6,6 +6,7 @@ import {
   Route,
   Link as RouterLink,
   useLocation,
+  Navigate,
 } from "react-router-dom";
 import Box from "@mui/material/Box";
 import AppBar from "@mui/material/AppBar";
@@ -86,6 +87,7 @@ function App() {
             <Route path="/stats/:countyCode" element={<CountyStats />} />
             <Route path="/stats" element={<CountryStats />} />
             <Route path="/dump" element={<Dump />} />
+            <Route path="/" element={<Navigate replace to="/stats" />} />
           </Routes>
         </div>
       </Router>

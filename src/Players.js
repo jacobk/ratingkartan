@@ -202,8 +202,8 @@ export default function Players() {
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Län, Kommuner &amp; Spelare"
-            placeholder="Kommun, Län, Spelare"
+            label="Län, Kommuner, Spelare &amp;  Rating"
+            placeholder="Kommun, Län, Spelare, Rating"
             variant="standard"
           />
         )}
@@ -237,6 +237,7 @@ export default function Players() {
                 ))}
                 {Object.keys(divisions).map((d, idx) => (
                   <Bar
+                    cursor="pointer"
                     key={idx}
                     dataKey={d}
                     fill={divisions[d].color}
