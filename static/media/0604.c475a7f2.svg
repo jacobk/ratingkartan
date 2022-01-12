@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Aneby kommunvapen</dc:title><dc:date>06-12-2006</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#003d8f;fill-rule:nonzero;stroke:none;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 2.195,2.2903542 L 2.195,48.879515 C 11.703307,53.491863 24.016399,60.843552 32.974906,71.149134 C 49.660904,90.34418 37.93734,100.53104 54.623336,119.7261 C 71.309344,138.92114 83.03562,128.73303 99.721644,147.92807 C 116.40765,167.12312 104.68408,177.30999 121.37007,196.50503 C 138.05607,215.70008 149.78236,205.51195 166.46838,224.70701 C 183.15439,243.90207 188.08576,273.28397 188.08575,273.28397 C 188.08575,273.28397 189.74733,276.59074 192.43407,281.14201 C 213.03605,268.18628 231.62421,248.60533 241.44587,220.94881 C 228.96427,203.96359 238.25599,193.86428 222.62385,175.88156 C 205.93784,156.6865 194.21155,166.87464 177.52554,147.67959 C 160.83954,128.48456 172.56313,118.29768 155.87711,99.102632 C 139.1911,79.907558 127.4648,90.095693 110.7788,70.900658 C 94.092778,51.705586 105.84742,41.518751 89.161434,22.323693 C 75.652186,6.7830843 65.374069,10.494906 53.101424,2.2903542 L 2.195,2.2903542 z "
+     style="color:#000000;fill:#eeeeee;fill-rule:nonzero;stroke:none;visibility:visible;display:block"
+     id="Stream" />
+  <g
+     style="fill:#003d8f"
+     id="Waterfall-symbol">
+    <path
+       d="M 84.364362,110.53137 L 96.689986,85.626677 L 100.67004,89.748142 L 91.339226,107.96441 L 109.72125,99.120951 L 113.61451,103.15253 L 88.282432,114.58865 L 84.364362,110.53137 z "
+       id="path2808" />
+    <path
+       d="M 136.38627,164.40164 L 148.7119,139.49694 L 152.69195,143.61841 L 143.36114,161.83467 L 161.74317,152.99121 L 165.63642,157.0228 L 140.30434,168.45892 L 136.38627,164.40164 z "
+       id="flowRoot2791" />
+    <path
+       d="M 123.38079,150.93406 L 135.70641,126.02937 L 139.68647,130.15083 L 130.35565,148.3671 L 148.73767,139.52363 L 152.63094,143.55523 L 127.29885,154.99133 L 123.38079,150.93406 z "
+       id="path2802" />
+    <path
+       d="M 110.37533,137.46652 L 122.70094,112.56181 L 126.68099,116.68327 L 117.35019,134.89955 L 135.73221,126.05608 L 139.62548,130.08768 L 114.29339,141.52378 L 110.37533,137.46652 z "
+       id="path2804" />
+    <path
+       d="M 97.369846,123.99894 L 109.69546,99.094237 L 113.67551,103.2157 L 104.3447,121.43197 L 122.72673,112.58851 L 126.61999,116.62011 L 101.2879,128.05621 L 97.369846,123.99894 z "
+       id="path2806" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

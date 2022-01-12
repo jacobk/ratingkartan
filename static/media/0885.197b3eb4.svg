@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Borgholm kommunvapen</dc:title><dc:date>15-11-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="fill:#003d8f;stroke:none"
+     id="Shield" />
+  <path
+     d="M 33.4065,190.18751 C 18.042667,190.18751 12.575519,198.7222 4.219,204.75001 C 18.717654,276.00024 86.73669,302.75001 125.50025,302.75001 C 164.28839,302.75 234.66296,274.9998 247.50025,200.75001 C 241.40828,195.52965 235.4318,190.18751 223.2815,190.18751 C 199.54449,190.18751 199.581,210.62501 175.844,210.62501 C 152.10699,210.62499 152.11226,190.18751 128.37525,190.18751 C 104.63824,190.18751 104.64351,210.62501 80.9065,210.62501 C 57.169484,210.62499 57.143503,190.18751 33.4065,190.18751 z "
+     style="fill:#eeeeee;stroke:none"
+     id="Vagskura" />
+  <g
+     id="g3289">
+    <path
+       d="M 42.58104,87.018017 L 211.00044,87.018017 L 211.00044,148.34647 L 42.58104,148.34647 L 42.58104,87.018017 z "
+       style="fill:#eeeeee;stroke:#003d8f;stroke-width:0.245;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect7575" />
+    <path
+       d="M 33.190469,72.850915 L 215.66818,72.850915 L 215.66818,88.496218 L 33.190469,88.496218 L 33.190469,72.850915 z "
+       style="fill:#eeeeee;stroke:#003d8f;stroke-width:0.245309"
+       id="Roof" />
+    <g
+       transform="matrix(0.245309,0,0,0.245309,-80.74636,-134.60826)"
+       style="fill:#eeeeee;stroke:#003d8f;stroke-width:1"
+       id="Center-building">
+      <path
+         d="M 747.54965,909.18693 L 933.97236,909.18693 L 933.97236,1095.4393 L 747.54965,1095.4393 L 747.54965,909.18693 z "
+         id="rect2812" />
+      <path
+         d="M 840.22476,864.49135 L 941.72539,909.06883 L 738.72414,909.06883 L 840.22476,864.49135 z "
+         id="Center-building-roof" />
+      <g
+         id="Trappa">
+        <path
+           d="M 733.14992,1095.5867 L 948.37209,1095.5867 L 948.37209,1109.9031 L 733.14992,1109.9031 L 733.14992,1095.5867 z "
+           id="use6655" />
+        <path
+           d="M 721.04648,1110.1049 L 960.47553,1110.1049 L 960.47553,1124.3848 L 721.04648,1124.3848 L 721.04648,1110.1049 z "
+           id="use7544" />
+        <path
+           d="M 709.5971,1124.5392 L 971.92467,1124.5392 L 971.92467,1138.7863 L 709.5971,1138.7863 L 709.5971,1124.5392 z "
+           id="use7548" />
+        <path
+           d="M 696.21723,1138.8566 L 985.30454,1138.8566 L 985.30454,1153.0673 L 696.21723,1153.0673 L 696.21723,1138.8566 z "
+           id="use7550" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.245309,0,0,0.245309,-80.74636,-134.60826)"
+       style="fill:#003d8f;stroke:none;stroke-width:1"
+       id="Upper_windows">
+      <path
+         d="M 827.81445,936.927 L 853.70753,936.927 L 853.70753,986.68974 L 827.81445,986.68974 L 827.81445,936.927 z "
+         id="Upper-Window" />
+      <use
+         transform="translate(52.3147,0)"
+         id="use4595"
+         x="0"
+         y="0"
+         width="2540"
+         height="1610"
+         xlink:href="#Upper-Window" />
+      <use
+         transform="translate(-52.31469,0)"
+         id="use4606"
+         x="0"
+         y="0"
+         width="2540"
+         height="1610"
+         xlink:href="#Upper-Window" />
+      <g
+         id="g4805">
+        <use
+           transform="translate(131.4246,0)"
+           id="use4597"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+        <use
+           transform="translate(185.8659,0)"
+           id="use4599"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+        <use
+           transform="translate(240.3072,0)"
+           id="use4602"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+        <use
+           transform="translate(294.7484,0)"
+           id="use4604"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+        <use
+           transform="translate(-128.8728,0)"
+           id="use4608"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+        <use
+           transform="translate(-183.3141,0)"
+           id="use4610"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+        <use
+           transform="translate(-237.7554,0)"
+           id="use4612"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+        <use
+           transform="translate(-292.1967,0)"
+           id="use4614"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Upper-Window" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.245309,0,0,0.245309,-80.74636,-134.60826)"
+       style="fill:#003d8f;stroke:none;stroke-width:1"
+       id="Lower_windows">
+      <use
+         transform="translate(0,96.00026)"
+         id="use4815"
+         x="0"
+         y="0"
+         width="2540"
+         height="1610"
+         xlink:href="#g4805" />
+      <path
+         d="M 826.00977,1030.6714 C 826.00977,1030.6714 826.16732,1018.6714 840.7608,1018.6714 C 855.80541,1018.6714 855.51183,1030.6714 855.51183,1030.6714 L 855.51183,1084.0431 L 826.00977,1084.0431 L 826.00977,1030.6714 z "
+         id="Lower-window" />
+      <use
+         transform="translate(-55,0)"
+         id="use4793"
+         x="0"
+         y="0"
+         width="2540"
+         height="1610"
+         xlink:href="#Lower-window" />
+      <use
+         transform="translate(55,0)"
+         id="use4795"
+         x="0"
+         y="0"
+         width="2540"
+         height="1610"
+         xlink:href="#Lower-window" />
+    </g>
+    <g
+       transform="matrix(0.245309,0,0,0.245309,-80.74636,-134.48142)"
+       style="fill:#eeeeee;stroke:#003d8f;stroke-width:1"
+       id="Torn">
+      <path
+         d="M 1202.1208,818.74583 L 1202.1208,773.84891 C 1202.1208,773.84891 1193.7728,767.96436 1202.1208,767.96436 C 1202.1208,767.96436 1216.3383,761.96436 1230.5557,761.96436 C 1244.7731,761.96436 1258.9906,767.96436 1258.9906,767.96436 C 1266.4361,767.96436 1258.9906,773.84891 1258.9906,773.84891 L 1258.9906,818.74583 L 1202.1208,818.74583 z "
+         id="path1910" />
+      <path
+         d="M 1230.41,707.85272 C 1246.8382,704.31493 1233.6787,690.98663 1230.41,678.78773 C 1226.7982,691.07644 1213.9339,703.9751 1230.41,707.85272 z "
+         id="path1893" />
+      <path
+         d="M 1227.215,706.82208 L 1227.215,713.85189 L 1220.9345,713.85189 L 1220.9345,716.60269 L 1225.2128,716.60269 L 1225.2128,729.59256 L 1235.4976,729.59256 L 1235.4976,716.60269 L 1239.7758,716.60269 L 1239.7758,713.85189 L 1233.4954,713.85189 L 1233.7081,706.9749 L 1227.215,706.82208 z "
+         id="path1904" />
+      <path
+         d="M 1199.969,767.87005 C 1199.969,767.87005 1221.0023,765.60525 1230.3551,765.60525 C 1239.3307,765.60525 1260.7412,767.87005 1260.7412,767.87005 C 1259.7165,764.04584 1261.0243,727.8585 1230.3551,727.8585 C 1200.0633,727.8585 1200.8928,764.42249 1199.969,767.87005 z "
+         id="path1891" />
+      <path
+         d="M 1154.8604,907.56988 C 1154.8604,907.56988 1192.6076,895.79071 1230.3548,895.79071 C 1268.102,895.79071 1305.8492,907.56988 1305.8492,907.56988 L 1305.8492,1152.9448 L 1154.8604,1152.9448 L 1154.8604,907.56988 z "
+         id="rect1912" />
+      <path
+         d="M 1151.6532,908.28795 C 1151.6532,908.28795 1191.0042,904.51328 1230.3551,904.51328 C 1269.7061,904.51328 1309.057,908.28795 1309.057,908.28795 C 1295.0392,884.00842 1319.9092,813.54362 1230.3551,813.54362 C 1141.1784,813.54362 1163.6896,887.44024 1151.6532,908.28795 z "
+         id="path1895" />
+      <g
+         style="fill:#003d8f;stroke:none"
+         id="Torn-window">
+        <g
+           id="Torn-window-center">
+          <path
+             d="M 1194.3016,934.6174 L 1168.4086,936.6174 L 1168.4086,986.38014 L 1194.3016,984.38014 L 1194.3016,934.6174 z "
+             id="path4645" />
+          <path
+             d="M 1244.2038,932.6174 L 1216.5063,932.6174 L 1216.5063,982.38014 L 1244.2038,982.38014 L 1244.2038,932.6174 z "
+             id="path4647" />
+          <use
+             transform="matrix(-1,0,0,1,2460.71,0)"
+             id="use4654"
+             x="0"
+             y="0"
+             width="2540"
+             height="1610"
+             xlink:href="#path4645" />
+        </g>
+        <use
+           transform="translate(0,97.66286)"
+           id="Torn-window-bottom"
+           x="0"
+           y="0"
+           width="2540"
+           height="1610"
+           xlink:href="#Torn-window-center" />
+        <g
+           id="Torn-window-upper">
+          <path
+             d="M 1209.9164,778.86917 C 1209.9164,778.86917 1211.0569,776.86917 1215.3553,776.86917 C 1219.8792,776.86917 1220.7941,780.86917 1220.7941,780.86917 L 1220.7941,808.05425 L 1209.9164,806.05425 L 1209.9164,778.86917 z "
+             id="rect5718" />
+          <use
+             transform="matrix(-1,0,0,1,2460.71,0)"
+             id="use6606"
+             x="0"
+             y="0"
+             width="2540"
+             height="1610"
+             xlink:href="#rect5718" />
+        </g>
+      </g>
+    </g>
+    <use
+       transform="translate(-191.14188,2e-6)"
+       style="fill:#eeeeee;stroke:#003d8f;stroke-width:1"
+       id="Torn-2"
+       x="0"
+       y="0"
+       width="2540"
+       height="1610"
+       xlink:href="#Torn" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round"
+     id="Frame" />
+</svg>

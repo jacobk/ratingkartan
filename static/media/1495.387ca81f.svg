@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath5686">
+      <path
+         d="M 307.60889,104.06624 L 345.63301,158.94246 L 269.58477,158.94246 L 307.60889,104.06624 z"
+         id="path5688"
+         style="fill:#d40000;stroke:#000000" />
+    </clipPath>
+    <clipPath
+       id="clipPath5674">
+      <path
+         d="M 303.97889,98.498257 L 339.7151,173.40571 L 268.24268,173.40571 L 303.97889,98.498257 z"
+         id="path5676"
+         style="fill:#d40000;stroke:#000000" />
+    </clipPath>
+    <clipPath
+       id="clipPath5720">
+      <path
+         d="M 273.66646,134.6431 L 291.24987,172.62989 L 273.66646,172.62989 L 273.66646,134.6431 z"
+         id="path5722"
+         style="fill:#d40000;stroke:#000000" />
+    </clipPath>
+    <g
+       transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,-6.44426,254.4844)"
+       id="Halm">
+      <use
+         transform="matrix(0,1,-1,0,436.83577,-148.68295)"
+         id="use4736"
+         style="fill:#d40000;fill-opacity:1"
+         x="0"
+         y="0"
+         width="249"
+         height="275"
+         xlink:href="#path4545" />
+      <path
+         d="M 243.25936,94.619175 L 243.25936,193.53365 M 249.85937,94.619175 L 249.85937,193.53365 M 256.45936,94.619175 L 256.45936,193.53365 M 263.05937,94.619175 L 263.05937,193.53365 M 269.65936,94.619175 L 269.65936,193.53365 M 276.25936,94.619175 L 276.25936,193.53365 M 282.85936,94.619175 L 282.85936,193.53365 M 289.45937,94.619175 L 289.45937,193.53365 M 296.05935,94.619175 L 296.05935,193.53365 M 302.65936,94.619175 L 302.65936,193.53365 M 309.25936,94.619175 L 309.25936,193.53365 M 315.85936,94.619175 L 315.85936,193.53365 M 322.45935,94.619175 L 322.45935,193.53365 M 329.05936,94.619175 L 329.05936,193.53365 M 335.65935,94.619175 L 335.65935,193.53365 M 342.25936,94.619175 L 342.25936,193.53365 M 342.25936,94.619175 L 342.25936,193.53365"
+         id="path4545"
+         style="stroke:#eeeeee;stroke-width:1" />
+    </g>
+    <clipPath
+       id="clipPath2433">
+      <rect
+         width="151.16731"
+         height="42.377445"
+         x="68.309921"
+         y="142.17514"
+         id="rect2435"
+         style="fill:#d40000;stroke:#000000" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Skara kommunvapen</dc:title><dc:date>2008-08-03</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z"
+     id="Shield"
+     style="fill:#eeeeee;stroke:none" />
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z"
+     id="Frame"
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel" />
+  <g
+     transform="matrix(0.9178057,0,0,0.9178057,9.4143537,7.4523677)"
+     id="Kyrka"
+     style="fill:#d40000;stroke:#eeeeee">
+    <g
+       id="Absid">
+      <rect
+         width="14.200996"
+         height="68.990784"
+         x="216.37964"
+         y="183.03328"
+         id="rect3704" />
+      <path
+         d="M 217.35387,148.05086 L 234.93728,186.03765 L 217.35387,186.03765 L 217.35387,148.05086 z"
+         id="path2514" />
+      <use
+         transform="translate(-56.312364,13.708091)"
+         clip-path="url(#clipPath5720)"
+         id="use5713"
+         x="0"
+         y="0"
+         width="249"
+         height="275"
+         xlink:href="#Halm" />
+    </g>
+    <g
+       id="Main-building">
+      <rect
+         width="89.170807"
+         height="70.585365"
+         x="66.618416"
+         y="181.43866"
+         id="rect2505" />
+      <rect
+         width="43.297604"
+         height="72.017174"
+         x="176.38844"
+         y="180.00687"
+         id="use3542" />
+      <rect
+         width="151.16731"
+         height="42.377445"
+         x="68.309921"
+         y="142.17514"
+         id="Main-roof" />
+      <g
+         clip-path="url(#clipPath2433)"
+         id="g5702">
+        <use
+           transform="translate(-195.30614,14.155016)"
+           id="use5698"
+           x="0"
+           y="0"
+           width="249"
+           height="275"
+           xlink:href="#Halm" />
+        <use
+           transform="translate(-91.67134,14.155016)"
+           id="use5700"
+           x="0"
+           y="0"
+           width="249"
+           height="275"
+           xlink:href="#Halm" />
+      </g>
+    </g>
+    <g
+       id="tower-left">
+      <rect
+         width="58.189934"
+         height="143.57733"
+         x="24.667473"
+         y="108.33644"
+         id="rect2501" />
+      <path
+         d="M 53.76244,34.428992 L 89.49865,109.33644 L 18.02623,109.33644 L 53.76244,34.428992 z"
+         id="rect2507" />
+      <use
+         transform="translate(-250.21622,-63.768934)"
+         clip-path="url(#clipPath5674)"
+         id="use5661"
+         x="0"
+         y="0"
+         width="249"
+         height="275"
+         xlink:href="#Halm" />
+    </g>
+    <g
+       id="Tower-right">
+      <rect
+         width="63.882427"
+         height="82.534164"
+         x="132.82486"
+         y="116.55894"
+         id="rect2503" />
+      <path
+         d="M 196.70161,185.19861 L 196.70161,252.02402 L 132.83053,252.02402 L 132.83053,185.19861 L 164.76607,139.27429 L 196.70161,185.19861 z"
+         id="path2770" />
+      <path
+         d="M 164.76607,62.667107 L 202.79019,117.54333 L 126.74195,117.54333 L 164.76607,62.667107 z"
+         id="path2510" />
+      <use
+         transform="translate(-142.84259,-41.098804)"
+         clip-path="url(#clipPath5686)"
+         id="use5684"
+         x="0"
+         y="0"
+         width="249"
+         height="275"
+         xlink:href="#Halm" />
+    </g>
+    <path
+       d="M 162.94637,39.211668 L 162.94637,46.926388 L 155.36844,46.926388 L 155.36844,50.564891 L 162.94637,50.564891 L 162.94637,57.32211 C 160.7804,58.074 159.2258,60.126427 159.2258,62.547328 C 159.2258,65.603798 161.72283,68.100832 164.7793,68.100832 C 167.83577,68.100832 170.30545,65.603798 170.30545,62.547328 C 170.30545,60.126428 168.75085,58.074 166.58488,57.32211 L 166.58488,50.564891 L 174.16281,50.564891 L 174.16281,46.926388 L 166.58488,46.926388 L 166.58488,39.211668 L 162.94637,39.211668 z"
+       id="Cross"
+       style="stroke-width:0.87542915" />
+    <use
+       transform="translate(-111.00363,-28.222504)"
+       id="Cross-2"
+       x="0"
+       y="0"
+       width="249"
+       height="275"
+       xlink:href="#Cross" />
+    <g
+       id="Doors"
+       style="fill:#eeeeee;stroke:none">
+      <path
+         d="M 158.40315,249.886 L 164.76606,249.886 L 171.12896,249.886 L 171.12896,220.56833 C 171.16833,204.73126 169.51698,200.96704 164.76606,200.96704 C 160.12008,200.96704 158.36379,204.73126 158.40315,220.56833 L 158.40315,249.886 z"
+         id="path2754" />
+      <path
+         d="M 101.47832,249.886 L 107.84123,249.886 L 114.20413,249.886 L 114.20413,220.56833 C 114.2435,204.73126 112.59215,200.96704 107.84123,200.96704 C 103.19525,200.96704 101.43896,204.73126 101.47832,220.56833 L 101.47832,249.886 z"
+         id="path2752" />
+    </g>
+    <g
+       id="Windows"
+       style="fill:#eeeeee">
+      <path
+         d="M 37.089655,146.75413 L 41.644662,146.75413 L 46.199671,146.75413 L 46.199671,130.47648 C 46.227844,121.68348 43.251526,118.48428 41.644663,118.48428 C 40.065973,118.48428 37.061483,121.68348 37.089655,130.47648 L 37.089655,146.75413 z"
+         id="path4453" />
+      <path
+         d="M 61.325207,146.75413 L 65.880214,146.75413 L 70.435223,146.75413 L 70.435223,130.47648 C 70.463396,121.68348 67.487078,118.48428 65.880215,118.48428 C 64.301525,118.48428 61.297035,121.68348 61.325207,130.47648 L 61.325207,146.75413 z"
+         id="path2750" />
+      <path
+         d="M 203.26296,205.43641 L 206.66012,205.43641 L 210.05726,205.43641 L 210.05726,196.85261 C 210.07827,192.21574 209.19663,191.11363 206.66012,191.11363 C 204.17963,191.11363 203.24196,192.21574 203.26296,196.85261 L 203.26296,205.43641 z"
+         id="path2756" />
+      <rect
+         width="9.2140646"
+         height="12.669335"
+         x="175.70776"
+         y="181.70763"
+         id="rect2762" />
+      <rect
+         width="9.2140646"
+         height="12.669335"
+         x="144.61031"
+         y="181.89957"
+         id="rect2764" />
+      <rect
+         width="6.5266299"
+         height="18.812044"
+         x="120.4548"
+         y="191.11363"
+         id="rect2766" />
+      <rect
+         width="6.5266299"
+         height="18.812044"
+         x="88.701057"
+         y="191.11363"
+         id="rect2768" />
+      <rect
+         width="8.4462261"
+         height="6.9105468"
+         x="178.23441"
+         y="125.27148"
+         id="rect2760" />
+      <rect
+         width="8.4462261"
+         height="6.9105468"
+         x="142.8515"
+         y="125.27148"
+         id="rect3578" />
+    </g>
+  </g>
+</svg>

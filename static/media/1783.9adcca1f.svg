@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168">
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Hagfors kommunvapen</dc:title><dc:date>21-08-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+    <clipPath
+       id="clipPath2793">
+      <g
+         id="Teglad">
+        <path
+           d="M 155.81668,92.455241 L 187.99999,209.45524 L 63,209.45524 L 93.540549,92.455241 L 155.81668,92.455241 z "
+           id="Skorsten" />
+        <path
+           d="M 5.625,210.90625 C 22.681581,277.53977 87.875458,302.75 125.5,302.75 C 162.46489,302.74999 228.14101,277.53977 245.34375,210.90625 L 5.625,210.90625 z "
+           id="rect2978" />
+      </g>
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <g
+     clip-path="url(#clipPath2793)"
+     id="Mur">
+    <use
+       transform="translate(0,94.73688)"
+       id="use2917"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#helrad" />
+    <use
+       transform="translate(0,47.36864)"
+       id="use2915"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#halvrad" />
+    <use
+       transform="translate(0,47.36888)"
+       id="use2913"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#helrad" />
+    <g
+       id="helrad">
+      <path
+         d="M -24.5,189.72628 L 14.9737,189.72628 L 14.9737,209.46313 L -24.5,209.46313 L -24.5,189.72628 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="Sten" />
+      <use
+         transform="translate(43.42107,-2.281302e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2000"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(86.84214,-2.281302e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2004"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(130.2632,-2.281302e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2006"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(173.6843,-2.281302e-5)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2012"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(217.1053,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2186"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(260.5264,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2194"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+    </g>
+    <g
+       id="halvrad">
+      <path
+         d="M -24.5,213.41051 L -6.7368311,213.41051 L -6.7368311,233.14736 L -24.5,233.14736 L -24.5,213.41051 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="Halv-sten" />
+      <use
+         transform="translate(21.7105,23.68424)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2002"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(65.13161,23.68424)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2008"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(108.5527,23.68424)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2010"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(151.9737,23.68424)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2014"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(195.3948,23.68424)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2192"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(238.8159,23.68424)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2198"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Sten" />
+      <use
+         transform="translate(282.237,0)"
+         style="fill:#d40000;fill-opacity:1"
+         id="use2204"
+         x="0"
+         y="0"
+         width="251"
+         height="304.20001"
+         xlink:href="#Halv-sten" />
+    </g>
+    <use
+       transform="translate(0,-47.36836)"
+       id="use2919"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#halvrad" />
+    <use
+       transform="translate(0,-47.36812)"
+       id="use2925"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#helrad" />
+    <use
+       transform="translate(0,-94.73636)"
+       id="use2927"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#halvrad" />
+    <use
+       transform="translate(0,-94.73612)"
+       id="use2929"
+       x="0"
+       y="0"
+       width="251"
+       height="304.20001"
+       xlink:href="#helrad" />
+  </g>
+  <path
+     d="M 90.5,82.931012 L 160.5,82.931012 L 160.5,91.043012 L 90.5,91.043012 L 90.5,82.931012 z "
+     style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"
+     id="Skorstenskant" />
+  <path
+     d="M 100.61757,62.548861 C 99.923591,56.323435 102.61783,53.765037 100.53591,47.752831 C 102.29124,48.648261 103.80164,50.353858 104.57724,51.803626 C 105.76108,45.322376 106.49588,38.41473 105.92436,32.274619 C 108.53697,32.956833 110.33314,37.73249 111.43531,39.992411 C 114.37447,30.782206 115.15009,22.467451 113.06819,17.521224 C 115.72161,17.819725 117.27282,21.06033 119.06898,24.727348 C 120.8243,22.296882 120.53858,17.265402 120.53858,12.063322 C 120.8243,9.5902157 121.2325,6.818633 122.70211,5.4968101 C 124.13085,17.137464 129.60098,16.156756 132.6626,29.119252 C 133.7648,26.560871 133.96893,23.789281 133.68315,20.292829 C 137.27546,22.467451 140.41874,30.611653 142.09244,42.252315 C 143.68449,41.399517 144.41929,38.116245 145.03161,34.406609 C 148.50144,39.566004 149.7261,46.004628 147.97078,53.679775 C 147.0727,55.854396 146.50119,58.07166 146.78693,60.544776 C 148.25651,59.606706 148.74639,57.34681 149.60364,55.470632 C 150.21595,58.242234 150.82829,61.525478 150.29763,63.913316 C 148.54226,77.728612 133.39002,80.068328 123.81681,79.998522 C 118.45681,79.957855 102.5434,76.832767 100.61757,62.548861 z "
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#003d8f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="Eld" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

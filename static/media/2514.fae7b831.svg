@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Kalix kommunvapen</dc:title><dc:date>23-09-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z"
+     id="Shield"
+     style="fill:#d40000;stroke:none" />
+  <g
+     transform="translate(0,-6)"
+     id="Chalice">
+    <path
+       d="M 118.45538,34.227648 L 60.80516,34.227648 C 60.80516,34.227648 55.13152,90.210223 99.552351,107.1662 L 99.552351,112.30305 L 109.00384,112.30305 L 109.00384,118.97796 C 109.00384,118.97796 92.700657,134.89623 106.87117,153.13272 L 106.87117,158.78473 L 109.24082,158.78473 L 109.24082,167.77049 L 111.83389,167.77049 L 111.83389,182.40086 C 111.83389,182.40086 109.70795,234.66701 62.572241,259.70352 L 62.572241,262.78709 L 188.42781,262.78709 L 188.42781,259.70352 C 141.2988,234.66701 139.16616,182.40086 139.16616,182.40086 L 139.16616,167.77049 L 141.7592,167.77049 L 141.7592,158.78473 L 144.12211,158.78473 L 144.12211,153.13272 C 158.29936,134.89623 141.99618,118.97796 141.99618,118.97796 L 141.99618,112.30305 L 151.44767,112.30305 L 151.44767,107.1662 C 195.86848,90.210223 190.19486,34.227648 190.19486,34.227648 L 118.44863,34.227648 L 118.45538,34.227648 z"
+       id="path564"
+       style="fill:#ffcd50;stroke:#d40000;stroke-width:1" />
+    <g
+       id="Lines"
+       style="fill:none;stroke:#d40000;stroke-width:1">
+      <path
+         d="M 99.382306,107.27701 L 151.61771,107.27701"
+         id="path3081" />
+      <path
+         d="M 108.76958,112.30001 L 142.23043,112.30001"
+         id="path3079" />
+      <path
+         d="M 108.94334,118.66801 L 142.05667,118.66801"
+         id="path3077" />
+      <path
+         d="M 106.71319,153.47201 C 106.71319,153.47201 144.28683,153.47201 144.28683,153.47201"
+         id="path3075" />
+      <path
+         d="M 109.02741,158.77001 L 141.9726,158.77001"
+         id="path3073" />
+      <path
+         d="M 111.62455,167.77001 L 139.37547,167.77001"
+         id="path3071" />
+      <path
+         d="M 89.514431,237.75793 L 161.48559,237.75793"
+         id="path3069" />
+      <path
+         d="M 62.734773,259.46101 L 188.26524,259.46101"
+         id="path565" />
+    </g>
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z"
+     id="Frame"
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel" />
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.04999"
+   id="svg2064">
+  <defs
+     id="defs2066" />
+  <g
+     id="Gislaveds_kommunvapen">
+    <path
+       d="M 1.4495603,1.2894791 L 125.50006,1.2894791 L 249.55061,1.2894791 L 249.55061,174.78608 C 250.31785,268.50696 169.26117,302.60583 125.50008,302.60583 C 82.506226,302.60583 0.68233088,268.50696 1.4495603,174.78608 L 1.4495603,1.2894791 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Shield" />
+    <g
+       transform="matrix(3.999978,0,0,3.999978,28.35768,40.47109)"
+       style="fill:#ffcd50;fill-opacity:1"
+       id="Gastgiveri">
+      <path
+         d="M 24.285649,21.534349 C 17.402001,21.534349 11.785646,27.150704 11.785646,34.034352 C 11.785646,40.918 17.402001,46.534355 24.285649,46.534355 C 31.169296,46.534355 36.785652,40.918 36.785652,34.034352 C 36.785652,27.150704 31.169296,21.534349 24.285649,21.534349 z M 24.285649,24.524781 C 29.551286,24.524781 33.79522,28.768715 33.79522,34.034352 C 33.79522,39.299989 29.551286,43.543923 24.285649,43.543923 C 19.020012,43.543923 14.776078,39.299989 14.776078,34.034352 C 14.776078,28.768715 19.020012,24.524781 24.285649,24.524781 z "
+         style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.125;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         id="path3058" />
+      <path
+         d="M 22.894832,13.564345 L 22.894832,22.867915 L 25.676082,22.867915 L 25.676082,13.564345 L 22.894832,13.564345 z "
+         style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.7839396;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1873" />
+      <path
+         d="M 12.027632,5.6154747 C 11.537202,5.7589247 11.923002,7.9790848 12.053242,8.6112748 C 12.463482,11.471335 14.310622,13.913965 16.791972,14.857235 C 18.519052,15.621805 20.370752,15.939465 22.196682,16.270345 L 22.555292,16.270345 C 22.554682,16.300465 22.560112,16.324625 22.555292,16.355135 L 24.271482,16.326875 L 26.013282,16.355135 C 26.008462,16.324625 26.013902,16.300465 26.013282,16.270345 L 26.371892,16.270345 C 28.197822,15.939465 30.049522,15.621805 31.776602,14.857235 C 34.257952,13.913965 36.105092,11.471335 36.515332,8.6112748 C 36.675632,7.8331948 37.228372,4.6580948 36.054262,5.8980947 C 35.234062,7.9956448 33.835222,9.8616148 32.032742,11.013565 C 30.699612,11.698395 29.338022,12.111145 27.806312,12.511465 C 26.351692,12.594265 25.252512,12.674335 24.271482,12.765825 C 23.294422,12.675055 22.206392,12.593665 20.762262,12.511465 C 19.230562,12.111145 17.868972,11.698395 16.535832,11.013565 C 14.733352,9.8616148 13.334522,7.9956448 12.514312,5.8980947 C 12.294172,5.6655947 12.140812,5.5823747 12.027632,5.6154747 z "
+         style="fill:#ffcd50;fill-opacity:1"
+         id="path1895" />
+    </g>
+    <path
+       d="M 33.214286 36.69643 A 20.446428 20.446428 0 1 1  -7.6785707,36.69643 A 20.446428 20.446428 0 1 1  33.214286 36.69643 z"
+       transform="matrix(5.167376,0,0,5.167376,59.52368,-50.36845)"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeee;stroke-width:2.64955354;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Ring" />
+  </g>
+</svg>

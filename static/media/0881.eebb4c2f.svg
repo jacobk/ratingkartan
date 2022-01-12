@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Nybro kommunvapen</dc:title><dc:date>20-05-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath3435">
+      <use
+         transform="matrix(0.896995,0,0,0.896995,12.92719,14.61376)"
+         id="use3433"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#Shield" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#ffcd50;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <g
+     transform="matrix(1.114833,0,0,1.114833,-14.41166,-16.2919)"
+     clip-path="url(#clipPath3435)"
+     id="Bridge">
+    <path
+       d="M -48.476501,131.69636 L -48.476501,254.75621 L 299.47682,254.75621 L 299.47682,131.69636 L -48.476501,131.69636 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+       id="feldu-1" />
+    <path
+       d="M 223.7458,256.5502 C 211.99848,211.92261 171.64798,180.81904 125.50016,180.81904 C 79.35234,180.81904 39.001838,211.92261 27.254515,256.5502"
+       style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
+       id="Valv" />
+    <g
+       transform="translate(-20.99989,-222.8)"
+       style="stroke:#ffcd50;stroke-opacity:1"
+       id="Valvstenar">
+      <path
+         d="M 85.551363,396.25076 C 95.440767,388.56637 107.39703,384.00557 119.89186,383.15134"
+         style="fill:none;fill-rule:evenodd;stroke:#ffcd50;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         id="steink-1" />
+      <path
+         d="M 207.44873,396.25076 C 197.55933,388.56637 185.60307,384.00557 173.10825,383.15134"
+         style="fill:none;fill-rule:evenodd;stroke:#ffcd50;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         id="steink-2" />
+      <path
+         d="M 50.801515,425.63348 L 42.614378,436.54967"
+         style="fill:none;fill-rule:evenodd;stroke:#ffcd50;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         id="steink-3" />
+      <path
+         d="M 242.19858,425.63348 L 250.38572,436.54967"
+         style="fill:none;fill-rule:evenodd;stroke:#ffcd50;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         id="steink-4" />
+      <path
+         d="M 134.49225,448.64844 L 117.84507,374.9642 C 136.55853,369.50611 156.44157,369.50611 175.15503,374.9642 L 158.50785,448.64844"
+         style="fill:none;fill-rule:evenodd;stroke:#ffcd50;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         id="steing-1" />
+      <path
+         d="M 212.99779,448.64844 L 248.83926,419.99346 C 238.81634,406.77485 226.29969,395.64894 211.99714,387.24491 L 176.88343,448.64844"
+         style="fill:none;fill-rule:evenodd;stroke:#ffcd50;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         id="steing-2" />
+      <path
+         d="M 80.002306,448.64844 L 44.160837,419.99346 C 54.18376,406.77485 66.70041,395.64894 81.002953,387.24491 L 116.11667,448.64844"
+         style="fill:none;fill-rule:evenodd;stroke:#ffcd50;stroke-width:1.36452281;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         id="steing-3" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.713716,0,0,0.713716,153.2432,-2.982971)"
+     id="Crossbow_and_bolt">
+    <path
+       d="M -123.10762,178.42774 C -123.10762,178.42774 -122.76945,178.42774 -122.76945,178.42774 C -117.6878,178.28475 -111.37648,177.78747 -109.4948,177.01983 L -106.72016,175.8879 L -109.13328,171.12252 C -114.7085,160.11266 -115.29894,157.60042 -115.76944,124.60714 L -115.76944,123.85714 C -115.76944,123.85714 -62.437989,107.88893 -62.437989,107.88893 C -61.430699,108.65233 -58.385519,111.22954 -55.670929,111.88076 C -51.421109,112.90028 -50.381809,112.83318 -48.191109,111.39776 C -44.824699,109.19201 -45.207189,105.4807 -48.844519,105.05759 C -50.660279,104.84637 -51.692329,105.36564 -52.344519,106.81858 C -53.257619,108.85278 -53.314169,108.85545 -56.769439,107.02714 C -58.694439,106.00856 -62.431529,102.2911 -65.074089,98.766148 C -76.485709,83.538828 -90.694299,56.633518 -110.31493,54.857128 L -115.76944,54.857128 L -115.76944,46.103888 L -120.54884,46.103888 L -120.54884,38.103888 L -125.32824,38.103888 L -125.32824,46.103888 L -130.10763,46.103888 L -130.10763,54.857138 L -135.56214,54.857138 C -155.18277,56.633528 -169.39135,83.538838 -180.80298,98.766158 C -183.44554,102.2911 -187.18263,106.00856 -189.10763,107.02714 C -192.5629,108.85545 -192.61945,108.85278 -193.53255,106.81858 C -194.18474,105.36564 -195.21679,104.84637 -197.03255,105.05759 C -200.66988,105.4807 -201.05237,109.19201 -197.68596,111.39776 C -195.49526,112.83318 -194.45596,112.90028 -190.20614,111.88076 C -187.49155,111.22954 -184.44637,108.65233 -183.43908,107.88893 C -183.43908,107.88893 -130.10763,123.85714 -130.10763,123.85714 L -130.10763,124.60714 C -130.57813,157.60042 -131.16857,160.11266 -136.74379,171.12252 L -139.15691,175.8879 L -136.38227,177.01983 C -134.50059,177.78747 -128.18927,178.28475 -123.10762,178.42774 z M -115.76944,92.258938 L -115.76944,65.605208 L -109.51944,65.350618 C -92.670119,67.210398 -76.822389,90.174088 -64.859439,105.85713 L -115.76944,121.85714 M -130.10763,92.258948 L -130.10763,65.605218 L -136.35763,65.350628 C -153.20695,67.210408 -169.05467,90.174098 -181.01763,105.85713 L -130.10763,121.85714"
+       style="fill:#000000;fill-rule:evenodd"
+       id="Crossbow drawn" />
+    <path
+       d="M -114.7881,38.598628 L -131.08842,38.598628 L -122.93826,17.183532 L -114.7881,38.598628 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.11416936;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+       id="path3440" />
+  </g>
+  <use
+     transform="matrix(1,0,0,1.000004,120,-4.253091e-4)"
+     id="Crossbow2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Crossbow_and_bolt" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Harjedalen kommunvapen</dc:title><dc:date>22-10-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="fill:#eeeeee;fill-opacity:1;stroke:none"
+     id="Shield" />
+  <g
+     transform="matrix(1.002212,0,0,1.002212,-0.249955,-2.149224)"
+     id="Rackhammare">
+    <path
+       d="M 88.055177,41.151725 L 162.88966,41.151725 L 162.88966,192.04139 L 134.18104,242.04139 L 116.7638,242.04139 L 88.055177,192.04139 L 88.055177,41.151725 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       id="rect1889" />
+    <path
+       d="M 112.26207,80.862148 L 138.68276,80.862148 L 138.68276,157.10337 L 112.26207,157.10337 L 112.26207,80.862148 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       id="use1892" />
+  </g>
+  <g
+     transform="matrix(0.277812,0,0,0.277812,156.0648,136.9624)"
+     style="fill:#000000"
+     id="Smideshammare">
+    <path
+       d="M 154.67033,45.089573 L 196.54015,45.089573 C 199.31015,45.089573 201.54015,47.319573 201.54015,50.089573 L 201.54015,343.5988 C 201.54015,343.5988 201.06197,372.41377 175.68075,372.43024 C 149.64617,372.44734 149.67033,343.5988 149.67033,343.5988 L 149.67033,50.089573 C 149.67033,47.319573 151.90033,45.089573 154.67033,45.089573 z "
+       style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+       id="rect1881" />
+    <path
+       d="M 253.92118,54.806162 C 253.92118,54.806162 86.051067,54.806162 86.051067,54.806162 L 86.051067,122.50919 L 312.46411,122.50919 C 312.46411,122.50919 287.95367,102.76673 253.92118,54.806162 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+       id="rect1878" />
+  </g>
+  <use
+     transform="matrix(-1,0,0,-1,409.613,280.8558)"
+     id="Smideshammare-2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.20001"
+     xlink:href="#Smideshammare" />
+  <g
+     transform="matrix(0.576563,0,0,0.576563,12.38434,37.01563)"
+     id="Smidestang"
+     style="fill:#000000;stroke:#eeeeee;stroke-width:3">
+    <path
+       d="M 17.8043,339.78877 C 24.347983,273.32338 25.547178,199.99567 28.44764,129.50874 C 29.46608,104.62889 37.58331,103.09867 44.15118,96.47227 C 65.628065,79.63699 75.51813,71.894491 75.51813,71.894491 C 75.51813,71.894491 75.51813,16.3952 75.51813,16.3952 C 75.82638,7.82618 80.452045,4.07935 84.621975,11.06777 C 84.621975,11.06777 90.621975,82.806168 90.621975,82.806168 C 90.621975,82.806168 65.3983,102.65021 52.55744,115.07579 C 45.07054,121.02624 44.64109,122.98984 44.40673,132.03726 C 42.34546,211.70019 39.311408,284.37455 32.59247,343.94565 C 28.75366,355.47765 15.31979,352.96848 17.8043,339.78877 z "
+       id="path3692" />
+    <use
+       transform="matrix(-1,0,0,1,108.9308,0)"
+       id="use3799"
+       x="0"
+       y="0"
+       width="108.93076"
+       height="352.8017"
+       xlink:href="#path3692" />
+    <path
+       d="M 58.75111,99.57338 C 58.75323,101.10593 57.93684,102.52297 56.60997,103.28986 C 55.28309,104.05674 53.64771,104.05674 52.32083,103.28986 C 50.99396,102.52297 50.17757,101.10593 50.17969,99.57338 C 50.17757,98.04083 50.99396,96.62379 52.32083,95.8569 C 53.64771,95.09002 55.28309,95.09002 56.60997,95.8569 C 57.93684,96.62379 58.75323,98.04083 58.75111,99.57338 z "
+       style="fill:#eeeeee;stroke:#000000"
+       id="path4585" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linejoin:bevel"
+     id="Frame" />
+</svg>

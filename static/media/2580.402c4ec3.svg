@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168" />
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Lulea kommunvapen</dc:title><dc:date>12-01-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <use
+     transform="matrix(-0.173648,-0.984808,0.984808,-0.173648,12.85329,282.2805)"
+     style="fill:#003d8f;fill-opacity:1"
+     id="Key2"
+     x="0"
+     y="0"
+     width="251"
+     height="304.04999"
+     xlink:href="#Key" />
+  <path
+     d="M 42.302926,74.311828 L 36.675326,67.605116 L 28.758286,74.2483 L 34.385886,80.955015 L 20.945814,92.232578 L 8.2661241,77.121506 L 42.538304,48.363733 L 36.224843,40.839643 L 34.544836,42.249336 L 25.698955,31.707225 C 25.698962,31.707219 26.980838,26.153583 30.429673,22.844711 C 30.45683,22.818657 30.486254,22.800003 30.513677,22.774223 C 30.656377,22.640124 30.804683,22.53004 30.954685,22.404174 C 34.79469,19.182026 41.050041,18.826135 41.050041,18.826135 L 49.895923,29.368246 L 48.215908,30.777946 L 179.8449,187.64727 C 181.06346,184.20697 183.22601,180.7744 186.4467,178.07192 C 193.73366,171.95743 202.95517,169.97134 210.80747,169.48825 C 218.91296,168.98957 227.8275,171.43325 232.23579,176.68685 C 236.84486,182.17974 238.2815,190.00342 237.00393,199.25797 C 235.69802,208.71793 223.74051,219.65562 219.34624,221.28897 C 217.439,221.99793 215.07922,221.85012 212.84717,221.13505 C 213.65972,221.83102 214.44541,222.61327 215.16753,223.47386 C 220.64486,230.00147 221.02173,238.70484 216.01409,242.90675 C 211.00645,247.10866 202.50075,245.22619 197.02343,238.69857 C 196.29597,237.83161 195.65248,236.91458 195.10545,235.98634 C 195.42988,238.32083 195.18098,240.66981 194.14611,242.43439 C 191.77451,246.47829 178.90559,256.37243 169.36257,256.01581 C 160.02677,255.66692 152.57142,252.89355 147.96234,247.40066 C 143.55405,242.14707 142.69545,232.94355 144.59412,225.04786 C 146.41904,217.45855 149.9371,208.79565 157.10955,202.68871 C 157.16603,202.64063 157.22062,202.59551 157.27755,202.54773 C 160.43403,199.89914 164.17089,198.31831 167.78351,197.62516 L 74.316669,86.235709 L 40.044488,114.99349 L 27.575832,100.13392 L 41.015904,88.856361 L 46.450057,95.332536 L 54.367097,88.689344 L 48.932944,82.213179 L 61.848012,71.376147 L 55.217995,63.474799 L 42.302926,74.311828 z M 162.8254,215.42868 C 162.87873,215.37946 162.9395,215.33629 162.9934,215.28771 C 166.40172,212.21454 170.86188,210.40432 173.84899,209.92884 C 178.34717,209.21277 185.00634,211.9598 188.13203,209.33703 C 191.25773,206.71425 189.37279,199.96116 190.85908,195.65568 C 192.34538,191.35019 197.3557,184.323 204.25352,182.91636 C 211.42249,181.45447 219.17366,183.54173 221.97241,187.65602 C 224.77117,191.77031 225.96225,197.38214 220.85394,202.27349 C 220.33285,198.00947 213.97537,196.00381 209.944,199.67768 C 205.91268,203.35159 203.97853,211.60888 205.61229,215.45558 C 205.97605,216.31203 206.56899,217.14026 207.34018,217.89863 C 203.29065,216.43735 199.13061,216.78721 196.17688,219.26568 C 193.23068,221.73784 192.1497,225.77109 192.87454,230.00106 C 192.26496,229.11953 191.56017,228.39902 190.7862,227.89614 C 187.28167,225.61921 178.79292,226.10769 174.47482,229.43986 C 170.15672,232.77202 171.02794,239.3812 175.1367,240.63481 C 169.43261,244.81614 164.13388,242.65103 160.56809,239.18037 C 157.00229,235.7097 156.27173,227.73146 158.95628,220.92525 C 159.79691,218.79403 161.17225,216.95462 162.8254,215.42868 z "
+     style="fill:#003d8f;fill-opacity:1;fill-rule:evenodd;stroke:#eeeeee;stroke-width:1.97624826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="Key" />
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>
