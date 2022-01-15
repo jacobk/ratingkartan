@@ -126,6 +126,7 @@ export default function Players() {
       players: sortedPlayers,
       stats: { hist, momHist },
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchParams]);
 
   function renderRow(props) {
