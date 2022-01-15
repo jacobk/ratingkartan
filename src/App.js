@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import "./App.css";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Link as RouterLink,
@@ -42,7 +42,7 @@ function ButtonAppBar() {
         elevation={0}
       >
         <Toolbar>
-          <IconButton
+          {/* <IconButton
             size="large"
             edge="start"
             color="inherit"
@@ -50,7 +50,7 @@ function ButtonAppBar() {
             sx={{ mr: 2 }}
           >
             <MenuIcon />
-          </IconButton>
+          </IconButton> */}
           <Typography
             variant="h6"
             component="div"
@@ -62,9 +62,9 @@ function ButtonAppBar() {
           <Button color="inherit" component={RouterLink} to="/spelare">
             Spelare
           </Button>
-          <Button color="inherit" component={RouterLink} to="/errata">
+          {/* <Button color="inherit" component={RouterLink} to="/errata">
             Errata
-          </Button>
+          </Button> */}
         </Toolbar>
       </AppBar>
       <Toolbar />
@@ -75,7 +75,7 @@ function ButtonAppBar() {
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <Router>
+      <Router basename="/">
         <ScrollToTop />
         <div>
           <ButtonAppBar />
