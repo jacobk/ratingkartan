@@ -18,6 +18,8 @@ import CountyStats from "./CountyStats";
 import Players from "./Players";
 import Dump from "./Dump";
 import { createTheme, ThemeProvider } from "@mui/material";
+import logo from "./images/logo3.svg";
+import { metadata } from "./data";
 
 const theme = createTheme({});
 
@@ -40,6 +42,7 @@ function ButtonAppBar() {
         elevation={0}
       >
         <Toolbar>
+          <img src={logo} alt="ratingkartan" style={{ height: 50 }} />
           {/* <IconButton
             size="large"
             edge="start"
@@ -49,11 +52,10 @@ function ButtonAppBar() {
           >
             <MenuIcon />
           </IconButton> */}
-          <Typography
-            variant="h6"
-            component="div"
-            sx={{ flexGrow: 1 }}
-          ></Typography>
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+            ratingkartan
+          </Typography>
+
           <Button color="inherit" component={RouterLink} to="/stats">
             Stats
           </Button>
@@ -79,6 +81,17 @@ function App() {
           <ButtonAppBar />
           {/* A <Switch> looks through its children <Route>s and
           renders the first one that matches the current URL. */}
+          <Box
+            sx={{
+              fontSize: "0.8rem",
+              fontFamily: "monospace",
+              textAlign: "center",
+              p: 1,
+              color: "text.disabled",
+            }}
+          >
+            Uppdaterad: {metadata.generatedTime}
+          </Box>
           <Routes>
             <Route path="/spelare" element={<Players />} />
             <Route path="/errata" element={<Errata />} />

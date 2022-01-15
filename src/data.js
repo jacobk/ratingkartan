@@ -1,11 +1,14 @@
 // import byMunicpipality from "./data/stats_by_municipality";
 // import byCounty from "./data/stats_by_county";
-import byMunicipality from "./data/full_stats_by_municipality-ci";
-import byCounty from "./data/full_stats_by_county-ci";
-import playerStats from "./data/full_stats_players-ci.json";
-import { currentMonth } from "./data/full_stats_metadata-ci.json";
-import names from "./data/kommner_lan_kod.json";
 import _ from "lodash";
+import byCounty from "./data/full_stats_by_county-ci";
+import byMunicipality from "./data/full_stats_by_municipality-ci";
+import playerStats from "./data/full_stats_players-ci.json";
+import names from "./data/kommner_lan_kod.json";
+import meta from "./data/full_stats_metadata-ci.json";
+
+export const metadata = meta;
+const { currentMonth } = metadata;
 
 function flatten(obj) {
   return Object.keys(obj).map((code) => ({
