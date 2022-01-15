@@ -1,9 +1,9 @@
 // import byMunicpipality from "./data/stats_by_municipality";
 // import byCounty from "./data/stats_by_county";
-import byMunicipality from "./data/full_stats_by_municipality-2021-11";
-import byCounty from "./data/full_stats_by_county-2021-11";
-import playerStats from "./data/full_stats_players-2021-11.json";
-import { currentMonth } from "./data/full_stats_metadata-2021-11.json";
+import byMunicipality from "./data/full_stats_by_municipality-ci";
+import byCounty from "./data/full_stats_by_county-ci";
+import playerStats from "./data/full_stats_players-ci.json";
+import { currentMonth } from "./data/full_stats_metadata-ci.json";
 import names from "./data/kommner_lan_kod.json";
 import _ from "lodash";
 
