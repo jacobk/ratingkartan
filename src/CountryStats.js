@@ -1,6 +1,5 @@
 import "./App.css";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
-import { geoTransverseMercator } from "d3-geo";
 import { scaleQuantile, scaleThreshold } from "d3-scale";
 import _ from "lodash";
 import { useNavigate } from "react-router-dom";
@@ -16,29 +15,29 @@ const projectionConfig = {
   center: [2.3, 63.3],
   rotate: [-12, 1, 0],
 };
-const greenColorScale = [
-  "#f7fcfd",
-  "#e5f5f9",
-  "#ccece6",
-  "#99d8c9",
-  "#66c2a4",
-  "#41ae76",
-  "#238b45",
-  "#006d2c",
-  "#00441b",
-];
+// const greenColorScale = [
+//   "#f7fcfd",
+//   "#e5f5f9",
+//   "#ccece6",
+//   "#99d8c9",
+//   "#66c2a4",
+//   "#41ae76",
+//   "#238b45",
+//   "#006d2c",
+//   "#00441b",
+// ];
 
-const redColorScale = [
-  "#ffedea",
-  "#ffcec5",
-  "#ffad9f",
-  "#ff8a75",
-  "#ff5533",
-  "#e2492d",
-  "#be3d26",
-  "#9a311f",
-  "#782618",
-];
+// const redColorScale = [
+//   "#ffedea",
+//   "#ffcec5",
+//   "#ffad9f",
+//   "#ff8a75",
+//   "#ff5533",
+//   "#e2492d",
+//   "#be3d26",
+//   "#9a311f",
+//   "#782618",
+// ];
 
 const colorScale3 = [
   "#f0f9e8",
@@ -49,8 +48,6 @@ const colorScale3 = [
   "#0a6aad",
   "#254b8c",
 ];
-
-const projection = geoTransverseMercator();
 
 const colorScale2 = (stat) => {
   const defaultScale = scaleQuantile()
@@ -74,9 +71,7 @@ const colorScale2 = (stat) => {
 
 export default function CountryStats() {
   const [hovered, setHovered] = useState(false);
-  const [selectedCountyCode, setSelectedCountyCode] = useState(null);
   const [selectedStat, setSelectedStat] = useState("mean");
-
   let navigate = useNavigate();
 
   return (
@@ -110,40 +105,14 @@ export default function CountryStats() {
                       }}
                       onMouseDown={() => {
                         navigate(`/stats/${countyCode}`);
-                        // if (
-                        //   selectedCountyCode &&
-                        //   selectedCountyCode === countyCode
-                        // ) {
-                        //   setSelectedCountyCode(null);
-                        // } else {
-                        //   setSelectedCountyCode(countyCode);
-                        // }
                       }}
                       style={{
                         default: {
                           outline: "none",
-                          fill:
-                            geo.properties.LnKod === selectedCountyCode
-                              ? "#DD4132"
-                              : colorScale2(selectedStat)(
-                                  data.stats[0].stats[selectedStat]
-                                ),
+                          fill: colorScale2(selectedStat)(
+                            data.stats[0].stats[selectedStat]
+                          ),
                         },
-                        // default: {
-                        //   fill:
-                        //     geography.properties.CONTINENT ===
-                        //     this.state.highlighted
-                        //       ? "#DD4132"
-                        //       : "#F0EAD6",
-                        //   stroke:
-                        //     geography.properties.CONTINENT ===
-                        //     this.state.highlighted
-                        //       ? "#9E1030"
-                        //       : "#B2A27D",
-                        //   strokeWidth: 0.75,
-                        //   outline: "none",
-                        //   transition: "all 250ms"
-                        // },
                         hover: {
                           fill: "#FF6F61",
                           stroke: "#9E1030",

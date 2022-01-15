@@ -14,7 +14,6 @@ import { range } from "d3-array";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from "recharts";
 import { useTheme } from "@mui/material/styles";
-import { integerPropType } from "@mui/utils";
 import "react-virtualized/styles.css";
 
 const ratingQueryPattern = /^(\d{3,4})(?:-(\d{3,4}))?$/;

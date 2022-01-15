@@ -220,7 +220,7 @@ export default function RegionList({
           );
         })}
         <ListItem alignItems="flex-start">
-          Inga spelare:{" "}
+          {regionsWithoutPlayers.length > 0 && "Inga spelare: "}
           {regionsWithoutPlayers.map((r) => getName(r.code)).join(", ")}
         </ListItem>
       </List>

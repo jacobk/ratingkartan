@@ -3,6 +3,7 @@
 import byMunicipality from "./data/full_stats_by_municipality-2021-11";
 import byCounty from "./data/full_stats_by_county-2021-11";
 import playerStats from "./data/full_stats_players-2021-11.json";
+import { currentMonth } from "./data/full_stats_metadata-2021-11.json";
 import names from "./data/kommner_lan_kod.json";
 import _ from "lodash";
 
@@ -23,7 +24,11 @@ const noStats = {
 };
 
 export function getStats(region) {
-  return region.stats[0].stats || noStats;
+  const stats = region.stats[0];
+  if (stats && stats.month === currentMonth) {
+    return stats.stats;
+  }
+  return noStats;
 }
 
 export function getName(code) {
@@ -95,7 +100,8 @@ export const regions = _.sortBy(
   })),
   "name"
 );
-export const players = playerStats;
-export const playerList = Object.values(playerStats);
+export const playerList = Object.values(playerStats).filter(
+  (player) => player.stats[0].month === currentMonth
+);
 export const counties = flatten(statsByCounty);
 export const municipalities = flatten(statsByMunicipality);

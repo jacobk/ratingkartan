@@ -4,7 +4,7 @@ import _ from "lodash";
 import geoData from "./data/Kommun-KnKod-KnNamn_20191230.json";
 import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
-import { fitSize, geoTransverseMercator, geoBounds, geoCentroid } from "d3-geo";
+import { geoBounds, geoCentroid } from "d3-geo";
 import { scaleQuantile, scaleThreshold } from "d3-scale";
 import { feature } from "topojson-client";
 import RegionList from "./RegionList";
@@ -23,29 +23,29 @@ const projectionConfig = {
   center: [2.3, 63.3],
   rotate: [-12, 1, 0],
 };
-const greenColorScale = [
-  "#f7fcfd",
-  "#e5f5f9",
-  "#ccece6",
-  "#99d8c9",
-  "#66c2a4",
-  "#41ae76",
-  "#238b45",
-  "#006d2c",
-  "#00441b",
-];
+// const greenColorScale = [
+//   "#f7fcfd",
+//   "#e5f5f9",
+//   "#ccece6",
+//   "#99d8c9",
+//   "#66c2a4",
+//   "#41ae76",
+//   "#238b45",
+//   "#006d2c",
+//   "#00441b",
+// ];
 
-const redColorScale = [
-  "#ffedea",
-  "#ffcec5",
-  "#ffad9f",
-  "#ff8a75",
-  "#ff5533",
-  "#e2492d",
-  "#be3d26",
-  "#9a311f",
-  "#782618",
-];
+// const redColorScale = [
+//   "#ffedea",
+//   "#ffcec5",
+//   "#ffad9f",
+//   "#ff8a75",
+//   "#ff5533",
+//   "#e2492d",
+//   "#be3d26",
+//   "#9a311f",
+//   "#782618",
+// ];
 
 const colorScale3 = [
   "#f0f9e8",
@@ -56,16 +56,6 @@ const colorScale3 = [
   "#0a6aad",
   "#254b8c",
 ];
-
-const projection = geoTransverseMercator();
-
-function calcHue(value, min, max) {
-  // [min-bin*1, (min+bin*2)-bin*2, ]
-  const binSize = (max - min) / greenColorScale.length;
-  const bin = Math.floor((value - min) / binSize);
-  console.log("value", value, "-", binSize, bin, (value - min) / binSize);
-  return greenColorScale[bin];
-}
 
 const colorScale2 = (stat, statsByMunicpipality) => {
   const defaultScale = scaleQuantile()
@@ -125,10 +115,9 @@ function selectCountyFeatures(countyCode) {
   };
   const bounds = geoBounds(geo);
   const center = geoCentroid(geo);
-  const dx = bounds[1][0] - bounds[0][0];
-  const dy = bounds[1][1] - bounds[0][1];
-  console.log("dx, dy", dx, dy);
-  const zoom = 0.9 / Math.max(dx / 530, dy / 410);
+  // const dx = bounds[1][0] - bounds[0][0];
+  // const dy = bounds[1][1] - bounds[0][1];
+  // const zoom = 0.9 / Math.max(dx / 530, dy / 410);
   return {
     geo,
     bounds,
@@ -148,21 +137,13 @@ export default function CountyStats() {
     console.error("Unknown county code, should reirect");
   }
 
-  console.log("munips", countyMunicipalities);
-
   useEffect(() => {
-    console.log("COUNTY CHANGE");
-
     setCountyGeo(selectCountyFeatures(countyCode));
     setCountyMunicipalities(
-      municipalities.filter(
-        (m) => m.code.startsWith(countyCode) && m.stats[0].stats
-      )
+      municipalities.filter((m) => m.code.startsWith(countyCode) && m.stats[0])
     );
     setMunicipalitiesWithoutPlayers(
-      municipalities.filter(
-        (m) => m.code.startsWith(countyCode) && !m.stats[0].stats
-      )
+      municipalities.filter((m) => m.code.startsWith(countyCode) && !m.stats[0])
     );
   }, [countyCode]);
 
@@ -193,7 +174,6 @@ export default function CountyStats() {
                     geographies.map((geo) => {
                       const code = geo.properties.KnKod;
                       const data = statsByMunicipality[code];
-                      console.log("data", data, geo);
                       return (
                         <Geography
                           key={geo.rsmKey}
