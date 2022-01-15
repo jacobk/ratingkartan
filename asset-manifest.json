@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ratingkartan/static/css/main.a9142aea.chunk.css",
-    "main.js": "/ratingkartan/static/js/main.ea6cb46f.chunk.js",
-    "main.js.map": "/ratingkartan/static/js/main.ea6cb46f.chunk.js.map",
-    "runtime-main.js": "/ratingkartan/static/js/runtime-main.6b6df14d.js",
-    "runtime-main.js.map": "/ratingkartan/static/js/runtime-main.6b6df14d.js.map",
+    "main.js": "/ratingkartan/static/js/main.60f8896c.chunk.js",
+    "main.js.map": "/ratingkartan/static/js/main.60f8896c.chunk.js.map",
+    "runtime-main.js": "/ratingkartan/static/js/runtime-main.9c06c633.js",
+    "runtime-main.js.map": "/ratingkartan/static/js/runtime-main.9c06c633.js.map",
     "static/css/2.042623cf.chunk.css": "/ratingkartan/static/css/2.042623cf.chunk.css",
-    "static/js/2.8c05e9f9.chunk.js": "/ratingkartan/static/js/2.8c05e9f9.chunk.js",
-    "static/js/2.8c05e9f9.chunk.js.map": "/ratingkartan/static/js/2.8c05e9f9.chunk.js.map",
-    "static/js/3.d48fe3b0.chunk.js": "/ratingkartan/static/js/3.d48fe3b0.chunk.js",
-    "static/js/3.d48fe3b0.chunk.js.map": "/ratingkartan/static/js/3.d48fe3b0.chunk.js.map",
+    "static/js/2.5c536e81.chunk.js": "/ratingkartan/static/js/2.5c536e81.chunk.js",
+    "static/js/2.5c536e81.chunk.js.map": "/ratingkartan/static/js/2.5c536e81.chunk.js.map",
+    "static/js/3.0e19737b.chunk.js": "/ratingkartan/static/js/3.0e19737b.chunk.js",
+    "static/js/3.0e19737b.chunk.js.map": "/ratingkartan/static/js/3.0e19737b.chunk.js.map",
     "index.html": "/ratingkartan/index.html",
     "static/css/2.042623cf.chunk.css.map": "/ratingkartan/static/css/2.042623cf.chunk.css.map",
     "static/css/main.a9142aea.chunk.css.map": "/ratingkartan/static/css/main.a9142aea.chunk.css.map",
-    "static/js/2.8c05e9f9.chunk.js.LICENSE.txt": "/ratingkartan/static/js/2.8c05e9f9.chunk.js.LICENSE.txt",
+    "static/js/2.5c536e81.chunk.js.LICENSE.txt": "/ratingkartan/static/js/2.5c536e81.chunk.js.LICENSE.txt",
     "static/media/01.1eb8ee08.svg": "/ratingkartan/static/media/01.1eb8ee08.svg",
     "static/media/0114.e73e6731.svg": "/ratingkartan/static/media/0114.e73e6731.svg",
     "static/media/0115.c9edc7e9.svg": "/ratingkartan/static/media/0115.c9edc7e9.svg",
@@ -324,10 +324,10 @@
     "static/media/2584.8e7ce34f.svg": "/ratingkartan/static/media/2584.8e7ce34f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b6df14d.js",
+    "static/js/runtime-main.9c06c633.js",
     "static/css/2.042623cf.chunk.css",
-    "static/js/2.8c05e9f9.chunk.js",
+    "static/js/2.5c536e81.chunk.js",
     "static/css/main.a9142aea.chunk.css",
-    "static/js/main.ea6cb46f.chunk.js"
+    "static/js/main.60f8896c.chunk.js"
   ]
 }
