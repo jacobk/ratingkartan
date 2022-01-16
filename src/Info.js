@@ -72,7 +72,7 @@ export default function Info() {
         <H1 variant="h4">Hittat fel!</H1>
         <Section variant="body1">
           Skapa en issue här:{" "}
-          <Link to="https://github.com/jacobk/ratingkartan/issues">
+          <Link href="https://github.com/jacobk/ratingkartan/issues">
             https://github.com/jacobk/ratingkartan/issues
           </Link>
         </Section>
