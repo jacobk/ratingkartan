@@ -6,7 +6,7 @@
 
 ## URL 
 
-https://jacobk.github.io/ratingkarta
+https://jacobk.github.io/ratingkartan
 
 
 ## Powered By
