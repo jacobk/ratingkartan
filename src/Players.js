@@ -15,6 +15,7 @@ import useMediaQuery from "@mui/material/useMediaQuery";
 import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from "recharts";
 import { useTheme } from "@mui/material/styles";
 import "react-virtualized/styles.css";
+import ReactGA from "react-ga4";
 
 const ratingQueryPattern = /^(\d{3,4})(?:-(\d{3,4}))?$/;
 
@@ -70,6 +71,7 @@ export default function Players() {
   };
 
   useEffect(() => {
+    ReactGA.event("search", { selectedRegions, selectedTerms });
     const sortedPlayers = _.orderBy(
       filterByTerms(selectedTerms, filterByRegion(selectedRegions, playerList)),
       ["stats[0].rating", "pdgaNumber"],
