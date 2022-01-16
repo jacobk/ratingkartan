@@ -32,7 +32,7 @@ function ScrollToTop() {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    ReactGA.send({ hitType: "pageview", page_path: pathname });
+    ReactGA.send({ hitType: "pageview", page_location: pathname });
     window.scrollTo(0, 0);
   }, [pathname]);
 
