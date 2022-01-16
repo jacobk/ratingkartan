@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ratingkartan/static/css/main.e99f7f4f.chunk.css",
-    "main.js": "/ratingkartan/static/js/main.c5354a76.chunk.js",
-    "main.js.map": "/ratingkartan/static/js/main.c5354a76.chunk.js.map",
+    "main.js": "/ratingkartan/static/js/main.dd5f6c52.chunk.js",
+    "main.js.map": "/ratingkartan/static/js/main.dd5f6c52.chunk.js.map",
     "runtime-main.js": "/ratingkartan/static/js/runtime-main.fa700c5d.js",
     "runtime-main.js.map": "/ratingkartan/static/js/runtime-main.fa700c5d.js.map",
     "static/css/2.042623cf.chunk.css": "/ratingkartan/static/css/2.042623cf.chunk.css",
@@ -329,6 +329,6 @@
     "static/css/2.042623cf.chunk.css",
     "static/js/2.a9884d8c.chunk.js",
     "static/css/main.e99f7f4f.chunk.css",
-    "static/js/main.c5354a76.chunk.js"
+    "static/js/main.dd5f6c52.chunk.js"
   ]
 }
