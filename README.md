@@ -1,7 +1,7 @@
 # Ratingkartan
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/497477/149671291-41ad14b0-a2af-44b1-ac2a-577449f08d12.gif" height="400" />
+ <img src="https://user-images.githubusercontent.com/497477/149671291-41ad14b0-a2af-44b1-ac2a-577449f08d12.gif" />
 </p>
 
 ## URL 
