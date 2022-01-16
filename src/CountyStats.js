@@ -238,7 +238,6 @@ export default function CountyStats() {
             regionsWithoutPlayers={municipalitiesWithoutPlayers}
             sortModel={selectedStat}
             onSortModelChanged={setSelectedStat}
-            regionLink={(code) => `/spelare?region=${code}`}
           />
         </Grid>
       </Grid>

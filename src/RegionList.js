@@ -165,6 +165,13 @@ export default function RegionList({
                       ) : (
                         getName(region.code)
                       )}
+                      ,{" "}
+                      <Link
+                        component={RouterLink}
+                        to={`/spelare?region=${region.code}`}
+                      >
+                        Spelare
+                      </Link>
                     </Item>
                   </Grid>
                   <Grid item xs={6}>
