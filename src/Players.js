@@ -202,7 +202,7 @@ export default function Players() {
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Län, Kommuner, Spelare &amp;  Rating"
+            label="Sök efter Län, Kommuner, Spelare &amp;  Rating"
             placeholder="Kommun, Län, Spelare, Rating"
             variant="standard"
           />

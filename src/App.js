@@ -16,6 +16,7 @@ import Button from "@mui/material/Button";
 import CountryStats from "./CountryStats";
 import CountyStats from "./CountyStats";
 import Players from "./Players";
+import Info from "./Info";
 import Dump from "./Dump";
 import { createTheme, ThemeProvider } from "@mui/material";
 import logo from "./images/logo3.svg";
@@ -43,17 +44,8 @@ function ButtonAppBar() {
       >
         <Toolbar>
           <img src={logo} alt="ratingkartan" style={{ height: 50 }} />
-          {/* <IconButton
-            size="large"
-            edge="start"
-            color="inherit"
-            aria-label="menu"
-            sx={{ mr: 2 }}
-          >
-            <MenuIcon />
-          </IconButton> */}
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            ratingkartan
+            rk
           </Typography>
 
           <Button color="inherit" component={RouterLink} to="/stats">
@@ -62,9 +54,9 @@ function ButtonAppBar() {
           <Button color="inherit" component={RouterLink} to="/spelare">
             Spelare
           </Button>
-          {/* <Button color="inherit" component={RouterLink} to="/errata">
-            Errata
-          </Button> */}
+          <Button color="inherit" component={RouterLink} to="/info">
+            Info
+          </Button>
         </Toolbar>
       </AppBar>
       <Toolbar />
@@ -79,8 +71,6 @@ function App() {
         <ScrollToTop />
         <div>
           <ButtonAppBar />
-          {/* A <Switch> looks through its children <Route>s and
-          renders the first one that matches the current URL. */}
           <Box
             sx={{
               fontSize: "0.8rem",
@@ -88,13 +78,18 @@ function App() {
               textAlign: "center",
               p: 1,
               color: "text.disabled",
+              bgcolor: (theme) => theme.palette.grey.A100,
+              mb: {
+                xs: 1,
+                sm: 0,
+              },
             }}
           >
             Uppdaterad: {metadata.generatedTime}
           </Box>
           <Routes>
             <Route path="/spelare" element={<Players />} />
-            <Route path="/errata" element={<Errata />} />
+            <Route path="/info" element={<Info />} />
             <Route path="/stats/:countyCode" element={<CountyStats />} />
             <Route path="/stats" element={<CountryStats />} />
             <Route path="/dump" element={<Dump />} />
@@ -106,7 +101,4 @@ function App() {
   );
 }
 
-function Errata() {
-  return <div>Hej</div>;
-}
 export default App;
