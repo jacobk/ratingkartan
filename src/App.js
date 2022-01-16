@@ -21,6 +21,10 @@ import Dump from "./Dump";
 import { createTheme, ThemeProvider } from "@mui/material";
 import logo from "./images/logo3.svg";
 import { metadata } from "./data";
+import ReactGA from "react-ga4";
+
+ReactGA.initialize("G-YQVD552TQC");
+ReactGA.send("pageview");
 
 const theme = createTheme({});
 
@@ -28,6 +32,7 @@ function ScrollToTop() {
   const { pathname } = useLocation();
 
   useEffect(() => {
+    ReactGA.send("pageview");
     window.scrollTo(0, 0);
   }, [pathname]);
 
