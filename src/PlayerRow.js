@@ -7,6 +7,7 @@ import ArrowDropUpIcon from "@mui/icons-material/ArrowDropUp";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import { getDivision } from "./data";
 import { useSearchParams } from "react-router-dom";
+import { Link as RouterLink } from "react-router-dom";
 
 function getDiffIcon(value) {
   if (value < 0) {
@@ -208,7 +209,7 @@ function PlayerRow({
             fontSize: "12px",
           }}
         >
-          <Link href={`/stats/${countyCode}`}>
+          <Link component={RouterLink} to={`/stats/${countyCode}`}>
             {municipality}, {county}
           </Link>
         </Box>
