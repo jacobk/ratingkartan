@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import Autocomplete from "@mui/material/Autocomplete";
+import ToggleButton from "@mui/material/ToggleButton";
+import ToggleButtonGroup from "@mui/material/ToggleButtonGroup";
 import { playerList, regions, divisions } from "./data";
 import React from "react";
 import TextField from "@mui/material/TextField";
@@ -27,6 +29,7 @@ export default function Players() {
     stats: null,
     players: playerList,
   });
+  const playerClass = searchParams.get("div") || "mpo";
   const selectedRegions = searchParams.getAll("region");
   const selectedTerms = searchParams.getAll("terms");
   const selectedOptions = regions.filter((region) =>
@@ -36,6 +39,9 @@ export default function Players() {
     ...selectedOptions,
     ...selectedTerms.map((t) => ({ term: true, name: t })),
   ];
+
+  const filterByDiv = (players) =>
+    playerClass === "mpo" ? players : players.filter((p) => p.gender === "F");
 
   const filterByRegion = (regions, players) =>
     regions.length === 0
@@ -73,7 +79,10 @@ export default function Players() {
   useEffect(() => {
     ReactGA.event("search", { selectedRegions, selectedTerms });
     const sortedPlayers = _.orderBy(
-      filterByTerms(selectedTerms, filterByRegion(selectedRegions, playerList)),
+      filterByTerms(
+        selectedTerms,
+        filterByRegion(selectedRegions, filterByDiv(playerList))
+      ),
       ["stats[0].rating", "pdgaNumber"],
       ["desc", "desc"]
     );
@@ -210,6 +219,19 @@ export default function Players() {
           />
         )}
       />
+      <ToggleButtonGroup
+        size="small"
+        color="primary"
+        value={playerClass}
+        exclusive
+        onChange={(event, newPlayerClass) => {
+          searchParams.set("div", newPlayerClass);
+          return setSearchParams(searchParams);
+        }}
+      >
+        <ToggleButton value="mpo">MPO</ToggleButton>
+        <ToggleButton value="fpo">FPO</ToggleButton>
+      </ToggleButtonGroup>
       {selectedPlayers.stats && selectedPlayers.stats.hist && (
         <React.Fragment>
           <Box
