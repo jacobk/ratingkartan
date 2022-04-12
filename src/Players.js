@@ -103,9 +103,25 @@ export default function Players() {
       }
       return "pro";
     };
+    const getFemaleDivision = (rating) => {
+      if (rating < 725) {
+        return "femaleNovice";
+      }
+      if (rating < 775) {
+        return "femaleRecreational";
+      }
+      if (rating < 825) {
+        return "femaleIntermediate";
+      }
+      if (rating < 925) {
+        return "femaleAdvanced";
+      }
+      return "pro";
+    };
     const hist = binner(sortedPlayers.map((p) => p.stats[0].rating)).map(
       (bin) => ({
-        [getDivision(bin.x0)]: bin.length,
+        [(playerClass === "mpo" ? getDivision : getFemaleDivision)(bin.x0)]:
+          bin.length,
         label: `${bin.x0}-${bin.x1 - 1}`,
         x0: bin.x0,
         x1: bin.x1 - 1,
@@ -169,6 +185,7 @@ export default function Players() {
         county={county}
         countyCode={countyCode}
         municipality={municipality}
+        playerClass={playerClass}
       />
     );
   }
@@ -285,57 +302,59 @@ export default function Players() {
           flexWrap: "wrap",
         }}
       >
-        {Object.keys(divisions).map((d, idx) => {
-          const div = divisions[d];
-          return (
-            <Box
-              key={idx}
-              sx={{
-                m: 0.2,
-                display: "flex",
-                alignItems: "center",
-                fontSize: {
-                  xs: "0.6rem",
-                  sm: "0.7rem",
-                },
-                mr: 1,
-              }}
-            >
+        {Object.keys(divisions)
+          .filter((d) => divisions[d].playerClass === playerClass)
+          .map((d, idx) => {
+            const div = divisions[d];
+            return (
               <Box
+                key={idx}
                 sx={{
-                  borderRadius: "5px",
-                  display: "inline-flex",
-                  m: 0.3,
-                  height: "10px",
-                  width: "10px",
-                  bgcolor: div.color,
-                  mr: {
-                    xs: 0.5,
-                    sm: 1,
-                  },
-                }}
-              ></Box>
-              <Box
-                sx={{
+                  m: 0.2,
                   display: "flex",
-                  flexFlow: "column",
                   alignItems: "center",
+                  fontSize: {
+                    xs: "0.6rem",
+                    sm: "0.7rem",
+                  },
+                  mr: 1,
                 }}
               >
-                <Box>{div.name}</Box>
                 <Box
                   sx={{
-                    color: "text.disabled",
+                    borderRadius: "5px",
+                    display: "inline-flex",
+                    m: 0.3,
+                    height: "10px",
+                    width: "10px",
+                    bgcolor: div.color,
+                    mr: {
+                      xs: 0.5,
+                      sm: 1,
+                    },
+                  }}
+                ></Box>
+                <Box
+                  sx={{
+                    display: "flex",
+                    flexFlow: "column",
+                    alignItems: "center",
                   }}
                 >
-                  {div.prefix && div.cond}
-                  {div.limit}
-                  {!div.prefix && div.cond}
+                  <Box>{div.name}</Box>
+                  <Box
+                    sx={{
+                      color: "text.disabled",
+                    }}
+                  >
+                    {div.prefix && div.cond}
+                    {div.limit}
+                    {!div.prefix && div.cond}
+                  </Box>
                 </Box>
               </Box>
-            </Box>
-          );
-        })}
+            );
+          })}
       </Box>
       <Box>
         <AutoSizer disableHeight>

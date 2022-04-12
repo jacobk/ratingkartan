@@ -47,6 +47,7 @@ export const divisions = {
     cond: "<",
     limit: 850,
     prefix: true,
+    playerClass: "mpo",
   },
   recreational: {
     name: "Recreational",
@@ -54,6 +55,7 @@ export const divisions = {
     color: "#785EF0",
     cond: "+",
     limit: 850,
+    playerClass: "mpo",
   },
   intermediate: {
     name: "Intermediate",
@@ -61,6 +63,7 @@ export const divisions = {
     color: "#DC267F",
     cond: "+",
     limit: 900,
+    playerClass: "mpo",
   },
   advanced: {
     name: "Advanced",
@@ -68,6 +71,7 @@ export const divisions = {
     color: "#FE6100",
     cond: "+",
     limit: 935,
+    playerClass: "mpo",
   },
   pro: {
     name: "Pro",
@@ -75,23 +79,83 @@ export const divisions = {
     color: "#FFB000",
     cond: "+",
     limit: 970,
+    playerClass: "mpo",
+  },
+  femaleNovice: {
+    name: "Female Novice",
+    code: "MA4",
+    color: "#648FFF",
+    cond: "<",
+    limit: 725,
+    prefix: true,
+    playerClass: "fpo",
+  },
+  femaleRecreational: {
+    name: "Female Recreational",
+    code: "MA3",
+    color: "#785EF0",
+    cond: "+",
+    limit: 725,
+    playerClass: "fpo",
+  },
+  femaleIntermediate: {
+    name: "Female Intermediate",
+    code: "MA2",
+    color: "#DC267F",
+    cond: "+",
+    limit: 775,
+    playerClass: "fpo",
+  },
+  femaleAdvanced: {
+    name: "Female Advanced",
+    code: "MA1",
+    color: "#FE6100",
+    cond: "+",
+    limit: 825,
+    playerClass: "fpo",
+  },
+  femalePro: {
+    name: "Female Pro",
+    code: "MPO",
+    color: "#FFB000",
+    cond: "+",
+    limit: 925,
+    playerClass: "fpo",
   },
 };
 
-export function getDivision(rating) {
-  if (rating < 850) {
-    return divisions.novice;
+export function getDivision(rating, playerClass) {
+  if (playerClass === "mpo") {
+    if (rating < 850) {
+      return divisions.novice;
+    }
+    if (rating < 900) {
+      return divisions.recreational;
+    }
+    if (rating < 935) {
+      return divisions.intermediate;
+    }
+    if (rating < 970) {
+      return divisions.advanced;
+    }
+    return divisions.pro;
   }
-  if (rating < 900) {
-    return divisions.recreational;
+
+  if (playerClass === "fpo") {
+    if (rating < 725) {
+      return divisions.femaleNovice;
+    }
+    if (rating < 775) {
+      return divisions.femaleRecreational;
+    }
+    if (rating < 825) {
+      return divisions.femaleIntermediate;
+    }
+    if (rating < 925) {
+      return divisions.femaleAdvanced;
+    }
+    return divisions.femalePro;
   }
-  if (rating < 935) {
-    return divisions.intermediate;
-  }
-  if (rating < 970) {
-    return divisions.advanced;
-  }
-  return divisions.pro;
 }
 
 export const statsByMunicipality = byMunicipality;

@@ -43,7 +43,7 @@ function Diff({ value, color }) {
   );
 }
 
-const StatBox = ({ stat, diff, variant, sx, onClick }) => {
+const StatBox = ({ stat, diff, variant, sx, onClick, playerClass }) => {
   const isRating = variant === "rating";
   return (
     <Paper
@@ -83,7 +83,7 @@ const StatBox = ({ stat, diff, variant, sx, onClick }) => {
         fontFamily: "monospace",
         fontWeight: "bold",
         color: { rating: "white", ranking: "initial" }[variant],
-        bgcolor: isRating ? getDivision(stat).color : "initial",
+        bgcolor: isRating ? getDivision(stat, playerClass).color : "initial",
         cursor: onClick ? "pointer" : "initial",
         ...sx,
       }}
@@ -110,6 +110,7 @@ function PlayerRow({
   county,
   countyCode,
   municipality,
+  playerClass,
 }) {
   const ratingMom = mom ? mom.rating : "";
   const [searchParams, setSearchParams] = useSearchParams();
@@ -251,6 +252,7 @@ function PlayerRow({
             searchParams.append("terms", rating.toString());
             setSearchParams(searchParams);
           }}
+          playerClass={playerClass}
         />
         <StatBox
           stat={`SE-${rankingTie ? "T" : ""}${ranking}`}
